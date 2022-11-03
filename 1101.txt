@@ -17,11 +17,11 @@ KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
 KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 KBS2,http://han.ddkdxmkj.com/api/kbs.php?id=2
 KBS2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
 SBS,http://106.246.182.11:9981/stream/channelid/115
 SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,https://kr-streams.onrender.com/scraper?channel=176
-SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
 SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
 SBS,http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
@@ -62,25 +62,28 @@ TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,https://kr-streams.onrender.com/scraper?channel=280
 TVN,https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
-TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
+TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
+TV Chosun,http://221.148.26.130:9981/stream/channelid/77
+TV Chosun,http://106.246.182.11:9981/stream/channelid/90
 TV Chosun,http://220.118.153.181:9981/stream/channelid/37
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,https://kr-streams.onrender.com/scraper?channel=276
 TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
-TV Chosun,http://221.148.26.130:9981/stream/channelid/77
 TV Chosun,http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
 TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
-JTBC,https://kr-streams.onrender.com/scraper?channel=168
+JTBC,http://106.246.182.11:9981/stream/channelid/84
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 JTBC,https://kr-streams.onrender.com/scraper?channel=273
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+JTBC,https://kr-streams.onrender.com/scraper?channel=168
 JTBC,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
 JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
 MBC DRAMA,http://106.246.182.11:9981/stream/channelid/30
+SBS PLUS,http://106.246.182.11:9981/stream/channelid/32
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS PLUS,http://itskoi.dothome.co.kr/sbs.php?id=S03
@@ -197,6 +200,7 @@ MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800
 MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
 MBC-1,https://kr-streams.onrender.com/scraper?channel=172
 MBC-1,http://mytv.dothome.co.kr/ch/public/21.php
+MBC-2,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 JTBC2,http://106.246.182.11:9981/stream/channelid/20
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
@@ -352,7 +356,6 @@ W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playli
 GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 GS My Shop,https://kr-streams.onrender.com/scraper?channel=444
 GS Shop,GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-http://119.197.107.139:9981/stream/channelid/36
 GS Shop,https://kr-streams.onrender.com/scraper?channel=439
 CJONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJONSTYLE,http://119.197.107.139:9981/stream/channelid/37
