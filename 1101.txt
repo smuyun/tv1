@@ -58,8 +58,8 @@ Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,https://allanf181.github.io/adaptive-streams/streams/kr/YonhapNewsTV.m3u8
-YTN,http://106.246.182.11:9981/stream/channelid/57
 YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
+YTN,http://106.246.182.11:9981/stream/channelid/57
 YTN,http://mytv.dothome.co.kr/ch/catv/215.php
 YTN,http://nettvpro.live/hls/naver.php?id=3074734
 YTN,http://ye23.win/iptv/korea2021.php?id=ytn
