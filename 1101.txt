@@ -53,10 +53,10 @@ JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,https://kr-streams.onrender.com/scraper?channel=168
 JTBC,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
 JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
+Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://106.246.182.11:9981/stream/channelid/56
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
-Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,https://allanf181.github.io/adaptive-streams/streams/kr/YonhapNewsTV.m3u8
 YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
