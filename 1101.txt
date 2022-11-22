@@ -21,7 +21,6 @@ SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
 SBS,http://106.246.182.11:9981/stream/channelid/115
-SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,https://kr-streams.onrender.com/scraper?channel=176
 SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
 SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
@@ -78,9 +77,9 @@ TVN,https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
+TV Chosun,http://220.118.153.181:9981/stream/channelid/37
 TV Chosun,http://221.148.26.130:9981/stream/channelid/77
 TV Chosun,http://106.246.182.11:9981/stream/channelid/90
-TV Chosun,http://220.118.153.181:9981/stream/channelid/37
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,https://kr-streams.onrender.com/scraper?channel=276
 TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
@@ -111,12 +110,12 @@ KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
+Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
 Channel A,http://hls.ye23.vip/hk/Channel.php
 Channel A,https://kr-streams.onrender.com/scraper?channel=275
 Channel A,https://kr-streams.onrender.com/scraper?channel=261
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,http://mytv.dothome.co.kr/ch/catv/133.php
-Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
@@ -151,6 +150,7 @@ Mnet,http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 inet,mitv://ns1.hellotvvod.com:9906/975b4e2cac9d41ef94e86983464612e8
 inet,mitv://ns2.hellotvvod.com:9906/7d8f385ab9fd42f6b77b907ada6e3553
 inet,http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
+GM,http://221.148.26.130:9981/stream/channelid/26
 MBC Music,http://106.246.182.11:9981/stream/channelid/19
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 KBS JOY,http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
@@ -206,6 +206,7 @@ JTBC2,http://106.246.182.11:9981/stream/channelid/20
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
 JTBC2,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
+JTBC4,http://221.148.26.130:9981/stream/channelid/29
 JTBC4,https://kr-streams.onrender.com/scraper?channel=523
 JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
 JTBC4,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
@@ -253,6 +254,7 @@ ONE,http://210.210.155.35/uq2663/h/h143/02.m3u8?checkedby:iptvcat.net
 AsiaN,https://kr-streams.onrender.com/scraper?channel=215
 AsiaN,http://mytv.dothome.co.kr/ch/catv/235.php
 AsiaN,https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
+ChannelChina,http://221.148.26.130:9981/stream/channelid/28
 ChannelChina,https://kr-streams.onrender.com/scraper?channel=458
 ChannelChina,http://mytv.dothome.co.kr/ch/catv/229.php
 ChannelChina,https://allanf181.github.io/adaptive-streams/streams/kr/ChannelChina.m3u8
