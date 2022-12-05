@@ -88,6 +88,7 @@ TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 YTN 2,https://kr-streams.onrender.com/scraper?channel=254
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
+NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
 MBC DRAMA,http://106.246.182.11:9981/stream/channelid/30
 SBS PLUS,http://106.246.182.11:9981/stream/channelid/32
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
