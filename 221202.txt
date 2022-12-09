@@ -31,6 +31,16 @@
 {"key":"mtv_pc_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_奇优影院","name":"切片┃奇优影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-奇优影院.json"},
 {"key":"mtv_xp_克拉影视","name":"切片┃克拉影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-克拉影视.json"},
+{ 			
+        "key": "csp_biubiu_voflix", 	
+	    "name": "🌀voflix", 	
+	    "type": 3, 		
+	    "api": "csp_XBiubiu", 		
+	    "searchable": 1, 		
+	    "quickSearch": 1, 	
+	    "filterable": 0, 	
+	    "ext": "https://agit.ai/nb/kls/raw/branch/mao/xp/voflix.json" 
+    }, 
     {
       "key": "csp_Bd",
       "name": "📯哔嘀影视",
@@ -79,7 +89,7 @@
       "quickSearch": 1,
       "searchable": 1
     }, 
-{
+    {
       "key": "KanSJ_spider",
       "name": "🛰️看视界",
       "api": "csp_KanSJ",
@@ -89,7 +99,7 @@
       "searchable": 1,
       "ext": ""
     }, 
-{
+    {
       "key": "小苹果",
       "name": "🍎小苹果",
       "type": 3,
@@ -99,7 +109,7 @@
       "filterable": 1
     }, 
 {"key": "csp_Alist","name": "Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/fenwe/TVBox/raw/branch/master/sub/alist.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/Tangrenjie.jar"},
-     {
+    {
       "key": "csp_Wmkk",
       "name": "👁️完美看看",
       "api": "csp_Wmkk",
@@ -108,7 +118,7 @@
       "quickSearch": 1,
       "searchable": 1
     }, 
-{
+    {
       "key": "Ikan",
       "name": "💘爱看",
       "type": 3,
@@ -117,7 +127,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key" : "csp_XYQBiu_凌云韩国",
       "name" : "🍱凌云韩国",
       "type" : 3,
@@ -153,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key": "csp_hbys",
       "name": "🌐简影",
       "api": "csp_JianYing",
@@ -174,7 +184,7 @@
       "filterable": 1,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
-{
+    {
       "key": "csp_DiDuan",
       "name": "⤵️低端影视",
       "type": 3,
@@ -183,7 +193,7 @@
       "quickSearch": 1,
       "filterable": 0
     }, 
-{
+    {
       "key": "神马影院",
       "name": "🐎神马影院",
       "type": 3,
@@ -192,7 +202,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key": "csp_剧荒",
       "name": "🎉剧荒（SP）",
       "type": 3,
@@ -201,7 +211,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key": "csp_LibVio",
       "name": "✨LibVio（SP）",
       "type": 3,
@@ -219,7 +229,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key": "csp_Cokemv",
       "name": "🐜Cokemv（SP）",
       "type": 3,
@@ -228,7 +238,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key": "csp_Mjxq",
       "name": "🦋美剧星球（SP）",
       "type": 3,
@@ -255,7 +265,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
+    {
       "key": "293视频",
       "name": "🎟293视频",
       "type": 3,
@@ -293,7 +303,7 @@
 	       "filterable":1,
       "ext":"https://agit.ai/n/b/raw/branch/a/b/%e6%bc%94%e5%94%b1%e4%bc%9a.php"
      }, 
-{
+    {
       "key": "csp_CZSPP",
       "name": "🏭厂长资源",
       "type": 3,
@@ -302,40 +312,7 @@
       "quickSearch": 1,
       "filterable": 0
     }, 
-{
-      "key":"csp_AppYsV2",
-      "name": "🍹优众影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
-	{
-      "key": "csp_LibVio",
-      "name": "👐LibVio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    }, 
-{
-      "key": "csp_Auete",
-      "name": "🐼Auete",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }, 
-{
-      "key": "csp_Cokemv",
-      "name": "⛲Cokemv",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }, 
-{
+    {
       "key": "3EDY",
       "name": "☘️3EDY(EXO)",
       "type": 3,
@@ -373,14 +350,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/nb/kls/raw/branch/mao/xb/ysgc2.json"
-    }, 
-{
-      "key": "诺讯资源",
-      "name": "📌诺讯资源(官)",
-      "type": 1,
-      "api": "http://caiji.nxflv.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
     }, 
 {
       "key": "M3U8资源",
@@ -430,7 +399,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/nb/kls/raw/branch/mao/xb/kuqimv.json"
     }, 
-{
+    {
       "key": "csp_xpath_naifeiorg",
       "name": "🀄️奈飞中文",
       "type": 3,
@@ -547,16 +516,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/nb/kls/raw/branch/mao/xb/cupfox.json"
-    }, 
-{ 			
-        "key": "csp_biubiu_voflix", 	
-	    "name": "🌀voflix", 	
-	    "type": 3, 		
-	    "api": "csp_XBiubiu", 		
-	    "searchable": 1, 		
-	    "quickSearch": 1, 	
-	    "filterable": 0, 	
-	    "ext": "https://agit.ai/nb/kls/raw/branch/mao/xp/voflix.json" 
     }, 
 {
       "key": "csp_biubiu_风车动漫",
