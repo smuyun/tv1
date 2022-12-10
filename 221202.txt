@@ -31,6 +31,18 @@
 {"key":"mtv_pc_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_xp_奇优影院","name":"切片┃奇优影院","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-奇优影院.json"},
 {"key":"mtv_xp_克拉影视","name":"切片┃克拉影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://111.67.196.181/xpath/太陽-克拉影视.json"},
+{
+      "key": "Yanet",
+      "name": "🐬鸭奈飞",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "a369b1f623fe86605f1b029f0cf66349",
+      "jar": "http://52bsj.vip:81/api/v3/file/get/61625/cs.jar?sign=bRzGWw4pD0b6L063rLkEWTQsRD2B6XDQKlHEuAeZm0o%3D%3A0"
+    },
+
 { 			
         "key": "csp_biubiu_voflix", 	
 	    "name": "🌀voflix", 	
