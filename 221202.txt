@@ -42,7 +42,6 @@
       "ext": "a369b1f623fe86605f1b029f0cf66349",
       "jar": "http://52bsj.vip:81/api/v3/file/get/61625/cs.jar?sign=bRzGWw4pD0b6L063rLkEWTQsRD2B6XDQKlHEuAeZm0o%3D%3A0"
     },
-
 { 			
         "key": "csp_biubiu_voflix", 	
 	    "name": "🌀voflix", 	
