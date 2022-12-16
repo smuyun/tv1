@@ -1230,47 +1230,12 @@
     {
          "key":"csp_appysv2_天空影视〔TV〕",           "name":"✈️天空影视", 
          "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.tkys.tv/api.php/iptv/vod/"},
-    {
-         "key":"csp_appysv2_芒迅影视〔TV〕",           "name":"🚀芒迅影视",
-         "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.hdyangtv.com/api.php/iptv/vod/"},
-     {
-         "key":"csp_appysv2_独优影视〔TV〕",           "name":"🛴独优影视",
-         "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
-     {
-         "key":"csp_AppYsV2",
-         "name": "🚴‍♀️优众影视",
-         "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://121.205.88.178:8090/xgapp.php/v2/"},
-     {
-         "key":"csp_appysv2_萌蛋蛋〔APP〕",            "name":"🥚萌蛋蛋",
-         "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
      {
          "key":"csp_appysv2_万能影院〔APP〕",          "name":"🎊万能影院",
          "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-      {
-          "key":"csp_appysv2_mogai_api〔APP〕",        "name":"💕天诚影视",
-          "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/mogai_api.php/v1.vod"},
-       {
-          "key":"csp_appysv2_百淘影视〔APP〕",          "name":"🐼百淘影视",
-          "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.58g8.com/lvdou_api.php/v1.vod"},
-       {
-           "key":"csp_appysv2_渔渔影视〔APP〕",           "name":"🐠渔渔影视",
-           "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://luobo.yugenye.site/api.php/v1.vod"},
-       {
-           "key":"csp_appysv2_段友影视〔APP〕",          "name":"😼段友影视",
-           "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://js.66app.me/api.php/app/"},
         {
            "key":"csp_appysv2_淘剧社〔APP〕",             "name":"🐝淘剧社",
            "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.shuhai99.com/api.php/v1.vod"},
-         {
-            "key":"csp_appysv2_️美剧范〔APP〕",            "name":"️🐗美剧范",
-            "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
-          {
-            "key":"csp_appysv2_️瑞丰影视〔APP〕",           "name":"️🦉瑞丰影视",
-            "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.204.249.135:4433/ruifenglb_api.php/v1.vod"},
-           {
-             "key":"csp_appysv2_零刻影院〔APP〕",
-             "name":"🙊零刻影院",
-             "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.ling00.cn/api.php/v1.vod"},
            {
              "key":"csp_appysv2_群鑫影视〔APP〕",
              "name":"🐌群鑫影视",
