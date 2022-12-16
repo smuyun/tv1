@@ -44,9 +44,9 @@ MBN,http://mytv.dothome.co.kr/ch/catv/214.php
 MBN,mitv://ns1.hellotvvod.com:9906/d2aaca0733054ec4988124508a6d796f
 MBN,https://allanf181.github.io/adaptive-streams/streams/kr/MBN.m3u8
 MBN,mitv://ns1.hellotvvod.com:9906/08cc0efafde54be2a619898da5103781
-JTBC,http://106.246.182.11:9981/stream/channelid/84
-JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 JTBC,https://kr-streams.onrender.com/scraper?channel=273
+JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
+JTBC,http://106.246.182.11:9981/stream/channelid/84
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,https://kr-streams.onrender.com/scraper?channel=168
