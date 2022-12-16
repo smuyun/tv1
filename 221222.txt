@@ -673,6 +673,77 @@
       "searchable": 0,
       "quickSearch": 0
     },
+     {
+      "key": "18AV",
+      "name": "18AV",
+      "type": 3,
+      "api": "csp_Eighteen",
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "51smt4.xyz",
+      "name": "成人01",
+      "type": 1,
+      "api": "http://51smt4.xyz/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+  {
+      "key": "mgzyz1.com",
+      "name": "成人02",
+      "type": 1,
+      "api": "https://mgzyz1.com/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    }, 
+{
+      "key": "kkzy.me",
+      "name": "成人03",
+      "type": 1,
+      "api": "https://kkzy.me/api.php/provide/vod/",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "caiji.caomeiapi.com",
+      "name": "成人04",
+      "type": 1,
+      "api": "https://caiji.caomeiapi.com/inc/apijson_vod.php",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "xx55zyapi.com",
+      "name": "成人05",
+      "type": 0,
+      "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "52zyapi.com",
+      "name": "成人06",
+      "type": 0,
+      "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "jgczyapi.com",
+      "name": "成人07",
+      "type": 0,
+      "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml",
+      "quickSearch": 1,
+      "searchable": 1,
+      "filterable": 1
+    },
     {
       "key": "❤色窝资源",
       "name": "❤色窝资源",
