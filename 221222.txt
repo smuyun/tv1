@@ -744,6 +744,7 @@
       "searchable": 1,
       "filterable": 1
     },
+    {"key":"❤91麻豆","name":"❤91麻豆源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
     {
       "key": "❤色窝资源",
       "name": "❤色窝资源",
