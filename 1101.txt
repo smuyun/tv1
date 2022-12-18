@@ -52,11 +52,11 @@ JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,https://kr-streams.onrender.com/scraper?channel=168
 JTBC,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
 JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
+Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://106.246.182.11:9981/stream/channelid/56
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
-Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,https://allanf181.github.io/adaptive-streams/streams/kr/YonhapNewsTV.m3u8
 YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
 YTN,http://106.246.182.11:9981/stream/channelid/57
@@ -69,14 +69,34 @@ YTN,https://kr-streams.onrender.com/scraper?channel=211
 YTN,https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 YTN,http://221.148.26.130:9981/stream/channelid/31
-TVN,http://221.148.26.130:9981/stream/channelid/78
 TVN,https://kr-streams.onrender.com/scraper?channel=229
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
+TVN,http://221.148.26.130:9981/stream/channelid/78
 TVN,https://kr-streams.onrender.com/scraper?channel=280
 TVN,https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
+Channel A,https://kr-streams.onrender.com/scraper?channel=261
+Channel A,http://www.hwado.net/webtv/catv/52.php
+Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
+Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
+Channel A,http://hls.ye23.vip/hk/Channel.php
+Channel A,https://kr-streams.onrender.com/scraper?channel=275
+Channel A,http://mytv.dothome.co.kr/ch/catv/133.php
+Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
+Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+KoreaTV,http://han.ddkdxmkj.com/api/han123.php?id=9
+KoreaTV,http://ye23.win/iptv/korea2021.php?id=korea
+KoreaTV,http://8.ykwlm.sinaapp.com/han3.php?id=2
+KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
+KCTV,http://ye23.win/iptv/korea2021.php?id=Channela
+KCTV,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 TV Chosun,http://220.118.153.181:9981/stream/channelid/37
 TV Chosun,http://221.148.26.130:9981/stream/channelid/77
 TV Chosun,http://106.246.182.11:9981/stream/channelid/90
@@ -111,26 +131,6 @@ KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
-Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
-Channel A,http://hls.ye23.vip/hk/Channel.php
-Channel A,https://kr-streams.onrender.com/scraper?channel=275
-Channel A,https://kr-streams.onrender.com/scraper?channel=261
-Channel A,http://www.hwado.net/webtv/catv/52.php
-Channel A,http://mytv.dothome.co.kr/ch/catv/133.php
-Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
-Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
-Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
-KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-KoreaTV,http://han.ddkdxmkj.com/api/han123.php?id=9
-KoreaTV,http://ye23.win/iptv/korea2021.php?id=korea
-KoreaTV,http://8.ykwlm.sinaapp.com/han3.php?id=2
-KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
-KCTV,http://ye23.win/iptv/korea2021.php?id=Channela
-KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-KCTV,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 OCN,http://193.42.99.130:23405/OCN/playlist.m3u8
 OCN,http://mytv.dothome.co.kr/ch/catv/234.php
 OCN,http://51.81.66.195:1935/krtv/ocn_540/playlist.m3u8
