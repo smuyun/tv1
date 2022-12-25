@@ -8,7 +8,7 @@
 {"key":"收藏","title":"收藏","pic":"https://pic.imgdb.cn/item/62fc35af16f2c2beb14e184c.png"},
 {"key":"推送","title":"推送","pic":"https://pic.imgdb.cn/item/62fc363716f2c2beb14e400f.png"}
 ],
-{"zhuyejiekou": [
+"zhuyejiekou": [
 {"name":"VIP采集","url":"http://vipmv.cc/api.php/v1.vod"},
 {"name":"特狗影视","url":"https://www.tegouys.com/xgapp.php/v2/"},
 {"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
