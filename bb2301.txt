@@ -8,7 +8,7 @@
 {"key":"推送","title":"远程推送","pic":"https://agit.ai/smy/tv/raw/branch/pic/TS.png"},
 {"key": "自选网页",
 "title": "经典轮播",
-"pic": "https://agit.ai/smy/tv/raw/branch/pic/JD1.png",
+"pic": "https://agit.ai/smy/tv/raw/branch/pic/JD.png",
 "custom": "ewoibmFtZSI6ICLova7mkq0iLAoiVXNlciI6ICLnqboiLAoidWEiOiJNb3ppbGxhLzUuMCAoTGludXg7IEFuZHJvaWQgMTA7IE1JIDgpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85Ni4wLjQ2NjQuMTA0IE1vYmlsZSBTYWZhcmkvNTM3LjM2IiwgCiJ1cmwiOiAiaHR0cHM6Ly93d3cuZG91eXUuY29tLyIsCiLnpoHnlKjmkJzntKIiOiAiMSIsCiLnm7TmjqXmkq3mlL4iOiAiMSIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMSIsCiLmqKrlm77mmL7npLoiOiAiMSIsCiJmZW5sZWkiOiAi5LiA6LW355yLJGdhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4LyIsCiJob3V6aHVpIjogIiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICJcInR5cGVcIjoxIiwKImppZXF1c2h1enVob3UiOiAiXCJyczE2XCIiLAoidHVwaWFucWlhbiI6ICJcInJzMVwiOlwiIiwKInR1cGlhbmhvdSI6ICJcIiIsCiJiaWFvdGlxaWFuIjogIlwicm5cIjpcIiIsCiJiaWFvdGlob3UiOiAiXCIiLAoibGlhbmppZXFpYW4iOiAiXCJyaWRcIjoiLAoibGlhbmppZWhvdSI6ICIsXCIiLAoibGpxaWFuemh1aSI6ICJodHRwczovL20uZG91eXUuY29tLyIsCiJmdWJpYW90aXFpYW4iOiAiXCJublwiOlwiIiwKImZ1Ymlhb3RpaG91IjogIlwiIn0="},
 {"key": "自选网页",
 "title": "戏曲",
