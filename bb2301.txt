@@ -1,7 +1,7 @@
 {"Home": [
 {"key":"APP","title":"APP","pic":"https://agit.ai/smy/tv/raw/branch/pic/APP.png"},
 {"key":"网页","title":"网页","pic":"https://agit.ai/smy/tv/raw/branch/pic/WY.png"},
-{"key":"采集","title":"采集","pic":"https://agit.ai/smy/tv/raw/branch/pic/CJ.png"},
+{"key":"采集","title":"采集","pic":"https://agit.ai/smy/tv/raw/branch/pic/CJ1.png"},
 {"key":"直播","title":"直播","pic":"https://agit.ai/smy/tv/raw/branch/pic/ZB.png"},
 {"key":"历史","title":"历史","pic":"https://agit.ai/smy/tv/raw/branch/pic/LS.png"},
 {"key":"收藏","title":"收藏","pic":"https://agit.ai/smy/tv/raw/branch/pic/SC.png"},
