@@ -79,6 +79,7 @@
 ],
 
 "beiyongjiexi": [
+{"name":"备解0","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"备解1","url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"备解2", "url": "https://jx.xmflv.com/?url="},
 {"name":"备解3","url":"https://jx.iztyy.com/svip/?url="},
