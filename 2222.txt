@@ -31,6 +31,21 @@
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
 {
+      "key": "csp_xb_lez",
+      "name": "乐猪(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "homeUrl": "http://www.lezhutv.com/type/{cateId}-{datePg}.html",
+        "playlist":{
+          "sort":1
+        }
+      }
+    },
+{
 			"key": "Kuaikan",
 			"name": "👁️快看",
 			"type": 3,
