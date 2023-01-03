@@ -87,7 +87,6 @@ YTN,https://kr-streams.onrender.com/scraper?channel=211
 YTN,https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 YTN,http://221.148.26.130:9981/stream/channelid/31
-TVN,http://cdn-live-us74.cloudrsst.com/live/tvn_720/playlist.m3u8
 TVN,http://cdn-live-us74.cloudrsst.com/live/tvn_540/playlist.m3u8
 TVN,https://kr-streams.onrender.com/scraper?channel=229
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/index.m3u8
