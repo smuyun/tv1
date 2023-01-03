@@ -168,8 +168,8 @@ OCN,mitv://ns1.hellotvvod.com:9906/1121b6497a8f401ea185a9675d5c7a36
 OCN TH,http://193.42.99.130:23405/OCNTh/playlist.m3u8
 OCN Movies,mitv://ns1.hellotvvod.com:9906/46438bc1be674ccab104e6e1a27a3221
 OCN Movies,mitv://ns2.hellotvvod.com:9906/a87fa59b5c3948e59720d1d4545f6653
-Mnet,https://kr-streams.onrender.com/scraper?channel=285
 Mnet,http://cdn-live-us74.cloudrsst.com/live/mnet_540/playlist.m3u8
+Mnet,https://kr-streams.onrender.com/scraper?channel=285
 Mnet,http://mytv.dothome.co.kr/ch/catv/224.php
 Mnet,http://106.246.182.11:9981/stream/channelid/62
 Mnet,mitv://ns1.hellotvvod.com:9906/fbb41ba5e7a042048a89b85dc4dd3ca7
