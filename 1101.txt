@@ -138,6 +138,7 @@ KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
 KCTV,http://ye23.win/iptv/korea2021.php?id=Channela
 KCTV,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 YTN 2,https://kr-streams.onrender.com/scraper?channel=254
+NORTH CX,https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.com
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
 MBC DRAMA,http://106.246.182.11:9981/stream/channelid/30
