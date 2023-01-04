@@ -87,6 +87,7 @@ YTN,https://kr-streams.onrender.com/scraper?channel=211
 YTN,https://allanf181.github.io/adaptive-streams/streams/kr/YTN.m3u8
 YTN,http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
 YTN,http://221.148.26.130:9981/stream/channelid/31
+TVN,http://cdn-live-us74.cloudrsst.com/live/tvn_720/playlist.m3u8
 TVN,http://cdn-live-us74.cloudrsst.com/live/tvn_540/playlist.m3u8
 TVN,https://kr-streams.onrender.com/scraper?channel=229
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/index.m3u8
@@ -98,9 +99,11 @@ TVN,https://allanf181.github.io/adaptive-streams/streams/kr/tvN.m3u8
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
+TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
 TV Chosun,http://cdn-live-us74.cloudrsst.com/live/tvchosun_720/playlist.m3u8
 TV Chosun,http://cdn-live-us74.cloudrsst.com/live/tvchosun_540/playlist.m3u8
+TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun,http://220.118.153.181:9981/stream/channelid/37
 TV Chosun,http://221.148.26.130:9981/stream/channelid/77
 TV Chosun,http://106.246.182.11:9981/stream/channelid/90
@@ -108,6 +111,7 @@ TV Chosun,https://kr-streams.onrender.com/scraper?channel=276
 TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
+TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 Channel A,http://cdn-live-us74.cloudrsst.com/live/channela_720/playlist.m3u8
@@ -249,6 +253,7 @@ tvN SHOW,https://allanf181.github.io/adaptive-streams/streams/kr/tvNShow.m3u8
 tvN Story,http://mytv.dothome.co.kr/ch/catv/223.php
 tvN Story,https://kr-streams.onrender.com/scraper?channel=224
 tvN Story,https://allanf181.github.io/adaptive-streams/streams/kr/tvNStory.m3u8
+tvN Movies,http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 tvN Movies,http://210.210.155.37/dr9445/h/h21/index.m3u8
 tvN Movies,mitv://ns1.hellotvvod.com:9906/1c7ea21ac1b2413e9e1d5eaad3670f3f
 MBC every1,http://119.197.107.139:9981/stream/channelid/45
@@ -278,11 +283,13 @@ JTV SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 TBC SBS,http://221.157.125.239:1935/live/psike/playlist.m3u8
 UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 KNN SBS,http://220.95.92.160:9981/stream/channelid/1445999617
+ONE,http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
 ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
 ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941610
 ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941601
 ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941602
 ONE,http://210.210.155.35/uq2663/h/h143/02.m3u8?checkedby:iptvcat.net
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 AsiaN,https://kr-streams.onrender.com/scraper?channel=215
 AsiaN,http://mytv.dothome.co.kr/ch/catv/235.php
 AsiaN,https://allanf181.github.io/adaptive-streams/streams/kr/AsiaN.m3u8
@@ -327,6 +334,7 @@ PLAYY Healing Movie,http://mytv.dothome.co.kr/ch/catv/287.php
 ChunghwaTV,https://kr-streams.onrender.com/scraper?channel=230
 ChunghwaTV,http://mytv.dothome.co.kr/ch/catv/228.php
 ChunghwaTV,https://allanf181.github.io/adaptive-streams/streams/kr/ChunghwaTV.m3u8
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://ye23.win/iptv/korea2021.php?id=arirang_1
@@ -359,6 +367,7 @@ TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 TBS,http://8.ykwlm.sinaapp.com/han3.php?id=16
 TBS,http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
 Lifetime,http://line.premiumpowers.net:80/Manuel/1234567/941669
+Silver-itv,http://silveritv.kr:8080/hls/stream.m3u8
 Silver-itv,http://mytv.dothome.co.kr/ch/catv/57.php
 Silver-itv,http://m.silveritv.kr:8080/hls/stream.m3u8
 GCN,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
