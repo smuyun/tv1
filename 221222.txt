@@ -1356,7 +1356,7 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1101.txt"]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1102.txt"]}]}],
 
 //解码模式
 
