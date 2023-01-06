@@ -1,4 +1,4 @@
-HANGUO,#genre#
+🇰🇷HANGUO,#genre#
 KBS1,http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 KBS1,http://cdn-live-us74.cloudrsst.com/live/kbs1_720/playlist.m3u8
 KBS1,http://cdn-live-us74.cloudrsst.com/live/kbs1_540/playlist.m3u8
@@ -429,7 +429,7 @@ Shopping NT,http://106.246.182.11:9981/stream/channelid/58
 Shopping-1,https://kr-streams.onrender.com/scraper?channel=924
 HOME&SHOPPING,https://kr-streams.onrender.com/scraper?channel=460
 
-央视,#genre#
+🇨🇳央视,#genre#
 CCTV1,http://125.210.152.19:9120/live/hzgq-cctv1gq-h264.m3u8
 CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV1,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctv1/1300000/mnf.m3u8
@@ -549,7 +549,7 @@ CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$超清1080P#http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8?$超清1080P#http://111.20.35.103:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?$超清1080P#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8?$超清1080P
 
-卫视,#genre#
+🇨🇳卫视,#genre#
 深圳都市,http://gxfrg007.8800.org:8282/tsfile/live/1077_1.m3u8
 深圳都市,http://120.236.17.34:808/hls/19/index.m3u8
 深圳都市,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=szds
@@ -671,7 +671,7 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$超�
 三沙卫视,http://pull2.ssws.tv/live/SswsTV20210803.m3u8?$高清720P
 教育卫视,http://39.136.48.98:8089/PLTV/88888888/224/3221226049/index.m3u8?$超清1080P
 
-GANG AO,#genre#
+🇨🇳GANG AO,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://line.premiumpowers.net:80/Manuel/1234567/941626
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
@@ -764,7 +764,7 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
-4K频道,#genre#
+🇨🇳4K频道,#genre#
 CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
