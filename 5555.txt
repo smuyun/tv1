@@ -44,17 +44,6 @@
             "filterable": 1
         },
         {
-            "key":"奈菲影院",
-            "name":"奈菲影院",
-            "type":3,
-            "api":"csp_XBiubiu",
-            "playerType": 2,
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/奈菲影院.json"
-       },
-        {
             "key": "csp_AppTT",
             "name": "图图(爬虫)",
             "type": 3,
