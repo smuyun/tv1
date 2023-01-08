@@ -52,7 +52,7 @@
               "quickSearch":1,
               "searchable":1,
               "ext":"https://raw.iqiq.io/liu673cn/box/main/sub/MeowXB/奈菲影院.json"
-       },
+        },
         {
             "key": "csp_AppTT",
             "name": "图图(爬虫)",
