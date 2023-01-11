@@ -46,9 +46,9 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://cdn-live-us74.cloudrsst.com/live/mbn_720/playlist.m3u8
 MBN,http://cdn-live-us74.cloudrsst.com/live/mbn_540/playlist.m3u8
-MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,https://kr-streams.onrender.com/scraper?channel=274
 MBN,http://ye23.win/iptv/korea2021.php?id=MBN
@@ -74,9 +74,9 @@ Yonhap News TV,http://106.246.182.11:9981/stream/channelid/56
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
 Yonhap News TV,https://allanf181.github.io/adaptive-streams/streams/kr/YonhapNewsTV.m3u8
+YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
 YTN,http://cdn-live-us74.cloudrsst.com/live/ytn_720/playlist.m3u8
 YTN,http://cdn-live-us74.cloudrsst.com/live/ytn_540/playlist.m3u8
-YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
 YTN,http://106.246.182.11:9981/stream/channelid/57
 YTN,http://mytv.dothome.co.kr/ch/catv/215.php
 YTN,http://nettvpro.live/hls/naver.php?id=3074734
@@ -101,12 +101,12 @@ TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
+TV Chosun,http://106.246.182.11:9981/stream/channelid/90
 TV Chosun,http://cdn-live-us74.cloudrsst.com/live/tvchosun_720/playlist.m3u8
 TV Chosun,http://cdn-live-us74.cloudrsst.com/live/tvchosun_540/playlist.m3u8
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun,http://220.118.153.181:9981/stream/channelid/37
 TV Chosun,http://221.148.26.130:9981/stream/channelid/77
-TV Chosun,http://106.246.182.11:9981/stream/channelid/90
 TV Chosun,https://kr-streams.onrender.com/scraper?channel=276
 TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
