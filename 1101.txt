@@ -775,3 +775,21 @@ CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 1MV4K,http://136.243.42.146:1499
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+
+测试频道,#genre#
+KBS1,p2p://generationnexxxt.com:18806/9c120230e35243e0a4df55a623571729
+KBS2,p2p://generationnexxxt.com:18806/d869313cf6af4da796b0278c8c9a3196
+KBS Drama,p2p://generationnexxxt.com:18806/90f5cba41b364c1abae8ad9eee3c0f88
+KBS Joy,p2p://generationnexxxt.com:18806/85eccf7fea80432b96b2d4b3f29dac9a
+SBS,p2p://generationnexxxt.com:18806/d3ed638eb85b49abaec4681e51e110de
+SBS Biz,p2p://generationnexxxt.com:18806/d8f808781b134e3f855984df8212f26b
+JTBC,p2p://generationnexxxt.com:18806/0a81cbeaaa0b4cf1a8a7a13fbb1ed804
+EBS,p2p://generationnexxxt.com:18806/c1b110473cbe4a8783def2c5d9e9a55c
+YTN,p2p://generationnexxxt.com:18806/9c6bb99c37454e8193dfbff5b0abd8b5
+Mnet,p2p://generationnexxxt.com:18806/8c582b28649b4619b378fcdb7364439a
+tvN,p2p://generationnexxxt.com:18806/6142a0120e9f41a7be065183c156630e
+OCN,p2p://generationnexxxt.com:18806/712d3da177e043829e99a0e578633a27
+OCN Movies,p2p://generationnexxxt.com:18806/110888ecc35a414d8a7f64dd7be81878
+TV Chosun,p2p://generationnexxxt.com:18806/32e617d91b6c4b9aacf1d1d0944dd53f
+MBC,p2p://generationnexxxt.com:18806/59743283e22d476b8b780169af1d9d73
+MBN,p2p://generationnexxxt.com:18806/bbdf59172fab4fa49acbd2c3d6aa6fc7
