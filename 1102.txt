@@ -1049,6 +1049,7 @@ Eromania 4K,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/10049/index.m3u8
 DuckTV HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/18138/index.m3u8
 PROKOPTV XXX HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19401/index.m3u8
 SKY_HIGH_SEX_VR,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/19406/index.m3u8
+SKY_HIGH_SEX_VR,http://5052ce10.ucomist.net/iptv/TDUKETNZMEXB6M/19406/index.m3u8
 Extasy/LeoTV HD,http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 Vivid Red HD,http://109.200.130.123:7032/play/a00g
 PinkErotic 2,http://54.36.123.36:8080/PinkErotic2/index.m3u8
