@@ -783,6 +783,7 @@ CCTV 4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 
 🇪🇺环球_9988,#genre#
+K3,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6225/index.m3u8
 Brazzers HD,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6182/index.m3u8
 Brazzers TV Europe,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/910/index.m3u8
 Brazzers eXXtra,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/6181/index.m3u8
