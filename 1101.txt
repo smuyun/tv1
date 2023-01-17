@@ -30,6 +30,7 @@ SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
 SBS,http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 SBS,http://ye23.win/iptv/korea2021.php?id=SBS
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://8.ykwlm.sinaapp.com/han3.php?id=10
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
 MBC,p2p://generationnexxxt.com:18806/59743283e22d476b8b780169af1d9d73
 MBC,http://mytv.dothome.co.kr/ch/public/21.php
