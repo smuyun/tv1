@@ -24,6 +24,7 @@ SBS,http://1.245.74.5:1935/live/tv/.m3u8
 SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14
 SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 SBS,http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
+SBS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,p2p://generationnexxxt.com:18806/d3ed638eb85b49abaec4681e51e110de
@@ -34,10 +35,12 @@ SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
 SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
 SBS,http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 SBS,http://ye23.win/iptv/korea2021.php?id=SBS
+MBC,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M17&q=default
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC,http://8.ykwlm.sinaapp.com/han3.php?id=10
 MBC,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
+MBC,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M16&q=default
 MBC,p2p://generationnexxxt.com:18806/59743283e22d476b8b780169af1d9d73
 MBC,http://mytv.dothome.co.kr/ch/public/21.php
 MBC,http://www.hwado.net/webtv/public/21.php
@@ -45,9 +48,10 @@ MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
+MBN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2402&q=default
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://cdn-live-us74.cloudrsst.com/live/mbn_720/playlist.m3u8
 MBN,http://cdn-live-us74.cloudrsst.com/live/mbn_540/playlist.m3u8
-MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,https://kr-streams.onrender.com/scraper?channel=274
 MBN,http://ye23.win/iptv/korea2021.php?id=MBN
@@ -98,13 +102,13 @@ TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
-TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun,http://221.148.26.130:9981/stream/channelid/77
 TV Chosun,p2p://generationnexxxt.com:18806/32e617d91b6c4b9aacf1d1d0944dd53f
 TV Chosun,http://106.246.182.11:9981/stream/channelid/90
 TV Chosun,https://kr-streams.onrender.com/scraper?channel=276
 TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
+TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,http://51.81.66.195:1935/krtv/tvchosun_540/playlist.m3u8
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
@@ -120,6 +124,7 @@ Channel A,https://kr-streams.onrender.com/scraper?channel=275
 Channel A,http://mytv.dothome.co.kr/ch/catv/133.php
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
 Channel A,http://ye23.win/iptv/korea2021.php?id=Channel
+A PLUS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2502&q=default
 KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 KoreaTV,http://han.ddkdxmkj.com/api/han123.php?id=9
@@ -135,7 +140,10 @@ YTN 2,https://kr-streams.onrender.com/scraper?channel=254
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.com
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
+MBC ON,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M14&q=default
+MBC DRAMA,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=default
 MBC DRAMA,http://106.246.182.11:9981/stream/channelid/30
+SBS PLUS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S03&q=default
 SBS PLUS,http://106.246.182.11:9981/stream/channelid/32
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
@@ -158,6 +166,8 @@ KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
+TVA PLUS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F5601&q=default
+FUN TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=X02&q=default
 OCN,http://193.42.99.130:23405/OCN/playlist.m3u8
 OCN,http://mytv.dothome.co.kr/ch/catv/234.php
 OCN,p2p://generationnexxxt.com:18806/712d3da177e043829e99a0e578633a27
@@ -205,12 +215,15 @@ Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Kpop,http://ye23.win/iptv/sbs5.1.php?id=S20
 KMTV,https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 KMTV,https://fc411f09ac2840368cad3ceb953e0bc9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KMTV/playlist.m3u8
+SBS FUN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S04&q=default
 SBS FUN,http://han.ddkdxmkj.com/api/sbs.php?id=4
 SBS FUN,http://ye23.win/iptv/sbs5.1.php?id=S04
 SBS FUN,http://itskoi.dothome.co.kr/sbs.php?id=S04
+SBS BIZ,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S06&q=default
 SBS BIZ,http://han.ddkdxmkj.com/api/sbs.php?id=6
 SBS BIZ,p2p://generationnexxxt.com:18806/d8f808781b134e3f855984df8212f26b
 SBS BIZ,http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS MTV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S09&q=default
 SBS MTV,http://han.ddkdxmkj.com/api/sbs.php?id=9
 SBS MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
 SBS MTV,http://itskoi.dothome.co.kr/sbs.php?id=S09
