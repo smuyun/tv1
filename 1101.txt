@@ -117,7 +117,7 @@ TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 Channel A,http://www.hwado.net/webtv/catv/52.php
-Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2502&q=default
+Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
 Channel A,https://kr-streams.onrender.com/scraper?channel=261
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
@@ -385,6 +385,7 @@ TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
 TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
 TBS,http://tbs.hscdn.com/tbstvweb/tbstv/playlist.m3u8
 Lifetime,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5902&q=default
+smile plus,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F5602&q=default
 Lifetime,http://line.premiumpowers.net:80/Manuel/1234567/941669
 Silver-itv,http://silveritv.kr:8080/hls/stream.m3u8
 Silver-itv,http://mytv.dothome.co.kr/ch/catv/57.php
