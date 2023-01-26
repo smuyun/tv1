@@ -102,8 +102,7 @@ TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
-TV Chosun Live,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
-TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2603&q=default
+TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun,http://221.148.26.130:9981/stream/channelid/77
@@ -117,6 +116,7 @@ TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist
 TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+TV Chosun3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2603&q=default
 TV Chosun4,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2604&q=default
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
@@ -175,6 +175,7 @@ POLARIS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C6901&q
 TVA PLUS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F5601&q=default
 FUN TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=X02&q=default
 EDGE TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=X01&q=default
+WELike,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=default
 OCN,http://193.42.99.130:23405/OCN/playlist.m3u8
 OCN,http://mytv.dothome.co.kr/ch/catv/234.php
 OCN,p2p://generationnexxxt.com:18806/712d3da177e043829e99a0e578633a27
@@ -292,7 +293,7 @@ Mnet,http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 inet,http://cdn-live-us74.cloudrsst.com/live/inet_540/playlist.m3u8
 inet,mitv://ns2.hellotvvod.com:9906/7d8f385ab9fd42f6b77b907ada6e3553
 inet,http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
-JCN TV,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+K-STAR,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F6301&q=default
 KoreaEconomyTV,https://kr-streams.onrender.com/scraper?channel=408
 KoreaEconomyTV,https://apichvod19.seezntv.com/OTM/10480_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
@@ -360,6 +361,8 @@ PLAYY3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=de
 ChunghwaTV,https://kr-streams.onrender.com/scraper?channel=230
 ChunghwaTV,http://mytv.dothome.co.kr/ch/catv/228.php
 ChunghwaTV,https://allanf181.github.io/adaptive-streams/streams/kr/ChunghwaTV.m3u8
+INDIE FILM,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2601&q=default
+NATV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F3301&q=default
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
@@ -368,12 +371,12 @@ Arirang,http://ye23.win/iptv/korea2021.php?id=arirang_2
 YTN Science,https://kr-streams.onrender.com/scraper?channel=410
 YTN Science,http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 MTN-W,http://183.110.27.87/mtnlive/definst/720/playlist.m3u8
+MTN-W,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F4301&q=default
 MTN-W,http://fhs7087.bd-31.ktcdn.co.kr/mtnlive/_definst_/720/chunklist_w1050805790.m3u8
 MTN-W,https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
 MTN-W,http://183.110.27.87/mtnlive/720/playlist.m3u8
 MTN-W,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.net
 MTN-W,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-Indie Film,https://kr-streams.onrender.com/scraper?channel=818
 MyStream,http://ye23.win/iptv/korea2021.php?id=myStream
 TOMATO TV,https://kr-streams.onrender.com/scraper?channel=226
 NBS,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
@@ -410,6 +413,10 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.
 EBS+2,https://kr-streams.onrender.com/scraper?channel=243
 EBS E,https://kr-streams.onrender.com/scraper?channel=270
 EBS KIDS,https://kr-streams.onrender.com/scraper?channel=437
+儿童1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F1301&q=default
+儿童2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4402&q=default
+儿童3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C6802&q=default
+儿童4,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 ANIPLUS,https://kr-streams.onrender.com/scraper?channel=317
 ANIPLUS,https://kr-streams.onrender.com/scraper?channel=217
 ANIBOX,https://kr-streams.onrender.com/scraper?channel=436
@@ -426,6 +433,7 @@ NS Shop Plus,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8
 NS Shop Plus,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 NS Shop Plus,https://kr-streams.onrender.com/scraper?channel=461
 Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+SK stoa,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2701&q=default
 SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 Shinsegae TV Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=default
 Shinsegae TV Shopping,https://kr-streams.onrender.com/scraper?channel=462
@@ -445,11 +453,12 @@ CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 CJONSTYLE+,https://kr-streams.onrender.com/scraper?channel=517
 CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
 CJONSTYLE+,http://mytv.dothome.co.kr/ch/catv/92.php
+KT SHOPPING,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F1401&q=default
 KT SHOPPING,https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
 KT SHOPPING,https://kr-streams.onrender.com/scraper?channel=438
 KT SHOPPING,http://119.197.107.139:9981/stream/channelid/38
 KT SHOPPING,https://kr-streams.onrender.com/scraper?channel=259
-Hyundai Home Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=default
+Hyundai Home Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=default
 Hyundai Home Shopping Plus,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=default
 Hyundai Home Shopping Plus,https://kr-streams.onrender.com/scraper?channel=442
 Hyundai Home Shopping Plus,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
@@ -465,8 +474,6 @@ Shopping NT,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C49
 Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 Shopping NT,http://106.246.182.11:9981/stream/channelid/58
 Shopping-1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5601&q=default
-Shopping-2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=default
-Shopping-3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8401&q=default
 HOME&SHOPPING,https://kr-streams.onrender.com/scraper?channel=460
 
 🇨🇳央视,#genre#
@@ -601,12 +608,11 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$超�
 延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
+延边1合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+延边1合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 延边2台,http://live.ybtvyun.com/video/s10006-225599f0e2ce/index.m3u8
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
-延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
-长白朝语,http://player2.juyun.tv/tv/11344136.m3u8?zjild
+延边2合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+延边2合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
 北京卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
