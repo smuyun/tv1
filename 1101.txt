@@ -608,11 +608,11 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8?$超�
 延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
-延边1合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
-延边1合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
+延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
+延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 延边2台,http://live.ybtvyun.com/video/s10006-225599f0e2ce/index.m3u8
-延边2合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
-延边2合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
+延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
 北京卫视,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
