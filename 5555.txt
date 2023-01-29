@@ -44,16 +44,6 @@
             "filterable": 1
         },
         {
-            "key": "dr_酷云77",
-            "name": "酷云77(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://101.34.67.237/js/酷云77.js"
-        },
-        {
             "key": "csp_AppTT",
             "name": "图图(爬虫)",
             "type": 3,
@@ -73,16 +63,6 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-        {
-            "key": "dr_布雷蓝光",
-            "name": "布雷蓝光(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/布雷蓝光.js"
-        },
         {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
         {
             "key": "csp_Czsapp",
@@ -93,36 +73,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "dr_新视觉影视",
-            "name": "新视觉影视(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/新视觉影视.js"
-        },
-        {
-            "key": "dr_小猫咪",
-            "name": "小猫咪(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/小猫咪.js"
-        },
-        {
-            "key": "dr_乐猪TV",
-            "name": "乐猪TV(drpy)",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "http://101.34.67.237/js/乐猪TV.js"
         },
         {
             "key": "🐷",
