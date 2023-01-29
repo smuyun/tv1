@@ -75,6 +75,15 @@
             "filterable": 1
         },
         {
+      "key": "csp_BuLei",
+      "name": "⚡️布蕾影视",
+      "type": 3,
+      "api": "csp_BuLei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+        },
+        {
             "key": "🐷",
             "name": "乐猪(爬虫)",
             "type": 3,
