@@ -1,10 +1,11 @@
 🇰🇷HANGUO,#genre#
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
-KBS1,http://mytv.dothome.co.kr/ch/public/11.php
+KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=default
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS1,p2p://generationnexxxt.com:18806/9c120230e35243e0a4df55a623571729
+KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://han.ddkdxmkj.com/api/kbs.php?id=1
@@ -22,13 +23,16 @@ KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 KBS2,http://han.ddkdxmkj.com/api/kbs.php?id=2
 KBS2,http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
 SBS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default
+SBS,http://gg.gg/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do
 SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
 SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14
 SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 SBS,http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
+SBS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://222.109.117.27:9981/stream/channelid/2096368258
+SBS,p2p://generationnexxxt.com:18806/d3ed638eb85b49abaec4681e51e110de
 SBS,http://ye23.win/iptv/sbs5.1.php?id=S01
 SBS,http://106.246.182.11:9981/stream/channelid/115
 SBS,https://kr-streams.onrender.com/scraper?channel=176
@@ -36,13 +40,13 @@ SBS,http://han.ddkdxmkj.com/api/sbs.php?id=1
 SBS,http://itskoi.dothome.co.kr/sbs.php?id=S01
 SBS,http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 SBS,http://ye23.win/iptv/korea2021.php?id=SBS
-MBC,http://mytv.dothome.co.kr/ch/public/21.php
 MBC,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=default
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC,http://8.ykwlm.sinaapp.com/han3.php?id=10
 MBC,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
 MBC,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M16&q=default
+MBC,http://mytv.dothome.co.kr/ch/public/21.php
 MBC,http://www.hwado.net/webtv/public/21.php
 MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
@@ -172,8 +176,8 @@ FUN TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=X02&q=de
 EDGE TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=X01&q=default
 WELike,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=default
 OCN,http://193.42.99.130:23405/OCN/playlist.m3u8
-OCN,http://mytv.dothome.co.kr/ch/catv/234.php
-OCN,p2p://generationnexxxt.com:18806/712d3da177e043829e99a0e578633a27
+OCN,http://gg.gg:80/Ha_Noi_IPTV_17-OCN-Phim_truyen_Hang_dau
+OCN,http://221.167.205.241:9981/stream/channelid/33
 OCN,http://51.81.66.195:1935/krtv/ocn_540/playlist.m3u8
 OCN,http://121.136.153.200:9981/stream/channelid/35
 OCN,https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
@@ -217,11 +221,11 @@ SBS FUN,http://han.ddkdxmkj.com/api/sbs.php?id=4
 SBS FUN,http://ye23.win/iptv/sbs5.1.php?id=S04
 SBS FUN,http://itskoi.dothome.co.kr/sbs.php?id=S04
 SBS BIZ,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S06&q=default
-SBS BIZ,http://han.ddkdxmkj.com/api/sbs.php?id=6
-SBS BIZ,p2p://generationnexxxt.com:18806/d8f808781b134e3f855984df8212f26b
+SBS BIZ,http://gg.gg/Ha_Noi_IPTV_58-SBS_Biz-Kinh_te_Tai_chinh
+SBS BIZ,http://49.167.236.190:9981/stream/channelid/55
 SBS BIZ,http://ye23.win/iptv/sbs5.1.php?id=S06
 SBS MTV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S09&q=default
-SBS MTV,http://han.ddkdxmkj.com/api/sbs.php?id=9
+SBS MTV,http://gg.gg/Ha_Noi_IPTV_59-SBS_Music-Ca_nhac_The_gioi
 SBS MTV,http://ye23.win/iptv/sbs5.1.php?id=S09
 SBS MTV,http://itskoi.dothome.co.kr/sbs.php?id=S09
 SBS F!L,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S22&q=default
@@ -240,6 +244,9 @@ MBC济州,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 MBC庆南,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/playlist.m3u8
 MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
+MBC-1,http://mytv.dothome.co.kr/ch/public/21.php
+MBC-1,https://kr-streams.onrender.com/scraper?channel=172
+MBC-2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M17&q=default
 JTBC2,http://106.246.182.11:9981/stream/channelid/20
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
@@ -263,7 +270,7 @@ Mnet,mitv://ns1.hellotvvod.com:9906/fbb41ba5e7a042048a89b85dc4dd3ca7
 Mnet,https://allanf181.github.io/adaptive-streams/streams/kr/Mnet.m3u8
 Mnet,mitv://ns2.hellotvvod.com:9906/32c9b67dd4584ef6834a521f62fce6ce
 Mnet,http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
-inet,http://cdn-live-us74.cloudrsst.com/live/inet_540/playlist.m3u8
+inet,http://221.167.205.241:9981/stream/channelid/34
 inet,mitv://ns2.hellotvvod.com:9906/7d8f385ab9fd42f6b77b907ada6e3553
 inet,http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
 K-STAR,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F6301&q=default
@@ -315,14 +322,19 @@ Telenovela,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C870
 Telenovela,https://kr-streams.onrender.com/scraper?channel=216
 Telenovela,http://mytv.dothome.co.kr/ch/catv/289.php
 Telenovela,https://allanf181.github.io/adaptive-streams/streams/kr/Telenovela.m3u8
+THE MOVIE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2501&q=default
 PLAYY,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H01&q=default
 PLAYY2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H02&q=default
 PLAYY3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=default
+TVN Story,http://121.176.2.26:9981/stream/channelid/4
+TVN Story,https://cutt.ly/Ha_Noi_IPTV_21-tvN_Story-Cau_chuyen_Dac_sac
 ChunghwaTV,https://kr-streams.onrender.com/scraper?channel=230
 ChunghwaTV,http://mytv.dothome.co.kr/ch/catv/228.php
 ChunghwaTV,https://allanf181.github.io/adaptive-streams/streams/kr/ChunghwaTV.m3u8
 INDIE FILM,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2601&q=default
+IHQ,http://221.167.205.241:9981/stream/channelid/32
 NATV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F3301&q=default
+Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/.m3u8
@@ -330,6 +342,7 @@ MTN-W,http://183.110.27.87/mtnlive/definst/720/playlist.m3u8
 MTN-W,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F4301&q=default
 MTN-W,http://fhs7087.bd-31.ktcdn.co.kr/mtnlive/_definst_/720/chunklist_w1050805790.m3u8
 MTN-W,https://cdnlive.mtn.co.kr/mtnlive/_definst_/720/playlist.m3u8
+MTN-W,http://49.167.236.190:9981/stream/channelid/56
 MTN-W,http://183.110.27.87/mtnlive/720/playlist.m3u8
 MTN-W,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.net
 MTN-W,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
@@ -366,16 +379,16 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.
 儿童3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C6802&q=default
 儿童4,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 美妆,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C7301&q=default
-LUXURY,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/2072/index.m3u8
 NS Home Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8301&q=default
 NS Home Shopping,http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 NS Shop Plus,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8302&q=default
 NS Shop Plus,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
-NS Shop Plus,https://kr-streams.onrender.com/scraper?channel=461
+NS Shop Plus,http://49.167.236.190:9981/stream/channelid/57
 Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 SK stoa,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2701&q=default
 SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
 Shinsegae TV Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=default
+Shinsegae TV Shopping,https://epg.pw/stream/1efa82f44da1ecc72db1d8e3d4eed57114f828115e044385f912502b5e069333.m3u8
 Shinsegae TV Shopping,https://kr-streams.onrender.com/scraper?channel=462
 Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
 W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
