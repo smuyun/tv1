@@ -1147,7 +1147,7 @@
       "key":"*小处女资源",
       "name":"*小处女资源",
       "type":1,
-      "api":"http://xcncaiji.com/home/cjapi/812b4ba287f5ee0bc9d43bbf5bbe87fb/vod/xml",
+      "api":"http://xcncaiji.com/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
