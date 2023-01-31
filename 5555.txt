@@ -75,13 +75,21 @@
             "filterable": 1
         },
         {
-      "key": "csp_BuLei",
-      "name": "⚡️布蕾影视",
-      "type": 3,
-      "api": "csp_BuLei",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+            "key" : "py_lezhu",
+            "name" : "🐷乐猪影视 py",
+            "type" : 3,
+            "api" : "py_lezhu",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_lezhu.py"
+        },
+        {
+             "key":"csp_XBiu胖虎影视",
+             "name": "🐯胖虎", 
+             "type": 3, 
+             "api": "csp_XBiu",
+             "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
         },
         {
             "key": "🐷",
@@ -496,6 +504,12 @@
     {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
     {"name":"rxjx","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
     {"name":"lanlan","type":1,"url":"http://lanlan.ckflv.cn/?url=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}}
+    {"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
+    {"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+    {"name":"4K","url":"https://jx.4kdv.com/?url=", "showType":1},
+    {"name":"高速接口","url":"https://jsap.attakids.com/?url=","showType":3},
+    {"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=", "showType":3},
+    {"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
     ],
     "flags":[
 "youku",
