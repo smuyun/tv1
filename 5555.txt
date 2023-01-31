@@ -91,6 +91,7 @@
              "api": "csp_XBiu",
              "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
         },
+        {"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {
             "key": "🐷",
             "name": "乐猪(爬虫)",
