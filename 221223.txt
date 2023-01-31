@@ -1150,6 +1150,7 @@
       "api":"http://xcncaiji.com/home/cjapi/812b4ba287f5ee0bc9d43bbf5bbe87fb/vod/xml",
       "searchable": 0,
       "quickSearch": 0
+    },
     {
       "key": "*狼友资源",
       "name": "*狼友资源",
