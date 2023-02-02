@@ -92,11 +92,11 @@ TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
+TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,http://221.167.205.241:9981/stream/channelid/77
-TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2602&q=default
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
