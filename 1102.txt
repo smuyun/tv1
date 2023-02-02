@@ -80,9 +80,9 @@ YTN,http://nettvpro.live/hls/naver.php?id=3074734
 YTN,http://ye23.win/iptv/korea2021.php?id=ytn
 YTN,http://210.92.207.38:40001
 YTN,http://hls.ye23.vip/hk/ytn.php
+TVN,http://cdn.th11.jpnettv.live:80/live/tvn_540/playlist.m3u8
 TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://221.167.205.241:9981/stream/channelid/78
-TVN,http://cdn.th11.jpnettv.live:80/live/tvn_540/playlist.m3u8
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,https://kr-streams.onrender.com/scraper?channel=280
@@ -92,11 +92,11 @@ TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
 TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
-TV Chosun,http://221.167.205.241:9981/stream/channelid/77
-TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
+TV Chosun,http://221.167.205.241:9981/stream/channelid/77
+TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2602&q=default
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
