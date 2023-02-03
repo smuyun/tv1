@@ -307,6 +307,7 @@
             "filterable": 1,
             "ext": "https://dxawi.github.io/1/json/xx5.json"
         },
+        
 {"key":"push_agent","name":"推送|云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt","jar":"./JAR/cs.jar"}
 ],
 
