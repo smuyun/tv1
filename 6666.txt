@@ -132,7 +132,8 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},{
+{"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{
       "key": "天堂资源",
       "name": "📌天堂资源(官)",
       "type": 1,
