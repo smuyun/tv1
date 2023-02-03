@@ -1,4 +1,5 @@
 {
+"spider":"./JAR/Yoursmile.jar",
 
 "sites": [
 
