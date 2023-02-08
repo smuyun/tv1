@@ -32,6 +32,7 @@ SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 SBS,http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
 MBC,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=default
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
+MBC,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC,http://8.ykwlm.sinaapp.com/han3.php?id=10
 MBC,http://8.ykwlm.sinaapp.com/han3.php?id=23
