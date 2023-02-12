@@ -121,15 +121,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "MGTV",
-            "name": "芒果(解析)",
-            "type": 3,
-            "api": "csp_Mgtv",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
                 {
             "key":"drpy_js_奇珍异兽",
             "name":"🐨┃爱奇┃官源",
@@ -267,46 +258,10 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         },  
         {
-            "key": "Juhuang",
-            "name": "剧荒(爬虫)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Tkys",
-            "name": "天空影视(爬虫)",
-            "type": 3,
-            "api": "csp_Tkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Nkdy",
-            "name": "难看电影(爬虫)",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },    
-        {
             "key": "Dy1010",
             "name": "电影1010(爬虫)",
             "type": 3,
             "api": "csp_Dy1010",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "在线之家",
-            "name": "在线之家(爬虫)",
-            "type": 3,
-            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -442,24 +397,6 @@
             "quickSearch":1,
             "filterable":1,
             "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"
-        },
-        {
-            "key":"Zjdr",
-            "name":"🏃┃追剧┃达人",
-            "type":3,
-            "api":"csp_Zjdr",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
-        {
-            "key":"在线之家",
-            "name":"🎞┃在线┃之家",
-            "type":3,
-            "api":"csp_Zxzj",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
         {
             "key":"演唱会",
