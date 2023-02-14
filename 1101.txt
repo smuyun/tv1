@@ -318,6 +318,9 @@ THE MOVIE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2501
 PLAYY,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H01&q=default
 PLAYY2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H02&q=default
 PLAYY3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=default
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 TVN Story,http://121.176.2.26:9981/stream/channelid/4
 TVN Story,https://cutt.ly/Ha_Noi_IPTV_21-tvN_Story-Cau_chuyen_Dac_sac
 ChunghwaTV,https://kr-streams.onrender.com/scraper?channel=230
