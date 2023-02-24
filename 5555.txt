@@ -73,16 +73,6 @@
 {"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
 {"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
 {
-		"key": "py_bilivd",
-		"name": "🔥B站视频",
-		"type": 3,
-		"api": "py_bilivd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilivd.py"
-	},
-{
 		"key": "py_bilimd",
 		"name": "🔥B站影视",
 		"type": 3,
