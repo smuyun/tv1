@@ -82,6 +82,7 @@ YTN,http://ye23.win/iptv/korea2021.php?id=ytn
 YTN,http://210.92.207.38:40001
 YTN,http://hls.ye23.vip/hk/ytn.php
 TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
+TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 TVN,http://221.167.205.241:9981/stream/channelid/78
 TVN,http://cdn.th11.jpnettv.live:80/live/tvn_540/playlist.m3u8
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
@@ -129,6 +130,7 @@ KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
 KBS DRAMA,http://8.ykwlm.sinaapp.com/han3.php?id=2
 KBS DRAMA,http://zyj520ljzfjzfx.xyz/kbs.php?id=drama
 KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
+KBS W,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
@@ -169,7 +171,7 @@ OCN,http://121.136.153.200:9981/stream/channelid/35
 OCN,https://allanf181.github.io/adaptive-streams/streams/kr/OCN.m3u8
 OCN,mitv://ns1.hellotvvod.com:9906/1121b6497a8f401ea185a9675d5c7a36
 OCN TH,http://193.42.99.130:23405/OCNTh/playlist.m3u8
-OCN Movies,p2p://generationnexxxt.com:18806/110888ecc35a414d8a7f64dd7be81878
+OCN Movies,https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
 OCN Movies,mitv://ns1.hellotvvod.com:9906/46438bc1be674ccab104e6e1a27a3221
 OCN Movies,mitv://ns2.hellotvvod.com:9906/a87fa59b5c3948e59720d1d4545f6653
 MBC M,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=default
@@ -218,6 +220,11 @@ SBS F!L,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S22&q=d
 SBS F!L,https://kr-streams.onrender.com/scraper?channel=524
 SBS F!L,http://mytv.dothome.co.kr/ch/catv/284.php
 SBS F!L,https://allanf181.github.io/adaptive-streams/streams/kr/SBSFL.m3u8
+SBS TV 동물농장,https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS 강심장,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS 그것이 알고싶다,https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS 닥터스,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+SBS 동상이몽2 - 너는 내 운명,https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
 국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 국방TV,http://ye23.win/iptv/korea2021.php?id=dema
@@ -250,6 +257,7 @@ WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac
 소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
 국악방송国乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+Mnet,https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N
 Mnet,https://cutt.ly/Ha_Noi_IPTV_6-MNet-K-Pop_Chuyen_biet
 Mnet,http://49.167.236.190:9981/stream/channelid/49
 Mnet,http://cdn.th11.jpnettv.live/live/mnet_540/playlist.m3u8
@@ -323,6 +331,8 @@ PLAYY3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=de
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
+tvN Movies,http://210.210.155.35:80/dr9445/h/h21/02.m3u8
+tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
 TVN Story,http://121.176.2.26:9981/stream/channelid/4
 TVN Story,https://cutt.ly/Ha_Noi_IPTV_21-tvN_Story-Cau_chuyen_Dac_sac
 ChunghwaTV,https://kr-streams.onrender.com/scraper?channel=230
