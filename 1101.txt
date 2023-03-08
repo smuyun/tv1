@@ -105,6 +105,7 @@ TV Chosun2,http://106.246.182.11:9981/stream/channelid/102
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2603&q=default
+Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
 Channel A,https://kr-streams.onrender.com/scraper?channel=261
