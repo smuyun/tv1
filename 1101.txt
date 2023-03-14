@@ -66,7 +66,6 @@ JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
 Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default
-Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://106.246.182.11:9981/stream/channelid/56
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
@@ -89,10 +88,6 @@ TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,https://kr-streams.onrender.com/scraper?channel=280
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
-TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
-TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
-TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
-TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
 TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
@@ -254,6 +249,10 @@ JTBC4,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
 MBC every1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M03&q=default
 MBC every1,http://119.197.107.139:9981/stream/channelid/45
 MBC every1,mitv://ns1.hellotvvod.com:9906/aab3f63bd59549e495c57fbd99a5c259
+TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
+TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
+TVN ASIA,http://210.210.155.37/session/225946fc-8b30-11ed-bb95-8651b04c3c28/dr9445/h/h20/index.m3u8
+TVN ASIA,http://193.42.99.130:23405/tvN/playlist.m3u8
 WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
