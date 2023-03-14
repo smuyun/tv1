@@ -65,7 +65,6 @@ JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
 Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default
-Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://106.246.182.11:9981/stream/channelid/56
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
