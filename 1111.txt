@@ -350,9 +350,9 @@ UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 KNN SBS,http://220.95.92.160:9981/stream/channelid/1445999617
 ONE,http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
 ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
-ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941610
-ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941601
-ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941602
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941610
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941601
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
 ONE,http://210.210.155.35/uq2663/h/h143/02.m3u8?checkedby:iptvcat.net
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 AsiaN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=default
