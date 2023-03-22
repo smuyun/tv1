@@ -351,9 +351,9 @@ UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 KNN SBS,http://220.95.92.160:9981/stream/channelid/1445999617
 ONE,http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
 ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
-ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941610
-ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941601
-ONEhttp://line.premiumpowers.net:80/Manuel/1234567/941602
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941610
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941601
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
 ONE,http://210.210.155.35/uq2663/h/h143/02.m3u8?checkedby:iptvcat.net
 NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 AsiaN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=default
@@ -904,7 +904,6 @@ TVB无线新闻台,http://38.60.38.65:5588/wm2268.php?id=inews98_twn
 TVB无线新闻,http://23.237.10.66:16110
 TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
 TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8
-有线新闻http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV,http://38.60.38.65:5588/wm2268.php?id=9ae6d37d9a
