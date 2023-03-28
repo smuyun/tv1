@@ -913,6 +913,7 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
 🇨🇳高清频道,#genre#
+CCTV-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 CCTV-4K,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
@@ -920,6 +921,7 @@ CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV16-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV16-4K,http://223.109.53.49/liveplay-kk.rtxapp.com/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
@@ -974,6 +976,7 @@ CCTV-17 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv17HD/
 纯享4K,http://39.135.32.10:6610/000000001000/HD-20M-2160P-chunxiang4k/1.m3u8?IASHttpSessionId=OTT
 纯享4K,http://39.135.55.105:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1
 南国都市,http://ye23.win/iptv/gztv.php?id=shenghuo
+欢笑剧场4K,http://113.207.84.197:8090/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
