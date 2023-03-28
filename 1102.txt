@@ -570,8 +570,8 @@ CCTV12,http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
 CCTV12,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
 CCTV12,http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 CCTV12,http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
-CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 CCTV13,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?
 CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
@@ -582,8 +582,8 @@ CCTV13,http://125.40.191.58:9901/tsfile/live/0013_1.m3u8
 CCTV13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
-CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
 CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
+CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
 CCTV14,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8?
 CCTV14,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 CCTV14,http://www.372583307.top:4022/udp/233.50.201.124:5140
