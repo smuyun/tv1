@@ -1,19 +1,18 @@
 🇰🇷HANGUO,#genre#
+KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_720/playlist.m3u8
 KBS1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=default
-KBS1,http://mytv.dothome.co.kr/ch/public/12.php
-KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_540/playlist.m3u8
-KBS1,http://193.42.99.130:23405/KBS1/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
-KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
+KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
+KBS1,http://mytv.dothome.co.kr/ch/public/12.php
+KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,http://cdn.th11.jpnettv.live/live/kbs2_720/playlist.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=default
-KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,http://cdn.th11.jpnettv.live/live/kbs2_540/playlist.m3u8
 KBS2,http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD-Giai_tri_Quoc_gia
 KBS2,http://183.99.22.189:9981/stream/channel/bad83addf69a0b3a253bc7104365248d
@@ -22,7 +21,6 @@ KBS2,http://222.109.117.27:9981/stream/channelid/123020099
 KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
 KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 SBS,http://cdn.th11.jpnettv.live/live/sbs_720/playlist.m3u8
-SBS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default
 SBS,http://183.99.22.189:9981/stream/channel/6c2a04434af2410725360f300a24079e
 SBS,http://cdn.th11.jpnettv.live/live/sbs_540/playlist.m3u8
 SBS,http://gg.gg/Ha_Noi_IPTV_2-SBS_HD-Truyen_hinh_Thu_do
@@ -34,22 +32,22 @@ SBS,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+SBS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=default
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
 MBC,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=default
-MBC,http://cdn.th11.jpnettv.live/live/mbc_720/playlist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-MBC,http://8.ykwlm.sinaapp.com/han3.php?id=10
-MBC,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
-MBC,http://mytv.dothome.co.kr/ch/public/21.php
-MBC,http://www.hwado.net/webtv/public/21.php
 MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MBC,http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
-MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC综艺,http://mytv.dothome.co.kr/ch/public/21.php
+MBC综艺,http://www.hwado.net/webtv/public/21.php
+MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=10
+MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=23
+MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
+MBC综艺,http://cdn.th11.jpnettv.live/live/mbc_720/playlist.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2401&q=default
@@ -128,8 +126,8 @@ KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
 KBS DRAMA,http://8.ykwlm.sinaapp.com/han3.php?id=2
 KBS DRAMA,http://zyj520ljzfjzfx.xyz/kbs.php?id=drama
 KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
-KBS W,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KBS W,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
@@ -171,6 +169,7 @@ OCN,mitv://ns1.hellotvvod.com:9906/1121b6497a8f401ea185a9675d5c7a36
 OCN TH,http://193.42.99.130:23405/OCNTh/playlist.m3u8
 OCN Movies,https://d1b5tp3hl2116g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2rfe99i08oi6n-ssai-prd/f6c8175c_eca8_4094_8df9_82ecf707a5aa/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200027ED
 OCN Movies,mitv://ns1.hellotvvod.com:9906/46438bc1be674ccab104e6e1a27a3221
+OCN Movies2,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
 MBC M,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=default
 MBC M,http://106.246.182.11:9981/stream/channelid/19
 MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default
