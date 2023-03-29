@@ -540,6 +540,8 @@ tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 OCN Movies,mitv://generationnexxxt.com:19806/bf871edfcc0f476caa7d98d1b9b01cae
 OCN Movies2,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
 TV Chosun,mitv://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955
+TV Chosun,rtmp://live.chosun.gscdn.com:1935/live/tvchosun1.stream
+TV Chosun,rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
 MBC,mitv://generationnexxxt.com:19806/bf799ab550fc4a24805351d49d5b61a2
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 Tooniverse,mitv://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a01016
