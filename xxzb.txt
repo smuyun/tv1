@@ -531,7 +531,7 @@ KBS2,mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
 KBS Drama,mitv://generationnexxxt.com:19806/b87ff391346d41adabdff2557eb1b468
 KBS Joy,mitv://generationnexxxt.com:19806/61eb591517014f02b627a6fa4479b45d
 SBS,mitv://generationnexxxt.com:19806/6751677afd4345bfac27cfff31713854
-SBS Biz,mitv://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
+SBS Plus,mitv://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
 JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
 EBS,mitv://generationnexxxt.com:19806/c74fd79cd39a4ce382c1fe22090ffb73
 YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
