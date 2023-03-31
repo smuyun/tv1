@@ -1,8 +1,8 @@
 🇰🇷HANGUO,#genre#
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS1,http://cdn.th11.jpnettv.live/live/kbs1_540/playlist.m3u8
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_720/playlist.m3u8
 KBS1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=default
-KBS1,http://cdn.th11.jpnettv.live/live/kbs1_540/playlist.m3u8
 KBS1,http://ye23.top/ktv/kbs2022.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
@@ -11,10 +11,10 @@ KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS2,http://cdn.th11.jpnettv.live/live/kbs2_540/playlist.m3u8
 KBS2,http://cdn.th11.jpnettv.live/live/kbs2_720/playlist.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=default
-KBS2,http://cdn.th11.jpnettv.live/live/kbs2_540/playlist.m3u8
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
 KBS2,http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD-Giai_tri_Quoc_gia
 KBS2,http://183.99.22.189:9981/stream/channel/bad83addf69a0b3a253bc7104365248d
@@ -51,8 +51,8 @@ MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://cdn.th11.jpnettv.live/live/mbc_720/playlist.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
-MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2401&q=default
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
@@ -92,11 +92,11 @@ TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,https://kr-streams.onrender.com/scraper?channel=280
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
-TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
+TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
+TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
 TV Chosun,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2601&q=default
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
-TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2602&q=default
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
@@ -105,7 +105,6 @@ TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2603&q=default
 Channel A,http://www.hwado.net/webtv/catv/52.php
-Channel A,https://kr-streams.onrender.com/scraper?channel=261
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
 Channel A,http://cdn.th11.jpnettv.live/live/channela_720/playlist.m3u8
 Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
