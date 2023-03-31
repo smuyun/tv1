@@ -618,9 +618,11 @@ CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 
 🇨🇳卫视,#genre#
-深圳都市,http://iptv.cooltv.top/tv/sztv.php?id=szds
-深圳都市,http://120.236.17.34:808/hls/19/index.m3u8
-深圳都市,http://59.32.98.97:9901/tsfile/live/1056_1.m3u8
+深圳都市,http://www.superkit.cn:8888/udp/239.77.1.176:5146
+深圳都市,http://stream.guihet.com/t/sztv.php?id=2
+深圳都市,http://www.superkit.cn:8888/udp/239.77.1.124:5146
+深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.124:5146
+深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.176:5146
 延边卫视,http://live.ybtvyun.com/video/s10006-602e81246858/index.m3u8
 延边卫视广电,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
