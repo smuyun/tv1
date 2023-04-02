@@ -914,6 +914,32 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
+测试,#genre#
+Arirang,mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e
+KBS1,mitv://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
+KBS1,mitv://generationnexxxt.com:18806/de60b889a008453fa94c834043ae5371
+KBS2,mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
+KBS2,mitv://generationnexxxt.com:18806/eccbc89670d34466b752a09b2f650f6e
+KBS Drama,mitv://generationnexxxt.com:19806/b87ff391346d41adabdff2557eb1b468
+KBS Joy,mitv://generationnexxxt.com:19806/61eb591517014f02b627a6fa4479b45d
+SBS,mitv://generationnexxxt.com:19806/6751677afd4345bfac27cfff31713854
+SBS Plus,mitv://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
+JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
+EBS,mitv://generationnexxxt.com:19806/c74fd79cd39a4ce382c1fe22090ffb73
+YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
+Mnet,mitv://generationnexxxt.com:19806/4d5973be862e438f909863fcfc0a7e62
+tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
+OCN Movies2,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
+CGN,mitv://generationnexxxt.com:19806/bf871edfcc0f476caa7d98d1b9b01cae
+TV Chosun,mitv://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955
+MBC,mitv://generationnexxxt.com:19806/bf799ab550fc4a24805351d49d5b61a2
+MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
+Tooniverse,mitv://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a01016
+SPOTV,mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645
+SPOTV 2,mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7
+JTBC GOLF,mitv://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d
+tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
+
 🇪🇺环球_9988,#genre#
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
 香蕉台欧美版,http://cdn.adultiptv.net/milf.m3u8
