@@ -646,7 +646,6 @@ CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 
 🇨🇳卫视,#genre#
-深圳都市,http://www.superkit.cn:8888/udp/239.77.1.176:5146
 深圳都市,http://stream.guihet.com/t/sztv.php?id=2
 深圳都市,http://www.superkit.cn:8888/udp/239.77.1.124:5146
 深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.124:5146
