@@ -68,8 +68,8 @@ MBN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2401&q=def
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
-JTBC,http://110.9.159.82:9981/stream/channelid/2009003970?ticket=938B5607486E1730191A300EC3D42B7A0EB27BBA&profile=pass
 JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
+JTBC,http://110.9.159.82:9981/stream/channelid/2009003970?ticket=938B5607486E1730191A300EC3D42B7A0EB27BBA&profile=pass
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_540/playlist.m3u8
 JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_720/playlist.m3u8
