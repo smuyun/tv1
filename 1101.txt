@@ -808,8 +808,8 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 🇨🇳GANG AO,#genre#
-凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰中文,http://xstartx.com:4000/udp/239.93.0.162:2192
 凤凰中文,http://hls.ye23.vip:80/dl/fengshows.php?id=2
 凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2?zgangd
@@ -818,6 +818,7 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 凤凰中文,http://line.premiumpowers.net:80/Manuel/1234567/941626
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,http://chuangye168.gnway.org:56994/g8dyou.php?id=fhzw_1500
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://xstartx.com:4000/udp/239.93.0.118:2191
 凤凰资讯,http://hls.ye23.vip:80/dl/fengshows.php?id=1
