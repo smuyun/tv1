@@ -78,7 +78,7 @@ JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
-Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
+Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
