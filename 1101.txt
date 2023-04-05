@@ -37,9 +37,9 @@ SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,http://ye23.win/iptv/korea2021.php?id=TJB
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://58.142.60.62:9981/stream/channelid/793162132
 MBC,http://han.ddkdxmkj.com/api/han123.php?id=10
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://110.9.159.82:9981/stream/channelid/124634470
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
