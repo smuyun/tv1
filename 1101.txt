@@ -96,8 +96,11 @@ TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
+TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
+TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/chunklist.m3u8
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
-TV Chosun2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2602&q=default
+TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 Channel A,http://www.hwado.net/webtv/catv/52.php
