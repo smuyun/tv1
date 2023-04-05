@@ -1,21 +1,21 @@
 🇰🇷HANGUO,#genre#
-KBS1,http://58.142.60.62:9981/stream/channelid/500228236
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,http://58.142.60.62:9981/stream/channelid/500228236
 KBS1,http://110.9.159.82:9981/stream/channelid/399627270
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_540/playlist.m3u8
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_720/playlist.m3u8
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
-KBS2,http://58.142.60.62:9981/stream/channelid/2025687795
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS2,http://58.142.60.62:9981/stream/channelid/2025687795
 KBS2,http://110.9.159.82:9981/stream/channelid/779172569
 KBS2,http://cdn.th11.jpnettv.live/live/kbs2_540/playlist.m3u8
 KBS2,http://cdn.th11.jpnettv.live/live/kbs2_720/playlist.m3u8
-KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
 KBS2,http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD-Giai_tri_Quoc_gia
 KBS2,http://183.99.22.189:9981/stream/channel/bad83addf69a0b3a253bc7104365248d
@@ -52,8 +52,8 @@ MBC综艺,http://www.hwado.net/webtv/public/21.php
 MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://cdn.th11.jpnettv.live/live/mbc_720/playlist.m3u8
-MBN,http://58.142.60.62:9981/stream/channelid/1007022958
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,http://58.142.60.62:9981/stream/channelid/1007022958
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
@@ -126,12 +126,12 @@ KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
 KBS DRAMA,http://8.ykwlm.sinaapp.com/han3.php?id=2
 KBS DRAMA,http://zyj520ljzfjzfx.xyz/kbs.php?id=drama
 KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
+KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 KBS W,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS W,http://line.premiumpowers.net:80/Manuel/1234567/941604
 KBS W,http://luotuo.ycchenrong.cn/dl/kbs.php?id=3
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
@@ -357,6 +357,7 @@ COOKTV,http://58.142.60.62:9981/stream/channelid/985811264
 GTV,http://58.142.60.62:9981/stream/channelid/1986529233
 ENA,https://cutt.ly/Ha_Noi_IPTV_27-ENA-Phim_cho_Nguoi_ham_mo
 ENA,http://221.167.205.241:9981/stream/channelid/6
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
 Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
