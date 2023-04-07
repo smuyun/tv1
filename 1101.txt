@@ -67,7 +67,6 @@ JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
-JTBC,http://193.42.99.130:23405/JTBC/playlist.m3u8
 Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default
@@ -333,6 +332,7 @@ PLAYY3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=H07&q=de
 韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
+GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 tvN Movies,http://210.210.155.35:80/session/8772b294-c460-11ed-bd85-900cbba69053/dr9445/h/h21/02.m3u8
 tvN Movies,http://210.210.155.35:80/dr9445/h/h21/02.m3u8
 tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
@@ -356,7 +356,6 @@ COOKTV,http://58.142.60.62:9981/stream/channelid/985811264
 GTV,http://58.142.60.62:9981/stream/channelid/1986529233
 ENA,https://cutt.ly/Ha_Noi_IPTV_27-ENA-Phim_cho_Nguoi_ham_mo
 ENA,http://221.167.205.241:9981/stream/channelid/6
-GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 Arirang,http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.net
@@ -405,25 +404,21 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.
 儿童3,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C6802&q=default
 儿童4,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
 美妆,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C7301&q=default
-NS Home Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8301&q=default
 NS Home Shopping,http://livestream.nsmall.com:1935/IPHONE/test.m3u8
-NS Shop Plus,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8302&q=default
 NS Shop Plus,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 NS Shop Plus,http://49.167.236.190:9981/stream/channelid/57
 Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-SK stoa,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2701&q=default
+Home & Shopping,http://gg.gg/Ha_Noi_IPTV_78-Home_and_Shopping_HD
 SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
-Shinsegae TV Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4801&q=default
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 Shinsegae TV Shopping,https://epg.pw/stream/1efa82f44da1ecc72db1d8e3d4eed57114f828115e044385f912502b5e069333.m3u8
-Shinsegae TV Shopping,https://kr-streams.onrender.com/scraper?channel=462
 Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
+Shinsegae TV Shopping,http://gg.gg/Ha_Noi_IPTV_67-Shinsegae_Shopping_HD
 W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
-GS My Shop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4202&q=default
+W Shopping,http://gg.gg/Ha_Noi_IPTV_75-W_Shopping_HD
 GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 GS My Shop,https://kr-streams.onrender.com/scraper?channel=444
-GS Shop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4201&q=default
 GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
-GS Shop,https://kr-streams.onrender.com/scraper?channel=439
 CJONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJONSTYLE,http://119.197.107.139:9981/stream/channelid/37
 CJONSTYLE,https://kr-streams.onrender.com/scraper?channel=464
@@ -432,26 +427,22 @@ CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 CJONSTYLE+,https://kr-streams.onrender.com/scraper?channel=517
 CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
 CJONSTYLE+,http://mytv.dothome.co.kr/ch/catv/92.php
-KT SHOPPING,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F1401&q=default
 KT SHOPPING,https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
-KT SHOPPING,https://kr-streams.onrender.com/scraper?channel=438
-KT SHOPPING,http://119.197.107.139:9981/stream/channelid/38
-KT SHOPPING,https://kr-streams.onrender.com/scraper?channel=259
 Hyundai Home Shopping,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4101&q=default
-Hyundai Home Shopping Plus,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4102&q=default
-Hyundai Home Shopping Plus,https://kr-streams.onrender.com/scraper?channel=442
+Hyundai Home Shopping Plus,http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD
 Hyundai Home Shopping Plus,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 Hyundai Home Shopping Plus,https://kr-streams.onrender.com/scraper?channel=449
 Lotte Home Shopping,https://kr-streams.onrender.com/scraper?channel=255
 Lotte Home Shopping,https://kr-streams.onrender.com/scraper?channel=440
 Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 Lotte OneTV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5602&q=default
-Lotte OneTV,http://221.167.205.241:9981/stream/channelid/79
+Lotte OneTV,http://gg.gg/Ha_Noi_IPTV_77-Lotte_One_TV_HD
 Lotte OneTV,https://kr-streams.onrender.com/scraper?channel=923
+LOTTE MALL,http://gg.gg/Ha_Noi_IPTV_76-Lotte_Mall_HD
 Public Home Shopping,https://kr-streams.onrender.com/scraper?channel=921
 Shopping NT,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4901&q=default
 Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
-Shopping-1,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5601&q=default
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
 
 🇨🇳央视,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
