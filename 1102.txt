@@ -54,11 +54,13 @@ MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://58.142.60.62:9981/stream/channelid/1007022958
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
+MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
 JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
+JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_540/playlist.m3u8
 JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_720/playlist.m3u8
@@ -73,6 +75,7 @@ Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
 YTN,http://58.142.60.62:9981/stream/channelid/1136165985
+YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 YTN,http://cdn.th11.jpnettv.live/live/ytn_540/playlist.m3u8
 YTN,http://cdn.th11.jpnettv.live/live/ytn_720/playlist.m3u8
 YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
@@ -82,6 +85,7 @@ YTN,http://ye23.win/iptv/korea2021.php?id=ytn
 YTN,http://210.92.207.38:40001
 YTN,http://hls.ye23.vip/hk/ytn.php
 TVN,http://58.142.60.62:9981/stream/channelid/1041875196
+tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 TVN,http://cdn.th11.jpnettv.live:80/live/tvn_540/playlist.m3u8
 TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
