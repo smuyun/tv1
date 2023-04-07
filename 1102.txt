@@ -51,10 +51,9 @@ MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://cdn.th11.jpnettv.live/live/mbc_720/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-MBN,http://58.142.60.62:9981/stream/channelid/1007022958
+MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
-MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
@@ -75,6 +74,7 @@ Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
 YTN,http://210.92.207.38:40001
+YTN,http://hls.ye23.vip/hk/ytn.php
 YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 YTN,http://cdn.th11.jpnettv.live/live/ytn_540/playlist.m3u8
 YTN,http://cdn.th11.jpnettv.live/live/ytn_720/playlist.m3u8
@@ -82,7 +82,6 @@ YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
 YTN,http://mytv.dothome.co.kr/ch/catv/215.php
 YTN,http://nettvpro.live/hls/naver.php?id=3074734
 YTN,http://ye23.win/iptv/korea2021.php?id=ytn
-YTN,http://hls.ye23.vip/hk/ytn.php
 TVN,http://58.142.60.62:9981/stream/channelid/1041875196
 TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 TVN,http://cdn.th11.jpnettv.live:80/live/tvn_540/playlist.m3u8
