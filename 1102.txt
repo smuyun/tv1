@@ -1,17 +1,18 @@
 🇰🇷HANGUO,#genre#
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://58.142.60.62:9981/stream/channelid/500228236
 KBS1,http://110.9.159.82:9981/stream/channelid/399627270
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_540/playlist.m3u8
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_720/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
-KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://luotuo.ycchenrong.cn/dl/kbs.php?id=1
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 KBS2,http://58.142.60.62:9981/stream/channelid/2025687795
 KBS2,http://110.9.159.82:9981/stream/channelid/779172569
 KBS2,http://cdn.th11.jpnettv.live/live/kbs2_540/playlist.m3u8
@@ -22,7 +23,6 @@ KBS2,http://183.99.22.189:9981/stream/channel/bad83addf69a0b3a253bc7104365248d
 KBS2,http://pull-l3-cny.douyincdn.com/third/stream-9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
 KBS2,http://222.109.117.27:9981/stream/channelid/123020099
 KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
-KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 SBS,http://183.99.22.189:9981/stream/channelid/1124346476
 SBS,http://58.142.60.62:9981/stream/channelid/260418342
 SBS,http://cdn.th11.jpnettv.live/live/sbs_540/playlist.m3u8
@@ -74,7 +74,7 @@ Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=Y01&q=default
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
-YTN,http://58.142.60.62:9981/stream/channelid/1136165985
+YTN,http://210.92.207.38:40001
 YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 YTN,http://cdn.th11.jpnettv.live/live/ytn_540/playlist.m3u8
 YTN,http://cdn.th11.jpnettv.live/live/ytn_720/playlist.m3u8
@@ -82,7 +82,6 @@ YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
 YTN,http://mytv.dothome.co.kr/ch/catv/215.php
 YTN,http://nettvpro.live/hls/naver.php?id=3074734
 YTN,http://ye23.win/iptv/korea2021.php?id=ytn
-YTN,http://210.92.207.38:40001
 YTN,http://hls.ye23.vip/hk/ytn.php
 TVN,http://58.142.60.62:9981/stream/channelid/1041875196
 tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
