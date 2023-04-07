@@ -935,6 +935,16 @@ SPOTV,mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645
 SPOTV 2,mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7
 JTBC GOLF,mitv://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d
 tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
+SBS,mitv://fccs.word-tv.com:9906/626b614c000404ac0c23132e23ac6367
+MBC,mitv://fccs.word-tv.com:9906/626b61a8000c30850c247ca5b35e020f
+tvN_Story,mitv://fccs.word-tv.com:9906/626b61e5000831810c2569e731f0dffc
+JTBC,mitv://fccs.word-tv.com:9906/626b621a00034fb20c2637af441b9eed
+Mnet,mitv://fccs.word-tv.com:9906/626b62760007538f0c27a0176a4708f2
+inet,mitv://fccs.word-tv.com:9906/626b62aa000376240c286a394144fa67
+KBS1,mitv://fccs.word-tv.com:9906/626b63d50001600c0c2cf9a9c22671ac
+KBS2,mitv://fccs.word-tv.com:9906/626b6b2a0004a5a20c499e87a5dddfc1
+KBS Drama,mitv://fccs.word-tv.com:9906/626b6b0c000c97e10c492b60c9e6b665
+YTN,mitv://fccs.word-tv.com:9906/626b6b3f000bbb6f0c49f25f76d0e7ae
 
 🇪🇺环球_9988,#genre#
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
