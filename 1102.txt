@@ -945,6 +945,26 @@ KBS1,mitv://fccs.word-tv.com:9906/626b63d50001600c0c2cf9a9c22671ac
 KBS2,mitv://fccs.word-tv.com:9906/626b6b2a0004a5a20c499e87a5dddfc1
 KBS Drama,mitv://fccs.word-tv.com:9906/626b6b0c000c97e10c492b60c9e6b665
 YTN,mitv://fccs.word-tv.com:9906/626b6b3f000bbb6f0c49f25f76d0e7ae
+KBS1,mitv://ns2.hellotvvod.com:9906/6a6c42d37e5c4a5ca3e4c4a1377bf4eb
+KBS2,mitv://ns2.hellotvvod.com:9906/9a5ac9bcce114897ae9ad5140feea851
+KBS Drama,mitv://ns2.hellotvvod.com:9906/e87a862df25a475abcf1dca164df59fa
+KBS Joy,mitv://ns2.hellotvvod.com:9906/7b770e979025424e9bb645e8be43086d
+SBS,mitv://ns2.hellotvvod.com:9906/a03a6f94619c4799a4e8dfab79032912
+SBS Biz,mitv://ns2.hellotvvod.com:9906/195ac07b48c446df9642aac3d870d922
+JTBC,mitv://ns2.hellotvvod.com:9906/2cd0c5c500a14e9e9a53359b16db1f6a
+EBS,mitv://ns2.hellotvvod.com:9906/9b68fc51b8fb45f8a59938e46b12edca
+YTN,mitv://ns2.hellotvvod.com:9906/12faa9aa6f554867bcb8f74279af6aff
+Mnet,mitv://ns2.hellotvvod.com:9906/1bd779f125c24a36ac469ae8a1656cab
+tvN,mitv://ns2.hellotvvod.com:9906/42a4c195fe494501bbdfbb759cea4f6d
+OCN,mitv://ns2.hellotvvod.com:9906/980b82858a0f49d783943f5b016edb1d
+OCN Movies,mitv://ns2.hellotvvod.com:9906/2352404f7784466abed8f3e9b24abebe
+TV Chosun,mitv://ns2.hellotvvod.com:9906/f3722f2946884d369959e67670d0919c
+MBC,mitv://ns2.hellotvvod.com:9906/5f1c7104c1db414f8b2e48b0a4b22e7f
+MBN,mitv://ns2.hellotvvod.com:9906/818f111d71b74a4c882d4bd5975d5095
+Tooniverse,mitv://ns2.hellotvvod.com:9906/20ea89b151e440388feb0b6f008f5111
+SPOTV,mitv://ns2.hellotvvod.com:9906/93cd74a4ca8e48f58d676e4d0e7cfb0e
+SPOTV 2,mitv://ns2.hellotvvod.com:9906/58a2058831064ceb83625fb2ae1dd23d
+JTBC GOLF,mitv://ns2.hellotvvod.com:9906/47c9c447a72642608b4575e43aa547b1
 
 🇪🇺环球_9988,#genre#
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
