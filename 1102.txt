@@ -883,9 +883,7 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 测试,#genre#
 Arirang,mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e
 KBS1,mitv://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
-KBS1,mitv://generationnexxxt.com:18806/de60b889a008453fa94c834043ae5371
 KBS2,mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
-KBS2,mitv://generationnexxxt.com:18806/eccbc89670d34466b752a09b2f650f6e
 KBS Drama,mitv://generationnexxxt.com:19806/b87ff391346d41adabdff2557eb1b468
 KBS Joy,mitv://generationnexxxt.com:19806/61eb591517014f02b627a6fa4479b45d
 SBS,mitv://generationnexxxt.com:19806/6751677afd4345bfac27cfff31713854
