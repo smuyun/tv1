@@ -893,6 +893,7 @@ EBS,mitv://generationnexxxt.com:19806/c74fd79cd39a4ce382c1fe22090ffb73
 YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 Mnet,mitv://generationnexxxt.com:19806/4d5973be862e438f909863fcfc0a7e62
 tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
+tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
 OCN Movies2,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
 CGN,mitv://generationnexxxt.com:19806/bf871edfcc0f476caa7d98d1b9b01cae
 TV Chosun,mitv://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955
@@ -902,9 +903,31 @@ Tooniverse,mitv://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a01016
 SPOTV,mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645
 SPOTV 2,mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7
 JTBC GOLF,mitv://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d
-tvN Movies HD,mitv://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
 
 🇪🇺环球_9988,#genre#
+彩虹e台,http://162.19.247.76:22222/live/caihong1/index.m3u8
+彩虹电影台,http://162.19.247.76:22222/live/caihong2/index.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
+K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
+惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
+粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
+潘朵拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
+一本道欧美版,http://live.redtraffic.xyz:80/bigass.m3u8
+松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
+玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
+二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
+松视3欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
+HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
+彩虹e台,mitv://generationnexxxt.com:19806/26193e4740334b55b5ac2a2055439296
+彩虹电影台,mitv://generationnexxxt.com:19806/c0a37d19259d4e8781d405f5a086daa8
+LOOK TV,mitv://generationnexxxt.com:19806/f8c43fd6cbfd47a296bfed61a33135ae
+潘朵啦玩美台,mitv://generationnexxxt.com:19806/e44852f128644c76b6b35cb4953d8e6c
+惊艳成人电影台,mitv://generationnexxxt.com:19806/fbceec270a3c4b61b90afea385ea9112
+松视1台,mitv://generationnexxxt.com:19806/92c2114176b94e119fab676322c582b0
+松视2台,mitv://generationnexxxt.com:19806/d13083f3306544a496d5b5f87ab30281
+PLAYBOY,mitv://generationnexxxt.com:19806/8e5d0fed0a4346e2ab51e46a2bf93b8e
+香蕉台,mitv://generationnexxxt.com:19806/17d2e415f6514da3842f1467fae4e955
+松视3台,mitv://generationnexxxt.com:19806/73a8812084f443c1b3378918ec569471
 香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
 香蕉台欧美版,http://cdn.adultiptv.net/milf.m3u8
 潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
