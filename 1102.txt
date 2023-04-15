@@ -113,7 +113,7 @@ SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS PLUS,http://itskoi.dothome.co.kr/sbs.php?id=S03
 KBS DRAMA,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 KBS DRAMA,http://58.142.60.62:9981/stream/channelid/604398662
-KBS DRAMA,http://110.9.159.82:9981/stream/channelid/1207260298?ticket=C7B35C0868E051D694D41666A5A691A2F7ED491F&profile=pass
+KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS DRAMA,http://110.9.159.82:9981/stream/channelid/1207260298
 KBS DRAMA,http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
 KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
@@ -123,6 +123,7 @@ KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
 KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KBS W,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS W,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
@@ -179,7 +180,7 @@ MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=d
 THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S14&q=default
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-KBS JOY,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K04&q=default
+KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS JOY,http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
 KBS JOY,http://han.ddkdxmkj.com/api/kbs.php?id=6
 KBS JOY,http://8.ykwlm.sinaapp.com/han3.php?id=3
@@ -189,13 +190,13 @@ KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
 KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
 KBSN LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-KBSN LIFE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K05&q=default
+KBSN LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBSN LIFE,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
 KBSN LIFE,http://8.ykwlm.sinaapp.com/han3.php?id=4
 KBSN LIFE,http://8.ykwlm.sinaapp.com/hanguo4.php?id=7
 KBSN LIFE,http://han.ddkdxmkj.com/api/kbs.php?id=7
 KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-KBS Story,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=K09&q=default
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS Story,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
 KBS Story,http://han.ddkdxmkj.com/api/kbs.php?id=8
 KBS Story,http://8.ykwlm.sinaapp.com/han3.php?id=5
