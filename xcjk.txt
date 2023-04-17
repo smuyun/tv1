@@ -19,7 +19,6 @@
     "filterable":1,
     "ext":"http://tvmvip110.club/tv/box/js/douban.js"
     },
-
  {
    "key": "csp_XYQHiker_‍亲宝资源",
    "name":"宝宝┃资源",
@@ -30,9 +29,6 @@
    "filterable":1,
    "ext":"http://tvmvip110.club/tv/box/json/qinbao.json"
   },
-   
-
-   
 {"key":"新片热播","name":"热播剧","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
   {
       "key": "csp_kuaikan",
@@ -110,8 +106,6 @@
        "api": "http://tvmvip110.club/tv/box/js/zhibo.js",
        "ext":"综合频道$http://tvmvip110.club/tv/box/live/ys.txt#电视剧$http://tvmvip110.club/tv/box/live/ws.txt#电影$http://tvmvip110.club/tv/box/live/dy.txt&&&http://tvmvip110.club/tv/box/live/不良帅.png"
     },
-   
-    
         {"key":"ffBBB","name":"8K┃测试","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://tvmvip110.club/tv/box/00bili0515.json"},
   
 {
@@ -134,7 +128,6 @@
    "filterable":1,
    "ext":"http://tvmvip110.club/tv/box/json/cili.json"
  },
- 
  {
     "key":"csp_sp_龙门影视",
     "name":"龙门┃影视",
@@ -145,8 +138,6 @@
     "filterable":1,
     "ext":"https://app.looo.top/lm_api.php/v1.vod"
  }, 
-
-
  {
       "key": "csp_AppMr",
       "name": "明日┃影视",
@@ -176,9 +167,6 @@
     "quickSearch":1,
     "filterable":1
     },
-
-
- 
    {
       "key": "csp_Vofl",
       "name": "Voflix┃影视",
@@ -188,7 +176,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-  
     {
    "key": "csp_XYQHiker_布蕾",
    "name": "布雷┃影院",
@@ -232,8 +219,6 @@
       "ext": "https://www.6080dy3.com"
     },    
 {"key":"00Nkdy","name":"影视┃南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-     
-  
       {
     "key":"XBPQ_69美剧",
     "name":"69┃美剧",
@@ -246,9 +231,6 @@
     "playerType":2,
     "ext":"http://tvmvip110.club/tv/box/xBPQ/69美剧.js"
     },
-
-   
-    
     {
       "key": "Music_spider",
       "name": "  音乐┃欣赏",
@@ -387,7 +369,6 @@
     "quickSearch":1,
     "filterable":0
     },
- 
           {
             "key": "csp_XBPQ_饭团",
             "name": "饭团┃影视",
@@ -398,8 +379,6 @@
             "filterable": 0,
             "ext": "http://tvmvip110.club/tv/box/json/fantuan.json"
         },
- 
- 
     { "key" :"XYQBiu_酷客",
       "name" :"影视┃酷酷",
       "type" :3,
@@ -462,7 +441,6 @@
     "filterable":1,
     "ext":"http://tvmvip110.club/tv/box/XYQHiker/盒子.js"
     },
- 
      {
             "key": "csp_Smdyy",
             "name": "神马┃影院",
@@ -480,9 +458,6 @@
     "quickSearch":1,
     "filterable":1
     },
- 
-  
-  
   {
     "key":"zy_lziapi",
     "name":"影视┃速优",
@@ -526,9 +501,6 @@
     "filterable":1,
     "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
     },
-  
-  
-  
     {"key": "XYQHiker_启蒙","name":"儿童┃启蒙","type":3,"api":"csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext":"http://tvmvip110.club/tv/box/XYQHiker/兔小贝启蒙.js"},
     {"key": "XYQHiker_儿歌","name":"儿童┃儿歌","type":3,"api":"csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext":"http://tvmvip110.club/tv/box/XYQHiker/兔小贝儿歌.js"},
     {
@@ -565,7 +537,6 @@
     "api":"http://tvmvip110.club/tv/box/js/lib/drpy2.min.js",
     "ext":"http://tvmvip110.club/tv/box/js/ac163.js"
     },
-   
      {"key":"cps_Lgyy",
     "name":"影视┃蓝光",
     "type":3,
@@ -575,7 +546,6 @@
     "filterable":1,
     "ext":"https://www.lgyy.tv"
     },
- 
     {
     "key":"csp_Hlsp",
     "name":"黑料┃影视",
@@ -586,8 +556,6 @@
     "filterable":1,
     "ext":"http://tvmvip110.club/tv/box/XP/dy18.js"
     },
-  
-   
     {
     "key":"drpy_异果",
     "name":"影视┃异果",
@@ -600,8 +568,6 @@
     "changeable":0,
     "ext":"http://tvmvip110.club/tv/box/js/奇珍异兽.js"
     },
-    
-  
     {
     "key":"XBPQ_TVB",
     "name":"影视┃TVB",
@@ -826,7 +792,7 @@
     
     {
     "key":"AP_新浪",
-    "name":"勿相信广告",
+    "name":"AP_新浪",
     "type":1,
     "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/?ac=list",
     "searchable":1,
@@ -962,13 +928,6 @@
     "filterable":0,
     "ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/xBPQ/听书网.json"
     },
-  
-     
-    
- 
-   
-     
-  
     {
     "key":"XBPQ_听书网",
     "name":"音频┃听书",
@@ -1118,7 +1077,6 @@
     "ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XPath/酷奇.js"
     },
     
-   
     {
     "key":"XYQHiker_鲨鱼",
     "name":"影视┃鲨鱼",
@@ -1129,35 +1087,6 @@
     "filterable":0,
     "ext":"http://tvmvip110.club/tv/box/XYQHiker/m4410.js"
     },
-    
-   
-    {
-    "key":"gg",
-    "name":"资源与内容禁止并谢绝",
-    "type":3,
-    "api":"csp_XPath",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0
-    },
-    {
-    "key":"yy",
-    "name":"未经本人许可下使用",
-    "type":3,
-    "api":"csp_XPath",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0
-    },
-    {
-    "key":"bb",
-    "name":"接口测试使用勿上当购买",
-    "type":3,
-    "api":"csp_XPath",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0
-    }
     ],
 "parses":[
 {"name":"点我吧","type":3,"url":"Web"},
@@ -1177,7 +1106,6 @@
 {"name":"blskk","type":0,"url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
 {"name":"QJ1","type":0,"url":"https://svip.bljiex.cc/?url="}
 ],
-
 "rules": [{"host": "*","rule": ["iesdouyin.com/aweme","video_id="]},
 {"host": "*","rule": ["default.365yg.com"]},
 {"host":"www.djuu.com","rule":["mp4.djuu.com"]},
@@ -1201,11 +1129,8 @@
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
 //自定义jar
 "spider":"http://8.210.220.114/jar/fan.txt",
-
-
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
-
 //电视直播
 "lives": [{
       "name": "live",
@@ -1214,7 +1139,6 @@
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
      }],
-
 //解码模式
 "ijk":[
 {"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
