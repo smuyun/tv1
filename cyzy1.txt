@@ -113,7 +113,7 @@
 
 直播[
 分类##
-央视|卫视|GANG AO|
+央视|卫视|GANG AO|HAN GUO|备用|
 ##
 央视###
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8#
@@ -207,6 +207,195 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8#
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8#
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8#
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8#
+###
+HAN GUO###
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php#
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php#
+SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14#
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8#
+MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8#
+MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=10#
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php#
+JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea#
+Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8#
+YTN,http://210.92.207.38:40001#
+TVN,http://58.142.60.62:9981/stream/channelid/1041875196#
+TV Chosun,https://c11.kr/1608e#
+TV Chosun,http://119.197.107.139:9981/stream/channelid/46#
+TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7#
+Channel A,http://www.hwado.net/webtv/catv/52.php#
+MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091#
+SBS PLUS,http://58.142.60.62:9981/stream/channelid/1517719782#
+KBS DRAMA,http://ye23.vip/z7z8/2021/kbs2020.php?id=5#
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8#
+KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4#
+JTBC2,http://110.9.159.82:9981/stream/channelid/676326046#
+JTBC4,http://110.9.159.82:9981/stream/channelid/1850641228?ticket=047DBA1B7914AF317C89D36C84E7FFB978B48B3F&profile=pass#
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8#
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8#
+NORTH CX,https://tv.nknews.org/tvdash/stream.mpd#
+OCN,http://58.142.60.62:9981/stream/channelid/1732991760#
+OCN TH,http://193.42.99.130:23405/OCNTh/playlist.m3u8#
+OCN MOVIES,http://110.9.159.82:9981/stream/channelid/578660350?ticket=19A0F19C5F6897255CFDB58DB638CB8315FD185A&profile=pass#
+OCN MOVIES2,http://110.9.159.82:9981/stream/channelid/273544231#
+MBC M,http://58.142.60.62:9981/stream/channelid/1920571670#
+MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default#
+THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S14&q=default#
+Persiana Korea,http://51.210.199.14/hls/stream.m3u8#
+KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6#
+KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9#
+KBSN LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7#
+KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8#
+Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8#
+KMTV,https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8#
+SBS FUN,http://110.9.159.82:9981/stream/channelid/1347324162#
+SBS BIZ,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S06&q=default#
+SBS MTV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S09&q=default#
+SBS F!L,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S22&q=default#
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8#
+MBC大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8#
+MBC釜山,http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8#
+MBC济州,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8#
+MBC庆南,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8#
+MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8#
+MBC-1,http://mytv.dothome.co.kr/ch/public/21.php#
+MBC-2,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M17&q=default#
+MBC every1,http://119.197.107.139:9981/stream/channelid/45#
+TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623#
+WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8#
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8#
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8#
+국악방송国乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8#
+Mnet,http://58.142.60.62:9981/stream/channelid/1916731800#
+inet,mitv://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955#
+K-STAR,http://58.142.60.62:9981/stream/channelid/342733435#
+KoreaEconomyTV,https://kr-streams.onrender.com/scraper?channel=408#
+KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC#
+TJB SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8#
+CJB SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8#
+JTV SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8#
+TBC SBS,http://221.157.125.239:1935/live/psike/playlist.m3u8#
+UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8#
+KNN SBS,http://220.95.92.160:9981/stream/channelid/1445999617#
+ONE,http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f#
+NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8#
+AsiaN,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C5101&q=default#
+ChannelChina,http://221.148.26.130:9981/stream/channelid/28#
+DONE,http://221.167.205.241:9981/stream/channelid/4#
+ChannelOllehTV,https://allanf181.github.io/adaptive-streams/streams/kr/ChannelOllehTV.m3u8#
+ChannelSeezn,https://allanf181.github.io/adaptive-streams/streams/kr/ChannelSeezn.m3u8#
+CinemaHeaven,http://mytv.dothome.co.kr/ch/catv/231.php#
+OBS,http://mytv.dothome.co.kr/ch/catv/281.php#
+OLife,http://mytv.dothome.co.kr/ch/catv/254.php#
+Telenovela,http://mytv.dothome.co.kr/ch/catv/289.php#
+UHD DREAM TV,http://110.9.159.82:9981/stream/channelid/1588893711?ticket=326DC0387EC9167D76730F7199732BBD72D614CD&profile=pass#
+UXN,http://110.9.159.82:9981/stream/channelid/440717081?ticket=7C9E88FC48F2496CD92A4F91E9845C02D78A1DF1&profile=pass#
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595#
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743#
+韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742#
+韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622#
+GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8#
+tvN Movies,http://210.210.155.35:80/session/8772b294-c460-11ed-bd85-900cbba69053/dr9445/h/h21/02.m3u8#
+TVN SHOW,http://58.142.60.62:9981/stream/channelid/814405847#
+TVN Story,http://121.176.2.26:9981/stream/channelid/4#
+ChunghwaTV,http://mytv.dothome.co.kr/ch/catv/228.php#
+COOKTV,http://58.142.60.62:9981/stream/channelid/985811264#
+GTV,http://58.142.60.62:9981/stream/channelid/1986529233#
+ENA,https://cutt.ly/Ha_Noi_IPTV_27-ENA-Phim_cho_Nguoi_ham_mo#
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#
+MTN-W,http://183.110.27.87/mtnlive/definst/720/playlist.m3u8#
+NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8#
+TV-WORK,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m301.m3u8#
+CMC TV,http://49.167.236.190:9981/stream/channelid/93#
+FTV,http://mytv.dothome.co.kr/ch/catv/255.php#
+TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a#
+Lifetime,http://line.premiumpowers.net:80/Manuel/1234567/941669#
+Silver-itv,http://silveritv.kr:8080/hls/stream.m3u8#
+EBS1,http://58.142.60.62:9981/stream/channelid/1384850680#
+EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8#
+NS Home Shopping,http://livestream.nsmall.com:1935/IPHONE/test.m3u8#
+Home & Shopping,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8#
+SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8#
+Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8#
+W Shopping,https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8#
+GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8#
+GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8#
+CJONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8#
+CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8#
+KT SHOPPING,https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8#
+Hyundai Home Shopping Plus,http://gg.gg/Ha_Noi_IPTV_72-Hyundai_Mall_Plus_HD#
+Lotte Home Shopping,https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8#
+Lotte OneTV,http://gg.gg/Ha_Noi_IPTV_77-Lotte_One_TV_HD#
+LOTTE MALL,http://gg.gg/Ha_Noi_IPTV_76-Lotte_Mall_HD#
+Public Home Shopping,https://kr-streams.onrender.com/scraper?channel=921#
+Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8#
+Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8#
+###
+备用###
+KBS1,http://117.123.30.250:9981/stream/channelid/85#
+KBS2,http://117.123.30.250:9981/stream/channelid/87#
+SBS,http://117.123.30.250:9981/stream/channelid/86#
+MBC,http://117.123.30.250:9981/stream/channelid/84#
+MBN,http://117.123.30.250:9981/stream/channelid/20#
+JTBC,http://117.123.30.250:9981/stream/channelid/18#
+Yonhap News TV,http://117.123.30.250:9981/stream/channelid/29#
+YTN,http://117.123.30.250:9981/stream/channelid/30#
+TVN,http://117.123.30.250:9981/stream/channelid/11#
+TV Chosun,http://117.123.30.250:9981/stream/channelid/21#
+TV Chosun2,http://117.123.30.250:9981/stream/channelid/63#
+Channel A,http://117.123.30.250:9981/stream/channelid/22#
+MBC DRAMA,http://117.123.30.250:9981/stream/channelid/59#
+SBS PLUS,http://117.123.30.250:9981/stream/channelid/64#
+KBS DRAMA,http://117.123.30.250:9981/stream/channelid/65#
+JTBC2,http://117.123.30.250:9981/stream/channelid/71#
+KoreaTV,http://117.123.30.250:9981/stream/channelid/27#
+Mnet,http://117.123.30.250:9981/stream/channelid/45#
+inet,http://117.123.30.250:9981/stream/channelid/66#
+OCN,http://117.123.30.250:9981/stream/channelid/35#
+OCN MOVIES,http://117.123.30.250:9981/stream/channelid/37#
+OCN MOVIES2,http://117.123.30.250:9981/stream/channelid/40#
+MBC every1,http://117.123.30.250:9981/stream/channelid/44#
+MBC ON,http://117.123.30.250:9981/stream/channelid/7#
+MBC M,http://117.123.30.250:9981/stream/channelid/70#
+SBS BIZ,http://117.123.30.250:9981/stream/channelid/69#
+TVN STORY,http://117.123.30.250:9981/stream/channelid/51#
+TVN DRAMA,http://117.123.30.250:9981/stream/channelid/49#
+TVN SHOW,http://117.123.30.250:9981/stream/channelid/83#
+IHQ,http://117.123.30.250:9981/stream/channelid/31#
+IHQ DRAMA,http://117.123.30.250:9981/stream/channelid/43#
+WBC TV,http://117.123.30.250:9981/stream/channelid/76#
+K-STAR,http://117.123.30.250:9981/stream/channelid/48#
+EVENT TV,http://117.123.30.250:9981/stream/channelid/56#
+CNTV,http://117.123.30.250:9981/stream/channelid/6#
+Foxlife,http://117.123.30.250:9981/stream/channelid/80#
+OBS,http://117.123.30.250:9981/stream/channelid/90#
+SCREEN,http://117.123.30.250:9981/stream/channelid/36#
+TVA PLUS,http://117.123.30.250:9981/stream/channelid/52#
+FUN TV,http://117.123.30.250:9981/stream/channelid/3#
+EDGE TV,http://117.123.30.250:9981/stream/channelid/2#
+DOCU ONE,http://117.123.30.250:9981/stream/channelid/1#
+DRAMA CUBE,http://117.123.30.250:9981/stream/channelid/24#
+VIEW,http://117.123.30.250:9981/stream/channelid/34#
+CH NOW,http://117.123.30.250:9981/stream/channelid/53#
+CH EVER,http://117.123.30.250:9981/stream/channelid/80#
+ENA,http://117.123.30.250:9981/stream/channelid/41#
+ENA STORY,http://117.123.30.250:9981/stream/channelid/46#
+FASHION N,http://117.123.30.250:9981/stream/channelid/39#
+국회방송,http://117.123.30.250:9981/stream/channelid/26#
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#
+CMC TV,http://117.123.30.250:9981/stream/channelid/73#
+smile plus,http://117.123.30.250:9981/stream/channelid/82#
+EBS1,http://117.123.30.250:9981/stream/channelid/88#
+EBS2,http://117.123.30.250:9981/stream/channelid/89#
+EBSi,http://117.123.30.250:9981/stream/channelid/32#
+ANIMAX,http://117.123.30.250:9981/stream/channelid/33#
+WEE TV,http://117.123.30.250:9981/stream/channelid/74#
+NS Home Shopping,http://117.123.30.250:9981/stream/channelid/16#
+W Shopping,http://117.123.30.250:9981/stream/channelid/4#
+GS My Shop,http://117.123.30.250:9981/stream/channelid/13#
+CJONSTYLE,http://117.123.30.250:9981/stream/channelid/12#
+Hyundai Home Shopping,http://117.123.30.250:9981/stream/channelid/14#
+Gongyoung Shopping,http://117.123.30.250:9981/stream/channelid/23#
 ###
 ]
 
