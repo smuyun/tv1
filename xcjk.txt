@@ -1077,7 +1077,6 @@
     "filterable":0,
     "ext":"https://gitee.com/qizhen169xt/cool_white/raw/master/videos-tool/XPath/酷奇.js"
     },
-    
     {
     "key":"XYQHiker_鲨鱼",
     "name":"影视┃鲨鱼",
@@ -1087,7 +1086,7 @@
     "quickSearch":0,
     "filterable":0,
     "ext":"http://tvmvip110.club/tv/box/XYQHiker/m4410.js"
-    },
+    }
     ],
 "parses":[
 {"name":"点我吧","type":3,"url":"Web"},
@@ -1128,8 +1127,6 @@
 {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
 {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","优酷","芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy"],
-//自定义jar
-"spider":"http://8.210.220.114/jar/fan.txt",
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
 //电视直播
