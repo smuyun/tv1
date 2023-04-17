@@ -150,70 +150,70 @@
 HAN GUO|央视|卫视|GANG AO|
 ##
 HAN GUO###
-KBS1,http://117.123.30.250:9981/stream/channelid/85
-KBS2,http://117.123.30.250:9981/stream/channelid/87
-SBS,http://117.123.30.250:9981/stream/channelid/86
-MBC,http://117.123.30.250:9981/stream/channelid/84
-MBN,http://117.123.30.250:9981/stream/channelid/20
-JTBC,http://117.123.30.250:9981/stream/channelid/18
-Yonhap News TV,http://117.123.30.250:9981/stream/channelid/29
-YTN,http://117.123.30.250:9981/stream/channelid/30
-TVN,http://117.123.30.250:9981/stream/channelid/11
-TV Chosun,http://117.123.30.250:9981/stream/channelid/21
-TV Chosun2,http://117.123.30.250:9981/stream/channelid/63
-Channel A,http://117.123.30.250:9981/stream/channelid/22
-MBC DRAMA,http://117.123.30.250:9981/stream/channelid/59
-SBS PLUS,http://117.123.30.250:9981/stream/channelid/64
-KBS DRAMA,http://117.123.30.250:9981/stream/channelid/65
-JTBC2,http://117.123.30.250:9981/stream/channelid/71
-KoreaTV,http://117.123.30.250:9981/stream/channelid/27
-Mnet,http://117.123.30.250:9981/stream/channelid/45
-inet,http://117.123.30.250:9981/stream/channelid/66
-OCN,http://117.123.30.250:9981/stream/channelid/35
-OCN MOVIES,http://117.123.30.250:9981/stream/channelid/37
-OCN MOVIES2,http://117.123.30.250:9981/stream/channelid/40
-MBC every1,http://117.123.30.250:9981/stream/channelid/44
-MBC ON,http://117.123.30.250:9981/stream/channelid/7
-MBC M,http://117.123.30.250:9981/stream/channelid/70
-SBS BIZ,http://117.123.30.250:9981/stream/channelid/69
-TVN STORY,http://117.123.30.250:9981/stream/channelid/51
-TVN DRAMA,http://117.123.30.250:9981/stream/channelid/49
-TVN SHOW,http://117.123.30.250:9981/stream/channelid/83
-IHQ,http://117.123.30.250:9981/stream/channelid/31
-IHQ DRAMA,http://117.123.30.250:9981/stream/channelid/43
-WBC TV,http://117.123.30.250:9981/stream/channelid/76
-K-STAR,http://117.123.30.250:9981/stream/channelid/48
-EVENT TV,http://117.123.30.250:9981/stream/channelid/56
-CNTV,http://117.123.30.250:9981/stream/channelid/6
-Foxlife,http://117.123.30.250:9981/stream/channelid/80
-OBS,http://117.123.30.250:9981/stream/channelid/90
-SCREEN,http://117.123.30.250:9981/stream/channelid/36
-TVA PLUS,http://117.123.30.250:9981/stream/channelid/52
-FUN TV,http://117.123.30.250:9981/stream/channelid/3
-EDGE TV,http://117.123.30.250:9981/stream/channelid/2
-DOCU ONE,http://117.123.30.250:9981/stream/channelid/1
-DRAMA CUBE,http://117.123.30.250:9981/stream/channelid/24
-VIEW,http://117.123.30.250:9981/stream/channelid/34
-CH NOW,http://117.123.30.250:9981/stream/channelid/53
-CH EVER,http://117.123.30.250:9981/stream/channelid/80
-ENA,http://117.123.30.250:9981/stream/channelid/41
-ENA STORY,http://117.123.30.250:9981/stream/channelid/46
-FASHION N,http://117.123.30.250:9981/stream/channelid/39
-국회방송,http://117.123.30.250:9981/stream/channelid/26
-Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-CMC TV,http://117.123.30.250:9981/stream/channelid/73
-smile plus,http://117.123.30.250:9981/stream/channelid/82
-EBS1,http://117.123.30.250:9981/stream/channelid/88
-EBS2,http://117.123.30.250:9981/stream/channelid/89
-EBSi,http://117.123.30.250:9981/stream/channelid/32
-ANIMAX,http://117.123.30.250:9981/stream/channelid/33
-WEE TV,http://117.123.30.250:9981/stream/channelid/74
-NS Home Shopping,http://117.123.30.250:9981/stream/channelid/16
-W Shopping,http://117.123.30.250:9981/stream/channelid/4
-GS My Shop,http://117.123.30.250:9981/stream/channelid/13
-CJONSTYLE,http://117.123.30.250:9981/stream/channelid/12
-Hyundai Home Shopping,http://117.123.30.250:9981/stream/channelid/14
-Gongyoung Shopping,http://117.123.30.250:9981/stream/channelid/23
+KBS1,http://117.123.30.250:9981/stream/channelid/85#
+KBS2,http://117.123.30.250:9981/stream/channelid/87#
+SBS,http://117.123.30.250:9981/stream/channelid/86#
+MBC,http://117.123.30.250:9981/stream/channelid/84#
+MBN,http://117.123.30.250:9981/stream/channelid/20#
+JTBC,http://117.123.30.250:9981/stream/channelid/18#
+Yonhap News TV,http://117.123.30.250:9981/stream/channelid/29#
+YTN,http://117.123.30.250:9981/stream/channelid/30#
+TVN,http://117.123.30.250:9981/stream/channelid/11#
+TV Chosun,http://117.123.30.250:9981/stream/channelid/21#
+TV Chosun2,http://117.123.30.250:9981/stream/channelid/63#
+Channel A,http://117.123.30.250:9981/stream/channelid/22#
+MBC DRAMA,http://117.123.30.250:9981/stream/channelid/59#
+SBS PLUS,http://117.123.30.250:9981/stream/channelid/64#
+KBS DRAMA,http://117.123.30.250:9981/stream/channelid/65#
+JTBC2,http://117.123.30.250:9981/stream/channelid/71#
+KoreaTV,http://117.123.30.250:9981/stream/channelid/27#
+Mnet,http://117.123.30.250:9981/stream/channelid/45#
+inet,http://117.123.30.250:9981/stream/channelid/66#
+OCN,http://117.123.30.250:9981/stream/channelid/35#
+OCN MOVIES,http://117.123.30.250:9981/stream/channelid/37#
+OCN MOVIES2,http://117.123.30.250:9981/stream/channelid/40#
+MBC every1,http://117.123.30.250:9981/stream/channelid/44#
+MBC ON,http://117.123.30.250:9981/stream/channelid/7#
+MBC M,http://117.123.30.250:9981/stream/channelid/70#
+SBS BIZ,http://117.123.30.250:9981/stream/channelid/69#
+TVN STORY,http://117.123.30.250:9981/stream/channelid/51#
+TVN DRAMA,http://117.123.30.250:9981/stream/channelid/49#
+TVN SHOW,http://117.123.30.250:9981/stream/channelid/83#
+IHQ,http://117.123.30.250:9981/stream/channelid/31#
+IHQ DRAMA,http://117.123.30.250:9981/stream/channelid/43#
+WBC TV,http://117.123.30.250:9981/stream/channelid/76#
+K-STAR,http://117.123.30.250:9981/stream/channelid/48#
+EVENT TV,http://117.123.30.250:9981/stream/channelid/56#
+CNTV,http://117.123.30.250:9981/stream/channelid/6#
+Foxlife,http://117.123.30.250:9981/stream/channelid/80#
+OBS,http://117.123.30.250:9981/stream/channelid/90#
+SCREEN,http://117.123.30.250:9981/stream/channelid/36#
+TVA PLUS,http://117.123.30.250:9981/stream/channelid/52#
+FUN TV,http://117.123.30.250:9981/stream/channelid/3#
+EDGE TV,http://117.123.30.250:9981/stream/channelid/2#
+DOCU ONE,http://117.123.30.250:9981/stream/channelid/1#
+DRAMA CUBE,http://117.123.30.250:9981/stream/channelid/24#
+VIEW,http://117.123.30.250:9981/stream/channelid/34#
+CH NOW,http://117.123.30.250:9981/stream/channelid/53#
+CH EVER,http://117.123.30.250:9981/stream/channelid/80#
+ENA,http://117.123.30.250:9981/stream/channelid/41#
+ENA STORY,http://117.123.30.250:9981/stream/channelid/46#
+FASHION N,http://117.123.30.250:9981/stream/channelid/39#
+국회방송,http://117.123.30.250:9981/stream/channelid/26#
+Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8#
+CMC TV,http://117.123.30.250:9981/stream/channelid/73#
+smile plus,http://117.123.30.250:9981/stream/channelid/82#
+EBS1,http://117.123.30.250:9981/stream/channelid/88#
+EBS2,http://117.123.30.250:9981/stream/channelid/89#
+EBSi,http://117.123.30.250:9981/stream/channelid/32#
+ANIMAX,http://117.123.30.250:9981/stream/channelid/33#
+WEE TV,http://117.123.30.250:9981/stream/channelid/74#
+NS Home Shopping,http://117.123.30.250:9981/stream/channelid/16#
+W Shopping,http://117.123.30.250:9981/stream/channelid/4#
+GS My Shop,http://117.123.30.250:9981/stream/channelid/13#
+CJONSTYLE,http://117.123.30.250:9981/stream/channelid/12#
+Hyundai Home Shopping,http://117.123.30.250:9981/stream/channelid/14#
+Gongyoung Shopping,http://117.123.30.250:9981/stream/channelid/23#
 ###
 央视###
 CCTV-1 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8#
