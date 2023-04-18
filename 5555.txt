@@ -37,6 +37,46 @@
             "filterable": 1
         },
 {
+			"key": "dr_腾云驾雾",
+			"name": "腾讯TV",
+			"type": 3,
+			"api": "https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/lcx/dr_py/raw/branch/master/js/腾云驾雾.js"
+		},
+		{
+			"key": "dr_奇珍异兽",
+			"name": "爱奇艺TV",
+			"type": 3,
+			"api": "https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/lcx/dr_py/raw/branch/master/js/奇珍异兽.js"
+		},
+		{
+			"key": "dr_百忙无果",
+			"name": "芒果TV",
+			"type": 3,
+			"api": "https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/lcx/dr_py/raw/branch/master/js/百忙无果.js"
+		},
+		{
+			"key": "dr_优酷",
+			"name": "优酷TV",
+			"type": 3,
+			"api": "https://agit.ai/lcx/dr_py/raw/branch/master/libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://agit.ai/lcx/dr_py/raw/branch/master/js/优酷.js"
+		},
+{
     "key":"drpy_007",
     "name":"影视┃007",
     "type":3,
