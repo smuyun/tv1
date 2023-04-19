@@ -41,7 +41,6 @@ MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 MBC,http://58.142.60.62:9981/stream/channelid/793162132
-MBC,http://han.ddkdxmkj.com/api/han123.php?id=10
 MBC,http://110.9.159.82:9981/stream/channelid/124634470
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=10
@@ -71,8 +70,8 @@ Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb639
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
-YTN,http://210.92.207.38:40001
 YTN,http://hls.ye23.vip/hk/ytn.php
+YTN,http://210.92.207.38:40001
 YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 YTN,http://cdn.th11.jpnettv.live/live/ytn_540/playlist.m3u8
 YTN,http://cdn.th11.jpnettv.live/live/ytn_720/playlist.m3u8
@@ -117,7 +116,6 @@ KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS DRAMA,http://110.9.159.82:9981/stream/channelid/1207260298
 KBS DRAMA,http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
 KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
-KBS DRAMA,http://8.ykwlm.sinaapp.com/han3.php?id=2
 KBS DRAMA,http://zyj520ljzfjzfx.xyz/kbs.php?id=drama
 KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
 KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
@@ -132,6 +130,7 @@ KBS W,http://line.premiumpowers.net:80/Manuel/1234567/941604
 KBS W,http://luotuo.ycchenrong.cn/dl/kbs.php?id=3
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
@@ -183,23 +182,19 @@ KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS JOY,http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
 KBS JOY,http://han.ddkdxmkj.com/api/kbs.php?id=6
-KBS JOY,http://8.ykwlm.sinaapp.com/han3.php?id=3
-KBS JOY,http://8.ykwlm.sinaapp.com/hanguo4.php?id=5
 KBS JOY,http://live1.abcdsky.com:1935/live/KBSJOY/playlist.m3u8
 KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+KBS KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
 KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
 KBSN LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
 KBSN LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBSN LIFE,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
-KBSN LIFE,http://8.ykwlm.sinaapp.com/han3.php?id=4
-KBSN LIFE,http://8.ykwlm.sinaapp.com/hanguo4.php?id=7
 KBSN LIFE,http://han.ddkdxmkj.com/api/kbs.php?id=7
 KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS Story,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
 KBS Story,http://han.ddkdxmkj.com/api/kbs.php?id=8
-KBS Story,http://8.ykwlm.sinaapp.com/han3.php?id=5
 Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Kpop,http://ye23.win/iptv/sbs5.1.php?id=S20
 KMTV,https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
@@ -228,8 +223,6 @@ SBS 동상이몽2 - 너는 내 운명,https://d303zg8wpbocww.cloudfront.net/v1/m
 국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.net
 국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 국방TV,http://ye23.win/iptv/korea2021.php?id=dema
-MBC综艺频道,http://8.ykwlm.sinaapp.com/han3.php?id=10
-MBC综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MBC釜山,http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 MBC济州,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
@@ -404,6 +397,7 @@ GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3
 GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 CJONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJONSTYLE,https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8
+CJONSTYLE,http://mytv.dothome.co.kr/ch/catv/91.php
 CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 CJONSTYLE+,https://kr-streams.onrender.com/scraper?channel=517
 CJONSTYLE+,https://live-ch2.cjonstyle.net/cjosplus/_definst_/live2/playlist.m3u8
