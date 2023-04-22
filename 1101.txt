@@ -57,8 +57,8 @@ MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
-JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
 JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
+JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_540/playlist.m3u8
 JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_720/playlist.m3u8
@@ -419,24 +419,6 @@ Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
 
 🇨🇳央视,#genre#
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
-CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
-CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
-CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
-CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
-CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
-CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV1,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8?
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
@@ -570,7 +552,6 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?
 CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV13,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?
 CCTV13,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://www.372583307.top:4022/udp/233.50.201.246:5140
@@ -599,7 +580,6 @@ CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV16,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8?
-CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV16,http://www.372583307.top:4022/udp/233.50.201.192:5140
 CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
@@ -611,6 +591,24 @@ CCTV17,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m
 CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV11,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+CCTV12,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+CCTV16,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
+CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 
 🇨🇳卫视,#genre#
 深圳都市,http://stream.guihet.com/t/sztv.php?id=2
@@ -784,8 +782,8 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 
 🇨🇳GANG AO,#genre#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://xstartx.com:4000/udp/239.93.0.162:2192
 凤凰中文,http://hls.ye23.vip:80/dl/fengshows.php?id=2
 凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2?zgangd
@@ -794,8 +792,8 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 凤凰中文,http://line.premiumpowers.net:80/Manuel/1234567/941626
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,http://chuangye168.gnway.org:56994/g8dyou.php?id=fhzw_1500
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://xstartx.com:4000/udp/239.93.0.118:2191
 凤凰资讯,http://hls.ye23.vip:80/dl/fengshows.php?id=1
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd
@@ -818,6 +816,7 @@ CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+TVB翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 TVB翡翠台,http://38.60.38.65:5588/wm2268.php?id=jade98_twn
 TVB翡翠台,http://chuangye168.gnway.org:56994/g8dyou.php?id=1350_4500
 TVB翡翠台,http://r.jdshipin.com/qClQf
@@ -834,6 +833,7 @@ TVB翡翠海外,http://line.premiumpowers.net:80/Manuel/1234567/941619
 翡翠TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
 翡翠TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153401
 翡翠娱乐新闻,http://line.premiumpowers.net:80/Manuel/1234567/153398
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 TVB星河,http://38.60.38.65:5588/wm2268.php?id=Xinhe
 TVB星河,http://line.premiumpowers.net:80/Manuel/1234567/941620
 TVB星河,http://line.premiumpowers.net:80/Manuel/1234567/941620
