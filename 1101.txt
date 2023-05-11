@@ -90,6 +90,7 @@ TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,https://c11.kr/1608e
+TV Chosun,mitv://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955
 TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
