@@ -281,7 +281,7 @@
     {
     "key": "523zyw",
     "name": "523资源",
-    "api": "https://caiji.523zyw.com/inc/seacmsapi.php/provide/vod/",
+    "api": "https://caiji.523zyw.com/inc/seacmsapi.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -293,7 +293,7 @@
   {
     "key": "naichaapi",
     "name": "奶茶资源",
-    "api": "https://caiji.naichaapi.com/inc/api.php/provide/vod/",
+    "api": "https://caiji.naichaapi.com/inc/api.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -305,7 +305,7 @@
   {
     "key": "putaozy",
     "name": "葡萄资源",
-    "api": "https://caiji.putaozy.net/api.php/provide/vod/",
+    "api": "https://caiji.putaozy.net/inc/api.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -341,7 +341,7 @@
   {
     "key": "huakuiapi",
     "name": "花魁",
-    "api": "https://caiji.huakuiapi.com/inc/api.php/provide/vod/",
+    "api": "https://caiji.huakuiapi.com/inc/api.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -377,7 +377,7 @@
   {
     "key": "maozyapi",
     "name": "色猫资源",
-    "api": "https://api.maozyapi.com/inc/api.php/provide/vod/",
+    "api": "https://api.maozyapi.com/inc/api.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -389,7 +389,7 @@
   {
     "key": "wmcj8",
     "name": "AG资源",
-    "api": "http://wmcj8.com/inc/sapi.php/provide/vod/",
+    "api": "http://wmcj8.com/inc/sapi.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -401,7 +401,7 @@
   {
     "key": "apiabzy",
     "name": "爱播资源",
-    "api": "https://cj.apiabzy.com/api.php/provide/vod/",
+    "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -425,7 +425,7 @@
   {
     "key": "7777688",
     "name": "76色色",
-    "api": "http://m.7777688.com/inc/api.php/provide/vod/",
+    "api": "http://m.7777688.com/inc/api.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -461,7 +461,7 @@
   {
     "key": "hjzy",
     "name": "花椒资源",
-    "api": "https://apihjzy.com/api.php/Seacms/vod/",
+    "api": "https://apihjzy.com/api.php/Seacms/vod/at/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -473,7 +473,7 @@
    {
     "key": "caomeiapi",
     "name": "草莓资源",
-    "api": "https://caiji.caomeiapi.com/inc/api.php/provide/vod/",
+    "api": "https://caiji.caomeiapi.com/inc/api.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
