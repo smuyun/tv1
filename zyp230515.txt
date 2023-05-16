@@ -305,7 +305,7 @@
   {
     "key": "putaozy",
     "name": "葡萄资源",
-    "api": "https://caiji.putaozy.net/inc/api.php/provide/vod/",
+    "api": "https://caiji.putaozy.net/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
