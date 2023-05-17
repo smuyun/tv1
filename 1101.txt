@@ -53,9 +53,9 @@ MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://cdn.th11.jpnettv.live/live/mbc_720/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-MBN,http://hls-live.mbn.co.kr/mbn-on-air/600k/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY3OTEwMTYzMn0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=xN2wXDcG3CB5Q0mUHduuhNpTOIEANPRvUNkb~vVfHBCnzCfbR0VOGMbOu3aH90BowK0EvXVMZhvarv49MqZ6eMXwcbbLqo2i4SdEEP8g8qWd14Alxli4vh5tPDeBFEPfI2kRNjvltuk1rSHe-2P2UBa7KotvICsRBk7qxdkgjoA_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
@@ -97,10 +97,11 @@ TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,https://c11.kr/1608e
 TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_540/playlist.m3u8
-TV Chosun,http://cdn.th11.jpnettv.live/live/tvchosun_720/playlist.m3u8
+TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+Channel A,https://fhs8037.bd-61.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w1399075790.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2NoYWxpdmUvX2RlZmluc3RfL2F0djMiLCJleHAiOjE2ODQyOTQwNDZ9.pTymGtOxlOSkXnJqaPVQiQdLtsxopekITQuS-pBgnCs
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,http://hls.ye23.vip/hk/Channel.php
 Channel A,http://fhs8037.bd-61.ktcdn.co.kr/chalivepc/_definst_/atv2/chunklist_w304767585.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODA2OTYwNDMsInBhdGgiOiIvY2hhbGl2ZXBjL19kZWZpbnN0Xy9hdHYyIn0.yj9KKekRaHtpXlPK6O6_yZqRkFksIMysTL1urQImCE4
@@ -184,6 +185,7 @@ OCN MOVIES2,http://110.9.159.82:9981/stream/channelid/273544231
 OCN Movies2,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
 MBC M,http://58.142.60.62:9981/stream/channelid/1920571670
 MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default
+MUSIC TOP,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 THE K-POP,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S14&q=default
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
@@ -345,7 +347,7 @@ INDIE FILM,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F260
 POLARIS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C6901&q=default
 WELike,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C8101&q=default
 NATV,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F3301&q=default
-A PLUS,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2502&q=default
+K PLUS,http://210.210.155.35/session/ca58457a-f461-11ed-ab04-a676bdcf2a37/uq2663/h/h08/index.m3u8
 COOKTV,http://58.142.60.62:9981/stream/channelid/985811264
 GTV,http://58.142.60.62:9981/stream/channelid/1986529233
 ENA,https://cutt.ly/Ha_Noi_IPTV_27-ENA-Phim_cho_Nguoi_ham_mo
