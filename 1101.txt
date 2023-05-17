@@ -804,6 +804,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 🇨🇳GANG AO,#genre#
 凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
 凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
+凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰中文,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=300
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://xstartx.com:4000/udp/239.93.0.162:2192
@@ -816,6 +817,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 凤凰中文,http://chuangye168.gnway.org:56994/g8dyou.php?id=fhzw_1500
 凤凰资讯,http://112.102.214.193:65530/live/fhzx/index.m3u8
 凤凰资讯,http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8
+凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://playtimeshift-live.ifeng.com:80/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=300
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰资讯,http://xstartx.com:4000/udp/239.93.0.118:2191
@@ -827,6 +829,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 凤凰资讯,http://line.premiumpowers.net:80/Manuel/1234567/941627
 凤凰资讯,http://line.premiumpowers.net:80/Manuel/1234567/941627
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
+凤凰香港台,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港台,http://hls.ye23.vip:80/dl/fengshows.php?id=3
 凤凰香港台,http://198.16.64.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 凤凰香港台,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8
