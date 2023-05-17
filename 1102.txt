@@ -110,6 +110,7 @@ Channel A,http://cdn.th11.jpnettv.live/live/channela_540/playlist.m3u8
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091
+SBS PLUS,p2p://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
 SBS PLUS,http://58.142.60.62:9981/stream/channelid/1517719782
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
