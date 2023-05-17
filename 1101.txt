@@ -1,4 +1,5 @@
 🇰🇷HANGUO,#genre#
+KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
@@ -8,7 +9,6 @@ KBS1,http://cdn.th11.jpnettv.live/live/kbs1_540/playlist.m3u8
 KBS1,http://cdn.th11.jpnettv.live/live/kbs1_720/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
-KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://ye23.top/ktv/kbs2022.php?id=1
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
