@@ -1,4 +1,4 @@
-🇰🇷韩国,#genre#
+🇰🇷HANGUO,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
@@ -60,6 +60,10 @@ JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
+KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
+KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,https://kr-streams.onrender.com/scraper?channel=277
@@ -90,13 +94,13 @@ TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 Channel A,https://fhs5043.gn-81.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w1032224713.m3u8
+Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,http://hls.ye23.vip/hk/Channel.php
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
 Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
-Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091
 SBS PLUS,p2p://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
 SBS PLUS,http://58.142.60.62:9981/stream/channelid/1517719782
@@ -122,10 +126,6 @@ KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 KBS W,http://line.premiumpowers.net:80/Manuel/1234567/941604
 KBS W,http://luotuo.ycchenrong.cn/dl/kbs.php?id=3
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
-KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
-KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
-KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
@@ -586,91 +586,89 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 深圳都市,http://www.superkit.cn:8888/udp/239.77.1.124:5146
 深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.124:5146
 深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.176:5146
-延边卫视,http://live.ybtvyun.com/video/s10006-602e81246858/index.m3u8
-延边卫视广电,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
-延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视广电,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 延边2台,http://live.ybtvyun.com/video/s10006-225599f0e2ce/index.m3u8
 延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://113.207.84.197:8090/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 北京卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
 北京卫视,http://118.24.227.124/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,http://www.372583307.top:4022/udp/233.50.201.107:5140
+东方卫视,http://www.372583307.top:4022/udp/233.50.201.125:5140
 东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://113.207.84.197:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 东方卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 东方卫视,http://118.24.227.124/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
-东方卫视,http://www.372583307.top:4022/udp/233.50.201.125:5140
+广东卫视,http://www.372583307.top:4022/udp/233.50.201.102:5140
 广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,http://113.207.84.197:8090/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 广东卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 广东卫视,http://118.24.227.124/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
-广东卫视,http://www.372583307.top:4022/udp/233.50.201.102:5140
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
+深圳卫视,http://www.372583307.top:4022/udp/233.50.201.101:5140
 深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://113.207.84.197:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 深圳卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 深圳卫视,http://118.24.227.124/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
-深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-深圳卫视,http://www.372583307.top:4022/udp/233.50.201.101:5140
+重庆卫视,http://www.372583307.top:4022/udp/233.50.201.143:5140
 重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
 重庆卫视,http://113.207.84.197:8090/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 重庆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
 重庆卫视,http://118.24.227.124/__cl/cg:live/__c/chongqingHD/__op/default/__f/index.m3u8
-重庆卫视,http://www.372583307.top:4022/udp/233.50.201.143:5140
+天津卫视,http://www.372583307.top:4022/udp/233.50.201.104:5140
 天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://113.207.84.197:8090/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 天津卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
 天津卫视,http://118.24.227.124/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-天津卫视,http://www.372583307.top:4022/udp/233.50.201.104:5140
+浙江卫视,http://www.372583307.top:4022/udp/233.50.201.100:5140
 浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://113.207.84.197:8090/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 浙江卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 浙江卫视,http://118.24.227.124/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
-浙江卫视,http://www.372583307.top:4022/udp/233.50.201.100:5140
+湖南卫视,http://www.372583307.top:4022/udp/233.50.201.103:5140
 湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 湖南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
 湖南卫视,http://118.24.227.124/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-湖南卫视,http://www.372583307.top:4022/udp/233.50.201.103:5140
+江苏卫视,http://www.372583307.top:4022/udp/233.50.201.106:5140
 江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://113.207.84.197:8090/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视,http://118.24.227.124/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-江苏卫视,http://www.372583307.top:4022/udp/233.50.201.106:5140
+江西卫视,http://www.372583307.top:4022/udp/233.50.201.145:5140
 江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
 江西卫视,http://113.207.84.197:8090/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
 江西卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
 江西卫视,http://118.24.227.124/__cl/cg:live/__c/jiangxiHD/__op/default/__f/index.m3u8
-江西卫视,http://www.372583307.top:4022/udp/233.50.201.145:5140
+安徽卫视,http://www.372583307.top:4022/udp/233.50.201.113:5140
 安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://113.207.84.197:8090/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
 安徽卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
 安徽卫视,http://118.24.227.124/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
-安徽卫视,http://www.372583307.top:4022/udp/233.50.201.113:5140
 云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 云南卫视,https://live.v1.mk/api/ghyx.php?id=YunNanHD_2000
+贵州卫视,http://www.372583307.top:4022/udp/233.50.201.142:5140
 贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,http://113.207.84.197:8090/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
 贵州卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
 贵州卫视,http://118.24.227.124/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
-贵州卫视,http://www.372583307.top:4022/udp/233.50.201.142:5140
 贵州卫视,https://live.v1.mk/api/ghyx.php?id=GuiZhouHD_2000
+四川卫视,http://www.372583307.top:4022/udp/233.50.201.139:5140
 四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
 四川卫视,http://113.207.84.197:8090/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 四川卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
 四川卫视,http://118.24.227.124/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8
-四川卫视,http://www.372583307.top:4022/udp/233.50.201.139:5140
-山东卫视,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://www.372583307.top:4022/udp/233.50.201.105:5140
+山东卫视,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
 山西卫视,http://113.207.84.197:8090/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
 山西卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
 山西卫视,http://118.24.227.124/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
@@ -680,52 +678,52 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 广西卫视,http://113.207.84.197:8090/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 广西卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 广西卫视,http://118.24.227.124/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
-甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,http://www.372583307.top:4022/udp/233.50.201.149:5140
+甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,https://live.v1.mk/api/ghyx.php?id=GanSuHD_2000
 青海卫视,http://113.207.84.197:8090/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
 青海卫视,https://live.v1.mk/api/ghyx.php?id=QingHaiHD_2000
 青海卫视,http://125.210.152.19:9120/live/hszx-qhtv-h264.m3u8
+湖北卫视,http://www.372583307.top:4022/udp/233.50.201.114:5140
 湖北卫视,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视,http://113.207.84.197:8090/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 湖北卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
 湖北卫视,http://118.24.227.124/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
-湖北卫视,http://www.372583307.top:4022/udp/233.50.201.114:5140
+河北卫视,http://www.372583307.top:4022/udp/233.50.201.140:5140
 河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
 河北卫视,http://113.207.84.197:8090/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
 河北卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
 河北卫视,http://118.24.227.124/__cl/cg:live/__c/hebeiSD/__op/default/__f/index.m3u8
-河北卫视,http://www.372583307.top:4022/udp/233.50.201.140:5140
+河南卫视,http://www.372583307.top:4022/udp/233.50.201.144:5140
 河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 河南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 河南卫视,http://118.24.227.124/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
-河南卫视,http://www.372583307.top:4022/udp/233.50.201.144:5140
+辽宁卫视,http://www.372583307.top:4022/udp/233.50.201.141:5140
 辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://113.207.84.197:8090/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 辽宁卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
 辽宁卫视,http://118.24.227.124/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
-辽宁卫视,http://www.372583307.top:4022/udp/233.50.201.141:5140
 吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,http://113.207.84.197:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 吉林卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 吉林卫视,http://118.24.227.124/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
+黑龙江卫视,http://www.372583307.top:4022/udp/233.50.201.115:5140
 黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 黑龙江卫视,http://113.207.84.197:8090/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 黑龙江卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 黑龙江卫视,http://118.24.227.124/__cl/cg:live/__c/heilongjiangHD/__op/default/__f/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://www.372583307.top:4022/udp/233.50.201.115:5140
 海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 海南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 海南卫视,http://118.24.227.124/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
+东南卫视,http://www.372583307.top:4022/udp/233.50.201.146:5140
 东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
 东南卫视,http://113.207.84.197:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 东南卫视,http://118.24.227.124/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 东南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
-东南卫视,http://www.372583307.top:4022/udp/233.50.201.146:5140
 海峡卫视,http://39.135.48.135:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1?$超清1080P
 厦门卫视,https://live.v1.mk/api/ghyx.php?id=XiaMenHD_2000
 陕西卫视,https://live.v1.mk/api/ghyx.php?id=ShannXiHD_2000
@@ -733,8 +731,8 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 新疆卫视,http://113.207.84.197:8090/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
 新疆卫视,https://live.v1.mk/api/ghyx.php?id=XinJiangHD_2000
 新疆卫视,http://125.210.152.19:9120/live/hszx-xjtv-h264.m3u8
-内蒙古卫视,https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000
 内蒙古卫视,http://www.372583307.top:4022/udp/233.50.201.148:5140
+内蒙古卫视,https://live.v1.mk/api/ghyx.php?id=NeiMengGuHD_2000
 内蒙古卫视,http://125.210.152.19:9120/live/hszx-nmgtv-h264.m3u8
 西藏卫视,http://113.207.84.197:8090/__cl/cg:live/__c/xizangSD/__op/default/__f/index.m3u8
 西藏卫视,https://live.v1.mk/api/ghyx.php?id=XiZangHD_2000
