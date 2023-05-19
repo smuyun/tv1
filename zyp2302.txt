@@ -279,9 +279,9 @@
     "id": 23
   },
   {
-    "key": "523zyw",
-    "name": "523资源",
-    "api": "https://caiji.523zyw.com/inc/seacmsapi.php/",
+    "key": "Urkf4I",
+    "name": "环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -303,9 +303,9 @@
     "id": 25
   },
   {
-    "key": "putaozy",
-    "name": "葡萄资源",
-    "api": "https://caiji.putaozy.net/inc/api.php/",
+    "key": "QRCmTz",
+    "name": "鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -314,7 +314,7 @@
     "type": 1,
     "id": 26
   },
-   {
+  {
     "key": "siwazyw",
     "name": "丝袜资源",
     "api": "https://siwazyw.cc/api.php/provide/vod/",
@@ -327,9 +327,9 @@
     "id": 27
   },
   {
-    "key": "Oh3AoH",
-    "name": "抖阴视频",
-    "api": "https://www.888dav.com/api.php/provide/vod",
+    "key": "l9UfIx",
+    "name": "影库资源",
+    "api": "https://api.ykapi.net/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -339,9 +339,9 @@
     "id": 28
   },
   {
-    "key": "huakuiapi",
-    "name": "花魁",
-    "api": "https://caiji.huakuiapi.com/inc/api.php/",
+    "key": "CUOZdQ",
+    "name": "888资源",
+    "api": "http://m.7777688.com/inc/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -375,9 +375,9 @@
     "id": 31
   },
   {
-    "key": "Yr2jUc",
-    "name": "9号资源",
-    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "key": "hmnBi8",
+    "name": "爱播资源",
+    "api": "https://api.apiabzy.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -387,9 +387,9 @@
     "id": 32
   },
   {
-    "key": "Q3nyjq",
-    "name": "浪潮资源",
-    "api": "http://langchaozy6.com/api.php/provide/vod/",
+    "key": "6MRTPk",
+    "name": "酷豆资源",
+    "api": "https://api.kdapi.info/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -399,9 +399,9 @@
     "id": 33
   },
   {
-    "key": "apiabzy",
-    "name": "爱播资源",
-    "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml",
+    "key": "bZPYYQ",
+    "name": "佳丽资源",
+    "api": "https://jializyzapi.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -410,10 +410,10 @@
     "type": 1,
     "id": 34
   },
-   {
-    "key": "shayu",
-    "name": "shayu",
-    "api": "https://shayuapi.com/api.php/Seacms/vod",
+  {
+    "key": "xNapV7",
+    "name": "芒果资源",
+    "api": "https://mgzyz1.com/api.php/provide/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -423,9 +423,9 @@
     "id": 35
   }, 
   {
-    "key": "7777688",
-    "name": "76色色",
-    "api": "http://m.7777688.com/inc/api.php/",
+    "key": "oK4vwz",
+    "name": "泡芙资源",
+    "api": "http://zmcj88.com/api?ac=list/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -434,7 +434,7 @@
     "type": 1,
     "id": 36
   }, 
-   {
+  {
     "key": "lb",
     "name": "乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -447,9 +447,9 @@
     "id": 37
   },   
   {
-    "key": "bttcj",
-    "name": "BT天堂",
-    "api": "http://bttcj.com/inc/sapi.php",
+    "key": "mO90DJ",
+    "name": "乐鱼",
+    "api": "https://www.leyuzyapi.com/inc/apijson_vod.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -459,9 +459,9 @@
     "id": 38
   },
   {
-    "key": "hjzy",
-    "name": "花椒资源",
-    "api": "https://apihjzy.com/api.php/Seacms/vod/at/xml",
+    "key": "sjWs2b",
+    "name": "级片资源",
+    "api": "https://caiji.jjjzy.cc/inc/apijson_vod.php/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -470,7 +470,7 @@
     "type": 1,
     "id": 39
   },  
-    {
+  {
     "key": "LEt6dW",
     "name": "番号资源",
     "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -483,9 +483,9 @@
     "id": 40
   },  
   {
-    "key": "fKnIkz",
-    "name": "速度资源",
-    "api": "http://www.ggmmzy.com:9999/inc/xml",
+    "key": "LW296T",
+    "name": "屌丝资源",
+    "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -506,7 +506,7 @@
     "type": 1,
     "id": 42
   },  
-     {
+  {
     "key": "Ho5uox",
     "name": "皇冠资源",
     "api": "https://hghhh.com/api.php/provide/vod",
@@ -519,9 +519,9 @@
     "id": 43
   },  
   {
-    "key": "VGIJhw",
-    "name": "狼友资源",
-    "api": "https://www.langyouzy.com/api.php/provide/vod",
+    "key": "Pu6G1T",
+    "name": "小姐姐资源",
+    "api": "https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -542,10 +542,10 @@
     "type": 1,
     "id": 45
   },  
-{
-    "key": "caomeiapi",
-    "name": "草莓资源",
-    "api": "https://caiji.caomeiapi.com/inc/api.php/",
+  {
+    "key": "Ee2adb",
+    "name": "52AVAV",
+    "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -558,40 +558,33 @@
 "iptv":  {
   "default":1,
    "data":[
-  {
-    "name": "自用直播",
-    "url": "https://agit.ai/smy/tv/raw/branch/main/1101.txt",
-    "epg": "http://epg.112114.xyz",
-    "isActive": true,
-    "id": 1
-  },      
-{
+ {
     "name": "Ray直播",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
-    "id": 2
+    "id": 1
   },      
   {
     "name": "多多直播",
     "url": "https://yydsys.top/duo/txt/v.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
-    "id": 3
+    "id": 2
   },
   {
     "name": "饭太硬直播",
     "url": "http://ftyyy.tk/live.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
-    "id": 4
+    "id": 3
   },  
    {
     "name": "俊于直播",
     "url": "http://home.jundie.top:81/Cat/tv/live.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
-    "id": 5
+    "id": 4
   }  
 ]},
 "analyzes":  {"default":1,
