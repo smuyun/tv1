@@ -61,9 +61,9 @@ MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://cdn.th11.jpnettv.live/live/mbn_720/playlist.m3u8
 MBN,http://cdn.th11.jpnettv.live/live/mbn_540/playlist.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
+JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
 JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
 JTBC,p2p://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
-JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_540/playlist.m3u8
 JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
 JTBC,http://cdn.th11.jpnettv.live/live/jtbc_720/playlist.m3u8
