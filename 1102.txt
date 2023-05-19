@@ -922,8 +922,7 @@ Tooniverse,mitv://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a01016
 SPOTV,mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645
 SPOTV 2,mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7
 JTBC GOLF,mitv://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d
-
-🇪🇺环球1_9988,#genre#
+环球1_9988,#genre#
 彩虹e台,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹电影台,http://162.19.247.76:22222/live/caihong2/index.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
@@ -1292,7 +1291,7 @@ VividRedHD,http://109.200.130.123:7032/play/a00g
 ShemaleTubeTVHD,https://www.ast.tv/stream/1/master.m3u8
 ShemaleTubeTV2HD,https://www.ast.tv/stream/2/master.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
-🇪🇺环球2_9988,#genre#
+环球2_9988,#genre#
 Brazzers HD,http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/6182/index.m3u8
 Brazzers TV Europe,http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/910/index.m3u8
 Brazzers eXXtra,http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/6181/index.m3u8
