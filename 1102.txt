@@ -1,4 +1,4 @@
-🇰🇷HANGUO,#genre#
+韩国,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
@@ -407,8 +407,7 @@ Public Home Shopping,https://kr-streams.onrender.com/scraper?channel=921
 Shopping NT,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C4901&q=default
 Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
-
-🇨🇳央视,#genre#
+央视,#genre#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV1,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8?
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
@@ -580,8 +579,7 @@ CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV14,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
 CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
-
-🇨🇳卫视,#genre#
+卫视,#genre#
 深圳都市,http://stream.guihet.com/t/sztv.php?id=2
 深圳都市,http://www.superkit.cn:8888/udp/239.77.1.124:5146
 深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.124:5146
@@ -782,8 +780,7 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 山东卫视,http://125.210.152.19:9120/live/hzgq-sdwsgq-h264.m3u8
 山西卫视,http://125.210.152.19:9120/live/hszx-shanxitv-h264.m3u8
 陕西卫视,http://125.210.152.19:9120/live/hszx-sxtv-h264.m3u8
-
-🇨🇳GANG AO,#genre#
+GANG AO,#genre#
 凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
 凤凰中文,http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
