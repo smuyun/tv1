@@ -541,18 +541,6 @@
     "isActive": true,
     "type": 1,
     "id": 45
-  },  
-  {
-    "key": "Ee2adb",
-    "name": "52AVAV",
-    "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "status": true,
-    "isActive": true,
-    "type": 1,
-    "id": 46
   }
 ]},
 "iptv":  {
