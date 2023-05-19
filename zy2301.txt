@@ -560,7 +560,7 @@
    "data":[
  {
     "name": "自用直播",
-    "url": "https://agit.ai/smy/tv/src/branch/main/1101.txt",
+    "url": "https://agit.ai/smy/tv/src/branch/main/1102.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
