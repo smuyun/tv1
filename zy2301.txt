@@ -553,6 +553,91 @@
     "isActive": true,
     "type": 1,
     "id": 46
+  },
+  {
+    "key": "11TblD",
+    "name": "新浪资源",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 47
+  },
+  {
+    "key": "vNFihK",
+    "name": "8090资源",
+    "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 48
+  },
+  {
+    "key": "E0eZFx",
+    "name": "畅视资源",
+    "api": "http://app.reboju.net/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 49
+  },
+  {
+    "key": "lehootv",
+    "name": "乐活影视",
+    "api": "https://lehootv.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 49
+  },
+  {
+    "key": "RlRC4T",
+    "name": "酷云77",
+    "api": "http://api.kunyu77.com/api.php/provide/vod",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 49
+  },
+  {
+    "key": "Bb8llu",
+    "name": "韩剧网",
+    "api": "http://www.hanjuzy.com/inc/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 49
+  },
+
+  {
+    "key": "dMmZyn",
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "download": "",
+    "jiexiUrl": "",
+    "group": "默认",
+    "status": true,
+    "isActive": true,
+    "type": 1,
+    "id": 50
   }
 ]},
 "iptv":  {
