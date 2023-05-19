@@ -38,7 +38,7 @@
     "type": 1,
     "id": 3
   },
-   {
+  {
     "key": "快车资源",
     "name": "快车资源",
     "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
@@ -134,7 +134,7 @@
     "type": 1,
     "id": 11
   },
-   {
+  {
     "key": "天堂资源",
     "name": "天堂资源",
     "api": "http://vipmv.cc/api.php/provide/vod/",
@@ -158,7 +158,7 @@
     "type": 1,
     "id": 13
   }, 
-   {
+  {
     "key": "1080资源",
     "name": "1080资源",
     "api": "https://1080p.tv/api.php/provide/vod",
@@ -194,7 +194,7 @@
     "type": 1,
     "id": 16
   },  
-   {
+  {
     "key": "忆梦资源",
     "name": "忆梦资源",
     "api": "http://anltv.cn/api.php/provide/vod/",
@@ -314,7 +314,7 @@
     "type": 1,
     "id": 26
   },
-   {
+  {
     "key": "siwazyw",
     "name": "丝袜资源",
     "api": "https://siwazyw.cc/api.php/provide/vod/",
@@ -410,7 +410,7 @@
     "type": 1,
     "id": 34
   },
-   {
+  {
     "key": "xNapV7",
     "name": "芒果资源",
     "api": "https://mgzyz1.com/api.php/provide/vod/",
@@ -434,7 +434,7 @@
     "type": 1,
     "id": 36
   }, 
-   {
+  {
     "key": "lb",
     "name": "乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -470,7 +470,7 @@
     "type": 1,
     "id": 39
   },  
-    {
+  {
     "key": "LEt6dW",
     "name": "番号资源",
     "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -506,7 +506,7 @@
     "type": 1,
     "id": 42
   },  
-     {
+  {
     "key": "Ho5uox",
     "name": "皇冠资源",
     "api": "https://hghhh.com/api.php/provide/vod",
@@ -586,7 +586,7 @@
     "isActive": true,
     "id": 4
   },  
-   {
+  {
     "name": "俊于直播",
     "url": "http://home.jundie.top:81/Cat/tv/live.txt",
     "epg": "http://epg.112114.xyz",
