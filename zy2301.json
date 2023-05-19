@@ -305,7 +305,7 @@
   {
     "key": "QRCmTz",
     "name": "鲨鱼资源",
-    "api": https://shayuapi.com/api.php/Seacms/vod/",
+    "api": "https://shayuapi.com/api.php/Seacms/vod/",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
@@ -314,7 +314,7 @@
     "type": 1,
     "id": 26
   },
-   {
+  {
     "key": "siwazyw",
     "name": "丝袜资源",
     "api": "https://siwazyw.cc/api.php/provide/vod/",
@@ -410,7 +410,7 @@
     "type": 1,
     "id": 34
   },
-   {
+  {
     "key": "xNapV7",
     "name": "芒果资源",
     "api": "https://mgzyz1.com/api.php/provide/vod/",
@@ -434,7 +434,7 @@
     "type": 1,
     "id": 36
   }, 
-   {
+  {
     "key": "lb",
     "name": "乐播",
     "api": "https://lbapi9.com/api.php/provide/vod/",
@@ -470,7 +470,7 @@
     "type": 1,
     "id": 39
   },  
-    {
+  {
     "key": "LEt6dW",
     "name": "番号资源",
     "api": "http://fhapi9.com/api.php/provide/vod/",
@@ -506,7 +506,7 @@
     "type": 1,
     "id": 42
   },  
-     {
+  {
     "key": "Ho5uox",
     "name": "皇冠资源",
     "api": "https://hghhh.com/api.php/provide/vod",
@@ -542,7 +542,7 @@
     "type": 1,
     "id": 45
   },  
-{
+  {
     "key": "Ee2adb",
     "name": "52AVAV",
     "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml",
@@ -558,13 +558,13 @@
 "iptv":  {
   "default":1,
    "data":[
-  {
+ {
     "name": "自用直播",
-    "url": "https://agit.ai/smy/tv/raw/branch/main/1101.txt",
+    "url": "https://agit.ai/smy/tv/src/branch/main/1101.txt",
     "epg": "http://epg.112114.xyz",
     "isActive": true,
     "id": 1
-  },      
+  },       
 {
     "name": "Ray直播",
     "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
