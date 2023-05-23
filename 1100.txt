@@ -2,7 +2,6 @@
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://www.372583307.top:4022/udp/233.50.201.118:5140
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV1,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv1hd8m/8000000/mnf.m3u8?
 CCTV1,http://125.40.191.58:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://hls.yun.gehua.net.cn:8088/live/CCTV1HD_6000.m3u8
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
@@ -14,7 +13,6 @@ CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV2,http://www.372583307.top:4022/udp/233.50.201.119:5140
 CCTV2,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV2,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv2hd8m/8000000/mnf.m3u8?
 CCTV2,http://125.40.191.58:9901/tsfile/live/0002_1.m3u8
 CCTV2,http://hls.yun.gehua.net.cn:8088/live/CCTV2HD_6000.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -23,7 +21,6 @@ CCTV2,http://39.134.115.163:8080/TVOD/88888910/224/3221225619/index.m3u8
 CCTV3,http://www.372583307.top:4022/udp/233.50.201.196:5140
 CCTV3,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV3,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv38m/8000000/mnf.m3u8?
 CCTV3,http://125.40.191.58:9901/tsfile/live/0009_1.m3u8
 CCTV3,http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_6000.m3u8
 CCTV3,http://111.13.42.6/PLTV/88888888/224/3221226471/1.m3u8
@@ -32,7 +29,6 @@ CCTV3,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://113.207.84.197:8090/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
 CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV4,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv4hd8m/8000000/mnf.m3u8?
 CCTV4,http://125.40.191.58:9901/tsfile/live/1004_1.m3u8
 CCTV4,http://hls.yun.gehua.net.cn:8088/live/CCTV4HD_6000.m3u8
 CCTV4,http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
@@ -40,7 +36,6 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV5,http://www.372583307.top:4022/udp/233.50.201.197:5140
 CCTV5,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
 CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV5,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv58m/8000000/mnf.m3u8?
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV5,http://125.40.191.58:9901/tsfile/live/0005_1.m3u8
@@ -51,14 +46,12 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 CCTV5+,http://www.372583307.top:4022/udp/233.50.201.220:5140
 CCTV5,http://180.153.99.176/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/2300000/mnf.m3u8
 CCTV5+,http://113.207.84.197:8090/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-CCTV5+,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv5phd8m/8000000/mnf.m3u8?
 CCTV5+,http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 CCTV5+,http://39.135.138.60:18890/PLTV/88888910/224/3221225706/index.m3u8
 CCTV6,http://www.372583307.top:4022/udp/233.50.201.198:5140
 CCTV6,http://113.207.84.197:8090/__cl/cg:live/__c/cctv6HD/__op/default/__f/index.m3u8
 CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV6,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv6hd8m/8000000/mnf.m3u8?
 CCTV6,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV6,http://125.40.191.58:9901/tsfile/live/0007_1.m3u8
 CCTV6,http://hls.yun.gehua.net.cn:8088/live/CCTV5HD_6000.m3u8
@@ -67,7 +60,6 @@ CCTV6,http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 CCTV7,http://www.372583307.top:4022/udp/233.50.201.120:5140
 CCTV7,http://113.207.84.197:8090/__cl/cg:live/__c/cctv7HD/__op/default/__f/index.m3u8
 CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV7,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv7hd8m/8000000/mnf.m3u8?
 CCTV7,http://125.40.191.58:9901/tsfile/live/1006_1.m3u8
 CCTV7,http://hls.yun.gehua.net.cn:8088/live/CCTV7HD_6000.m3u8
 CCTV7,http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
@@ -76,7 +68,6 @@ CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122601
 CCTV8,http://www.372583307.top:4022/udp/233.50.201.199:5140
 CCTV8,http://113.207.84.197:8090/__cl/cg:live/__c/cctv8HD/__op/default/__f/index.m3u8
 CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV8,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8?
 CCTV8,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV8,http://125.40.191.58:9901/tsfile/live/1007_1.m3u8
 CCTV8,http://hls.yun.gehua.net.cn:8088/live/CCTV8HD_6000.m3u8
@@ -86,7 +77,6 @@ CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122619
 CCTV9,http://www.372583307.top:4022/udp/233.50.201.121:5140
 CCTV9,http://113.207.84.197:8090/__cl/cg:live/__c/cctv9HD/__op/default/__f/index.m3u8
 CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV9,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv9hd8m/8000000/mnf.m3u8?
 CCTV9,http://hls.yun.gehua.net.cn:8088/live/CCTV9HD_6000.m3u8
 CCTV9,http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 CCTV9,http://39.135.138.60:18890/PLTV/88888910/224/3221225646/index.m3u8
@@ -94,7 +84,6 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 CCTV10,http://www.372583307.top:4022/udp/233.50.201.122:5140
 CCTV10,http://113.207.84.197:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8
 CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV10,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv10hd8m/8000000/mnf.m3u8?
 CCTV10,http://125.40.191.58:9901/tsfile/live/0010_1.m3u8
 CCTV10,http://hls.yun.gehua.net.cn:8088/live/CCTV10HD_6000.m3u8
 CCTV10,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv10hd/2300000/mnf.m3u8
@@ -102,13 +91,11 @@ CCTV10,http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
 CCTV10,http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
 CCTV11,http://113.207.84.197:8090/__cl/cg:live/__c/cctv11HD/__op/default/__f/index.m3u8
 CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV11,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv11hd8m/8000000/mnf.m3u8?
 CCTV11,http://125.40.191.58:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 CCTV12,http://www.372583307.top:4022/udp/233.50.201.123:5140
 CCTV12,http://113.207.84.197:8090/__cl/cg:live/__c/cctv12HD/__op/default/__f/index.m3u8
 CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV12,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv12hd8m/8000000/mnf.m3u8?
 CCTV12,http://125.40.191.58:9901/tsfile/live/0012_1.m3u8
 CCTV12,http://hls.yun.gehua.net.cn:8088/live/CCTV12HD_6000.m3u8
 CCTV12,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
@@ -117,7 +104,6 @@ CCTV12,http://39.135.138.60:18890/PLTV/88888910/224/3221225637/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,http://www.372583307.top:4022/udp/233.50.201.246:5140
-CCTV13,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8?
 CCTV13,http://113.207.84.197:8090/__cl/cg:live/__c/cctv13HD/__op/default/__f/index.m3u8
 CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 CCTV13,http://223.109.53.84/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
@@ -128,7 +114,6 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 CCTV14,http://www.372583307.top:4022/udp/233.50.201.124:5140
 CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
 CCTV14,http://113.207.84.197:8090/__cl/cg:live/__c/cctv14HD/__op/default/__f/index.m3u8
-CCTV14,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctvsehd8m/8000000/mnf.m3u8?
 CCTV14,http://125.40.191.58:9901/tsfile/live/0014_1.m3u8
 CCTV14,http://hls.yun.gehua.net.cn:8088/live/CCTV14HD_6000.m3u8
 CCTV14,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvsehd/2300000/mnf.m3u8
@@ -136,7 +121,6 @@ CCTV14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://113.207.84.197:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV15,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv15hd8m/8000000/mnf.m3u8?
 CCTV15,http://125.40.191.58:9901/tsfile/live/0015_1.m3u8
 CCTV15,http://hls.yun.gehua.net.cn:8088/live/CCTV15HD_6000.m3u8
 CCTV15,http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
@@ -144,13 +128,11 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://www.372583307.top:4022/udp/233.50.201.192:5140
 CCTV16,http://113.207.84.197:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV16,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv16hd8m/8000000/mnf.m3u8?
 CCTV16,http://125.210.152.19:9120/live/hzgq-cctv16gq-h264.m3u8
 CCTV16,http://hls.yun.gehua.net.cn:8088/live/CCTV16HD_6000.m3u8
 CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 CCTV17,http://113.207.84.197:8090/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
-CCTV17,http://61.164.158.155/liveplay-kk.rtxapp.com/live/program/live/cctv17hd8m/8000000/mnf.m3u8?
 CCTV17,http://hls.yun.gehua.net.cn:8088/live/CCTV17HD_6000.m3u8
 CCTV17,http://39.135.138.59:18890/PLTV/88888910/224/3221225908/index.m3u8
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
