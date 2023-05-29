@@ -76,8 +76,8 @@ YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
 YTN,http://mytv.dothome.co.kr/ch/catv/215.php
 YTN,http://nettvpro.live/hls/naver.php?id=3074734
 YTN,http://ye23.win/iptv/korea2021.php?id=ytn
-TVN,p2p://generationnexxxt.com:19806/645fb9b800079c5f77c2572e6a78418d
 TVN,http://58.142.60.62:9981/stream/channelid/1041875196
+TVN,p2p://generationnexxxt.com:19806/645fb9b800079c5f77c2572e6a78418d
 TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
@@ -85,10 +85,9 @@ TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
+TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,https://c11.kr/1608e
 TV Chosun,http://broadcast.tvchosun.com/onair/on.cstv
-TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-TV Chosun,http://221.167.205.241:9981/stream/channelid/77
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
@@ -225,8 +224,8 @@ MBC庆南,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
 MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/playlist.m3u8
-MBC every1,http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
 MBC every1,http://119.197.107.139:9981/stream/channelid/45
+MBC every1,http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
 MBC every1,mitv://ns1.hellotvvod.com:9906/aab3f63bd59549e495c57fbd99a5c259
 TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
@@ -371,6 +370,7 @@ EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w96446
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 EBS2,http://ye23.win/iptv/korea2021.php?id=EBS2
 EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/chunklist_w1022245387.m3u8
+Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
 NS Home Shopping,http://livestream.nsmall.com:1935/IPHONE/test.m3u8
 NS Shop Plus,https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 NS Shop Plus,http://49.167.236.190:9981/stream/channelid/57
