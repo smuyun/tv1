@@ -760,32 +760,18 @@ CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
-面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-有线新闻,https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
-有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
-TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-HBO,http://208.115.225.174:14136
-HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-HBO2,http://208.115.225.174:14140
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO+,http://208.115.225.174:14152
-HBO family,http://208.115.225.174:14144
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO X,http://208.115.225.174:14165
 TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686312646&rand=hPJgZ3EFou&uuid=9b647b3816b2a66a&from=web&sign=d3f919309615a6398f9d278153ee5690
 TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
 TVB翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+TVB明珠台,https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686312605&rand=tO1JGrXmjL&uuid=9b647b3816b2a66a&from=web&sign=477fda8433634b8b2e3c3e9e64fc5c41
+TVB明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 TVB翡翠华丽台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
 TVB翡翠华丽,http://23.237.10.66:16410
-TVB翡翠海外,http://line.premiumpowers.net:80/Manuel/1234567/941619
-翡翠TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
-翡翠TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153401
+TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
+TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153401
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
-TVB明珠台,https://dispatch.ulivetv.net/v/live/ccns2cw1d7ls.m3u8?stream_id=ccns2cw1d7ls&timestamp=1686312605&rand=tO1JGrXmjL&uuid=9b647b3816b2a66a&from=web&sign=477fda8433634b8b2e3c3e9e64fc5c41
-TVB明珠台,http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
 TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -803,6 +789,18 @@ TVBS新闻,http://line.premiumpowers.net:80/Manuel/1234567/941622
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
 TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+有线新闻,https://dispatch.ulivetv.net/v/live/cn6djw7s44ow.m3u8?stream_id=cn6djw7s44ow&timestamp=1686312809&rand=R6gGxI9TaH&uuid=9b647b3816b2a66a&from=web&sign=e3818cc15a28c2c6b3b52d3475f193be
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+HBO,http://208.115.225.174:14136
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+HBO2,http://208.115.225.174:14140
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+HBO+,http://208.115.225.174:14152
+HBO family,http://208.115.225.174:14144
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO X,http://208.115.225.174:14165
 HOY TV,https://dispatch.ulivetv.net/v/live/ccnrzuw0kla8.m3u8?stream_id=ccnrzuw0kla8&timestamp=1686312768&rand=cidk3uU7zb&uuid=9b647b3816b2a66a&from=web&sign=9de9834fec7256066532c141b77b5dc8
 VIUTV,https://dispatch.ulivetv.net/v/live/ccnuwp0ol8zk.m3u8?stream_id=ccnuwp0ol8zk&timestamp=1686312626&rand=1QvR1usN8y&uuid=9b647b3816b2a66a&from=web&sign=4b46e32e2feb6d5965f87b3ee47f3dbe
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
@@ -811,8 +809,6 @@ ViuTV,http://38.60.38.65:5588/wm2268.php?id=viu_twn
 VIUTV1,http://38.60.38.65:5588/wm2268.php?id=viu1_twn
 VIUTV6,http://38.60.38.65:5588/wm2268.php?id=viusix_twn
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
-TVB明珠,https://cdn.hklive.tv/xxxx/84/index.m3u8
-TVB明珠,https://cdn.hklive.tv/xxxx/84b/index.m3u8
 TVB J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686312552&rand=bGny6hLVof&uuid=9b647b3816b2a66a&from=web&sign=0ebd922ca5dc14b159820b91ae9bb82e
 TVB J2,https://dispatch.ulivetv.net/v/live/ccns1caueri8.m3u8?stream_id=ccns1caueri8&timestamp=1686272799&rand=6dyXTNoJdG&uuid=9b647b3816b2a66a&from=web&sign=50cae9aee7b5e02e178c22e2becd0262
 TVB J2,http://162.19.247.76:22222/live/tvbj2/index.m3u8
