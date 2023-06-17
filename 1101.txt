@@ -1,4 +1,5 @@
 🇰🇷HANGUO,#genre#
+KBS1,http://222.237.71.141:9981/stream/channelid/2145940811?profile=pass
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
@@ -9,6 +10,7 @@ KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
 KBS1,http://ye23.top/ktv/kbs2022.php?id=1
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
+KBS2,http://222.237.71.141:9981/stream/channelid/2145120055?profile=pass
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
@@ -113,6 +115,7 @@ KBS DRAMA,http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
 KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
 KBS DRAMA,http://zyj520ljzfjzfx.xyz/kbs.php?id=drama
 KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
+KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
@@ -124,6 +127,7 @@ KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 KBS W,http://line.premiumpowers.net:80/Manuel/1234567/941604
 KBS W,http://luotuo.ycchenrong.cn/dl/kbs.php?id=3
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+JTBC2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
 JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,http://mytv.dothome.co.kr/ch/catv/282.php
