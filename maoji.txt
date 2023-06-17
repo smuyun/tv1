@@ -30,7 +30,180 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
+   {
+            "key": "Kunyu77",
+            "name": "鲲鱼77(爬虫)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
+{"key":"mtv_pc_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_奇艺视频","name":"官方┃奇艺视频","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_芒果视频","name":"官方┃芒果视频","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+        {
+            "key": "IQIYI",
+            "name": "奇异果(解析)",
+            "type": 3,
+            "api": "csp_IQIYI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "QQ",
+            "name": "企鹅(解析)",
+            "type": 3,
+            "api": "csp_QQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+                {
+            "key":"drpy_js_奇珍异兽",
+            "name":"🐨┃爱奇┃官源",
+            "type":3,
+            "api":"http://id.ganggang.live:63/js/drpy.min.js",
+            "ext":"http://id.ganggang.live:63/js/奇珍异兽.js"
+        },
+                {
+            "key":"MGT",
+            "name":"🍋┃芒果┃官源",
+            "type":3,
+            "api":"csp_Mgtv",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key": "360",
+            "name": "360(解析)",
+            "type": 3,
+            "api": "csp_SP360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "Libvio(爬虫)",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ddrk",
+            "name": "低端(爬虫)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "农民",
+            "name": "农民(爬虫)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gst163.github.io/s/nongminyingshi.json"
+        },  
+        {
+            "key": "Dy1010",
+            "name": "电影1010(爬虫)",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key":"csp_SP360",
+            "name":"📺┃360┃官源",
+            "type":3,
+            "api":"csp_XBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"http://我不是.肥猫.love:63/json/360影视.json"
+        },
+        {
+            "key":"农民",
+            "name":"🤴┃农民┃影视",
+            "type":3,
+            "api":"csp_Nmys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/jwkui9su.json"
+        },
+        {
+            "key":"演唱会",
+            "name":"🅱┃哔哩┃音乐",
+            "type":3,
+            "api":"csp_Bili",
+            "searchable":0,
+            "quickSearch":0,
+            "filterable":1,
+            "ext":"http://我不是.肥猫.love:63/json/ych.json"
+        },
+         {
+            "key": "知识",
+            "name": "知识学堂(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx1.json"
+        },
+        {
+            "key": "儿童",
+            "name": "儿童(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx2.json"
+        },
+        {
+            "key": "小学",
+            "name": "小学(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx3.json"
+        },
+        {
+            "key": "初中",
+            "name": "初中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx4.json"
+        },
+        {
+            "key": "高中",
+            "name": "高中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dxawi.github.io/1/json/xx5.json"
+        },
     {
       "key": "360影视",
       "name": "💘360影视(官)",
