@@ -206,10 +206,8 @@ CCTV17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 CCTV17,https://live.goodiptv.club/aishang/cctv17hd
 
 卫视,#genre#
-深圳都市,http://stream.guihet.com/t/sztv.php?id=2
-深圳都市,http://www.superkit.cn:8888/udp/239.77.1.124:5146
-深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.124:5146
-深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.176:5146
+深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+深圳都市,http://120.204.20.48/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/1300.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
