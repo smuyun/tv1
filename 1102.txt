@@ -89,12 +89,12 @@ TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
-TV Chosun,https://c11.kr/1608e
+TV Chosun,http://onair.cdn.tvchosun.com:80/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 TV Chosun,http://broadcast.tvchosun.com/onair/on.cstv
 TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
-TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+TV Chosun2,http://onair2.cdn.tvchosun.com/origin1/_definst_/tvchosun_s3/playlist.m3u8
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 Channel A,https://fhs5043.gn-81.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w1032224713.m3u8
 Channel A,http://www.hwado.net/webtv/catv/52.php
