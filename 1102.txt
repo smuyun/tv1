@@ -88,6 +88,7 @@ TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
+TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,http://onair.cdn.tvchosun.com:80/origin1/_definst_/tvchosun_s3/chunklist.m3u8
 TV Chosun,http://broadcast.tvchosun.com/onair/on.cstv
