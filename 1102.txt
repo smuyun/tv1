@@ -1084,6 +1084,88 @@ SPOTV,mitv://135.148.104.228:19806/441089d1c6864877a82d8dbde582d645
 SPOTV 2,mitv://135.148.104.228:19806/d33cf3ddad0444cfaf5118ccc834c1e7
 JTBC GOLF,mitv://135.148.104.228:19806/02b7cdb589a64a05850e5eda673b041d
 
+🇰🇷测试,#genre#
+AsiaN,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C5101
+브레인TV,ttp://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
+Channel A,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2501
+Channel A,https://azure2986.fastedge.net/live2/i0us6yac2e/chunklist.m3u8
+JTBC,http://112.187.218.162:9981/stream/channelid/79
+JTBC,https://azure2986.fastedge.net/live2/5pb6uqm5gr/chunklist.m3u8
+JTBC2,http://112.187.218.162:9981/stream/channelid/27
+JTBC4,http://112.187.218.162:9981/stream/channelid/71
+KBS1,http://183.99.22.189:9981/stream/channelid/983691437
+KBS1,https://azure2986.fastedge.net/live2/vipk8s918q/chunklist.m3u8
+KBS1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=11
+KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
+KBS2,https://azure2986.fastedge.net/live2/j8wh89g7p6/chunklist.m3u8
+KBS2,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=12
+KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
+KBS DRAMA,http://112.187.218.162:9981/stream/channelid/94
+MBC,http://112.187.218.162:9981/stream/channelid/112
+MBC,https://livestreams.mewinnie.gq/livestreams/kr_live/mbc.php
+MBC,https://azure2986.fastedge.net/live2/sdmgv7y53u/chunklist.m3u8
+MBC M,http://112.187.218.162:9981/stream/channelid/40
+MBC EVERY1,http://112.187.218.162:9981/stream/channelid/45
+MNET,http://112.187.218.162:9981/stream/channelid/65
+SBS,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S01
+SBS BIZ,http://112.187.218.162:9981/stream/channelid/35
+SBS PLUS,https://azure2986.fastedge.net/live2/jfG6rF4yAc/chunklist.m3u8
+TV CHOSUN,https://azure2986.fastedge.net/live2/4b1cksgsle/chunklist.m3u8
+K-POP,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M10
+K-STAR,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=F6301
+SBS2,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S02
+SBS3,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S03
+SB,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S04
+SB5,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S05
+SBS6,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S06
+SBS7,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S07
+SBS8,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S08
+SBS9,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S09
+SBS10,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S10
+KBS01,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=1
+KBS02,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=2
+KBS03,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=3
+KBS04,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=4
+KBS05,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=5
+KBS06,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=6
+KBS07,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=7
+KBS13,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=13
+KBS14,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=14
+KBS15,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=15
+KBS16,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=16
+KBS17,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=17
+KBS18,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=18
+KBS19,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=19
+MBN,https://livestreams.mewinnie.gq/livestreams/kr_live/mbn.php
+JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8jtbc,https://livestreams.mewinnie.gq/livestreams/kr_live/jtbc.php
+kb1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs1.php
+kb2,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs2.php
+sb1,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php
+ytn,https://livestreams.mewinnie.gq/livestreams/kr_live/ytn.php
+tvn,https://livestreams.mewinnie.gq/livestreams/kr_live/tvn.php
+ocn,https://livestreams.mewinnie.gq/livestreams/kr_live/ocn.php
+1,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=K01
+2,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=K02
+3,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=S01
+4,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M01
+5,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2401
+6,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2402
+7,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2101
+8,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2601
+9,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2602
+10,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2603
+11,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M06
+12,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M10
+13,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M12
+14,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=S14
+15,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=K01
+16,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=S04
+17,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=S06
+18,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=S09
+19,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=S22
+20,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M17
+21,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=M03
+
 🇪🇺环球1_9988,#genre#
 彩虹e台,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹电影台,http://162.19.247.76:22222/live/caihong2/index.m3u8
