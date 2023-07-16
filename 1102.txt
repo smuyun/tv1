@@ -1084,7 +1084,7 @@ SPOTV,mitv://135.148.104.228:19806/441089d1c6864877a82d8dbde582d645
 SPOTV 2,mitv://135.148.104.228:19806/d33cf3ddad0444cfaf5118ccc834c1e7
 JTBC GOLF,mitv://135.148.104.228:19806/02b7cdb589a64a05850e5eda673b041d
 
-🇰🇷测试,#genre#
+🇰🇷测试1,#genre#
 AsiaN,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C5101
 브레인TV,ttp://1.214.67.38/vod/70701.m3u8?VOD_RequestID=v2M2-0101-1010-7272-5050-000020180717021633
 Channel A,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2501
@@ -1137,7 +1137,8 @@ KBS17,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=17
 KBS18,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=18
 KBS19,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=19
 MBN,https://livestreams.mewinnie.gq/livestreams/kr_live/mbn.php
-JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8jtbc,https://livestreams.mewinnie.gq/livestreams/kr_live/jtbc.php
+JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
+jtbc,https://livestreams.mewinnie.gq/livestreams/kr_live/jtbc.php
 kb1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs1.php
 kb2,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs2.php
 sb1,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php
