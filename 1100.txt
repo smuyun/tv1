@@ -1,6 +1,7 @@
 🇰🇷HANGUO,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=11
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://222.237.71.141:9981/stream/channelid/2145940811?profile=pass
@@ -12,6 +13,7 @@ KBS1,http://ye23.top/ktv/kbs2022.php?id=1
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+KBS2,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=12
 KBS2,http://220.95.92.160:9981/stream/channelid/280136412
 KBS2,http://222.237.71.141:9981/stream/channelid/2145120055?profile=pass
 KBS2,http://58.142.60.62:9981/stream/channelid/2025687795
@@ -24,6 +26,7 @@ KBS2,http://222.109.117.27:9981/stream/channelid/123020099
 KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
 KBS2,p2p://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
+SBS,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S01
 SBS,http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
 SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -36,6 +39,7 @@ SBS,http://222.109.117.27:9981/stream/channelid/2096368258
 SBS,http://ye23.win/iptv/korea2021.php?id=TJB
 MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,https://livestreams.mewinnie.gq/livestreams/kr_live/mbc.php
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w396428287.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w854988460.m3u8
@@ -64,6 +68,7 @@ JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
+KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
@@ -98,6 +103,7 @@ TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
+Channel A,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2501
 Channel A,https://fhs5043.gn-81.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w1032224713.m3u8
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,http://hls.ye23.vip/hk/Channel.php
@@ -122,6 +128,7 @@ SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS PLUS,http://itskoi.dothome.co.kr/sbs.php?id=S03
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+KBS W,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=14
 KBS W,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
@@ -190,6 +197,7 @@ KBS KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
 KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
 KBSN LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBSN LIFE,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=N93
 KBSN LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBSN LIFE,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
 KBSN LIFE,http://han.ddkdxmkj.com/api/kbs.php?id=7
@@ -257,6 +265,7 @@ inet,p2p://generationnexxxt.com:19806/113336cc563149d598fad5b95277a955
 inet,http://221.167.205.241:9981/stream/channelid/34
 inet,mitv://ns2.hellotvvod.com:9906/7d8f385ab9fd42f6b77b907ada6e3553
 inet,http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
+JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 ABN HD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 ASIA UHD,http://110.9.159.82:9981/stream/channelid/1791120833?ticket=E6D80F42E0C80368D31F672E0D2A3BEDD8740FCD&profile=pass
 K-STAR,http://58.142.60.62:9981/stream/channelid/342733435
