@@ -79,6 +79,7 @@ Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
 YTN,http://210.92.207.38:40001
 YTN,http://hls.ye23.vip/hk/ytn.php
+YTN,https://ythls.onrender.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
 YTN,p2p://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 YTN,http://193.42.99.130:23405/YTN/playlist.m3u8
