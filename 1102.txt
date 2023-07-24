@@ -104,8 +104,8 @@ TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
+Channel A,https://fhs8036.bd-61.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w357570094.m3u8
 Channel A,https://livestreams.mewinnie.gq/livestreams/kr_live/wavve.php?id=C2501
-Channel A,https://fhs5043.gn-81.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w1032224713.m3u8
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,http://hls.ye23.vip/hk/Channel.php
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
