@@ -12,6 +12,7 @@ KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
 KBS1,http://ye23.top/ktv/kbs2022.php?id=1
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
+KBS2,p2p://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=12
@@ -20,12 +21,9 @@ KBS2,http://222.237.71.141:9981/stream/channelid/2145120055?profile=pass
 KBS2,http://58.142.60.62:9981/stream/channelid/2025687795
 KBS2,http://110.9.159.82:9981/stream/channelid/779172569
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
-KBS2,http://gg.gg/Ha_Noi_IPTV_1-KBS2_HD-Giai_tri_Quoc_gia
 KBS2,http://183.99.22.189:9981/stream/channel/bad83addf69a0b3a253bc7104365248d
 KBS2,http://222.109.117.27:9981/stream/channelid/123020099
 KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
-KBS2,http://ye23.top/ktv/kbs2022.php?id=2
-KBS2,p2p://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
 SBS,http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
 SBS,https://livestreams.mewinnie.gq/livestreams/kr_live/sbs.php?id=S01
 SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
