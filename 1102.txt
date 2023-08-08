@@ -652,9 +652,9 @@ CCTV16,https://iptv.yang-1989.top/api/bestv.php?id=cctv16hd8m/8000000
 CCTV17,https://iptv.yang-1989.top/api/bestv.php?id=cctv17hd8m/8000000
 
 🇨🇳卫视,#genre#
+深圳都市,http://gmxw.7766.org:808/hls/140/index.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,http://88888.55555.io:2345/udp/239.77.1.34:5146
-深圳都市,http://gmxw.7766.org:808/hls/140/index.m3u8
 深圳都市,http://gxyl-dl001.8866.org:8181/tsfile/live/1112_1.m3u8
 深圳都市,http://stream.guihet.com/t/sztv.php?id=2
 深圳都市,http://www.superkit.cn:8888/udp/239.77.1.124:5146
