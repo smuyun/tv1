@@ -1297,6 +1297,8 @@ ytn2,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72
 韩国电影1,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
 韩国电影3,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
 국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
+朝鮮中央臺,https://epg.pw/stream/9b1597f57763b9bbcb425fb2b5b39938dc76f1bba9004d1281c748a1432e7cf6.m3u8
+
 🇪🇺环球1_9988,#genre#
 彩虹e台,http://162.19.247.76:22222/live/caihong1/index.m3u8
 彩虹电影台,http://162.19.247.76:22222/live/caihong2/index.m3u8
