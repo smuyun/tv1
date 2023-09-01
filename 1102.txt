@@ -1204,6 +1204,7 @@ OCNMovies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
 TVChosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
 MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
+Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 
 🇪🇺环球1_9988,#genre#
 彩虹e台,http://162.19.247.76:22222/live/caihong1/index.m3u8
