@@ -61,14 +61,11 @@ MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
-JTBC,p2p://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
-JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://58.142.60.62:9981/stream/channelid/188316
 JTBC,http://mytv.dothome.co.kr/ch/catv/216.php
 JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
 JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
-JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
-JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
@@ -1173,7 +1170,6 @@ RTHK32,https://cdn.hklive.tv/xxxx/32/index.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
 🇰🇷测试,#genre#
-Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
 KBSDrama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
@@ -1190,3 +1186,4 @@ OCNMovies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
 TVChosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
 MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
+Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
