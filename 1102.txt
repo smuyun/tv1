@@ -1207,65 +1207,14 @@ MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
 
 🇰🇷测试2,#genre#
-CHANNEL A,https://epg.pw/stream/014c9bca913d11dfac3dca0dab3a908cb8386dbffe1003c2cab863e9a2991b0b.m3u8
-CHANNEL A,https://epg.pw/stream/48ed4b6c1b6f9a0f6bc2c8fbba3ae24e0ca11a92d7bb03f351f8230670edcef1.m3u8
-CHANNEL A,https://epg.pw/stream/baf30d79220cf9e9038773e0f05f29ebc553d595636ce6b0400a0e3c4aa0c141.m3u8
-CHANNEL A,https://epg.pw/stream/ce7b5eaae0124414506ce7b975305fa3452bdf126a299df1319e3b879bd0daf9.m3u8
-CHANNEL A,https://epg.pw/stream/d07e23cee6c309501c467a55abfb8b73feb0cbc7b5334a5b04146271bc7e2ec5.m3u8
-CHANNEL A,https://epg.pw/stream/9b80c31a6737306ba141f69b9678d5fc8f688b49cc218d2d4660894de1549834.m3u8
-CHANNEL A,https://epg.pw/stream/8427b7bffa8b42cf69e478fb8028184266548f5d7209be80a104e1e43e7b4683.m3u8
-CHANNEL A,https://epg.pw/stream/249f278d93db28d7cec9cfd9103786e95598bcc5708d1b7b93f3afacf91a05da.m3u8
-CHANNEL A,https://epg.pw/stream/76a783d2a25ccfe49c054c06be5c747373b633efcd5d172823d8cf41b4d49d66.m3u8
-CHANNEL A,https://epg.pw/stream/ae91340efcf3c8e0aa105e83ef5bbcd8f851ab3ca03e78ddf9167476750a90f1.m3u8
-CHANNEL A,https://epg.pw/stream/4441915438c28ddfe1ed7112e114d394d847dce4603d2cf36685be021f025797.m3u8
-CHANNEL A,https://epg.pw/stream/7e935d7a97699b4bfbab32d7b45759e376e2c7cd3f36cbb5fe3837c45919c6f0.m3u8
-CHANNEL A,https://epg.pw/stream/04e101b8e9ec7fc2ecf74cb42e16c0d935cd48e05cf5c8f529b3181319c4f4fe.m3u8
-CHANNEL A,https://epg.pw/stream/18a792e56e5053559d3cf65f2e58c8cbdfcc21575226d92187bde06b7aa6d9b3.m3u8
-CHANNEL A,https://epg.pw/stream/31044ae7839695199a8ffd67bb7f6a29bdb72899bf94b334292cffdacb3fb958.m3u8
-CHANNEL A,https://epg.pw/stream/6d8deb78391fd1bad2b94a431ded01ee35c921a1425cf8c98c126f242f5a94b0.m3u8
-CHANNEL A,https://epg.pw/stream/a3908a113cf695c62f419a91efc28cc1163f68472e10e10461943ee319e5e8ad.m3u8
-CHANNEL A,https://epg.pw/stream/67020e8d3e4b32a69f8cab8a95339cac55c6d78bd9eba757ed4e6e60118fe226.m3u8
-CHANNEL A,https://epg.pw/stream/315d3de9c96d9b03db27c90eb90a2d925d1b4b25fcb6f0aff07acc25727c51ca.m3u8
-CHANNEL A,https://epg.pw/stream/182dbbfbe7537b532caba70c5bec70a99f8ee19ef08a71214cadb40fa041388d.m3u8
-CHANNEL A,https://epg.pw/stream/4c0a2f0637e1c7920701cc8ef89f99244e4695fe3871d425decd310673f8188b.m3u8
-CHANNEL A,https://epg.pw/stream/ff6e58a32985cc7e5b5ad53a5f2fa036cf0a8e0c18fbabd1c97c90db9a592a71.m3u8
-CHANNEL A,https://epg.pw/stream/af6e2c02d4187285a865feda3bb0c6536b5b1d50145ac3ed2b4bcc0202c5eb1a.m3u8
-CHANNEL A,https://epg.pw/stream/21f1ca1d964c0720df2e82f65d6536d967b787ecc6364ef3d9e93467a1e908de.m3u8
-CHANNEL A,https://epg.pw/stream/6c8731e0f608a2ced9f83533810d933645010d0581e3546eac0df564999f316a.m3u8
-CHANNEL A,https://epg.pw/stream/1a32558c28a3d758441c7ae0f998e26e5f381647bd94286add50fa3f73eef9f3.m3u8
-CHANNEL A,https://epg.pw/stream/b0d9bac943c57007c94244d4de0ef9e49ade93dd902d3fb336b85fc538446c9b.m3u8
-CHANNEL A,https://epg.pw/stream/5d218beac7a4aac734e34d3e8edccca89a403fcb93c965f888968aafea34f8dc.m3u8
-Inet TV,https://epg.pw/stream/80648d0bdb5700f114edde040658506d0cdb1fca7e9cb2cc60d00559605f6e42.m3u8
-MBC Yeosu,https://epg.pw/stream/794172db13663b24c619a56265a1a966ecba71c01c0c6dec089745ba4c2c7157.m3u8
-SBS,https://epg.pw/stream/0ca022039d89c59d52fad5eeb0717f833dee9c92456fcbf97eca99f5cbb00899.m3u8
-SBS,https://epg.pw/stream/baa697f88cf0cb319ba97478931df42fd04cc15da234020b188858be1fe5179f.m3u8
-SBS,https://epg.pw/stream/2fa0ac6ab64e8001eaf3caaed5b51f25d3b3fba21ef8374c58977858c6cb7449.m3u8
-SBS,https://epg.pw/stream/6e73f72e95c25b626c907594507e063d12e788974307bfdcdf0d4b5946b8414e.m3u8
-SBS,https://epg.pw/stream/34c3a4a371e1489c0a0a3312ac685624878259d212bdf6c0135ce5d99c00d9c2.m3u8
-SBS,https://epg.pw/stream/a0ba0693a636f5cf96fb2f8286fa425db1ad3743f1670f22012eaa75c4178c4c.m3u8
-TVN,https://epg.pw/stream/ca373421eeea9c3e91d0124defefe43422ea878ebdec3c7fa4588de98ef3734d.ctv
-TvN Movies,https://epg.pw/stream/64fd5afa424261c67bbe1d16a36ed73d06b18b1ff3beb14929f8cd143887a6b0.ctv
-arirangtv,https://epg.pw/stream/45512091e7ec7f157905f6bc7da1fcb0894bcddf90b4eec22131299cbe64b344.m3u8
-arirangtv,https://epg.pw/stream/ca09c6b3b352c2d8ba63a68f855484125a2ea22e522ca4dd80b35ab2ac92653b.m3u8
 arirangtv,https://epg.pw/stream/206676c765cffae6ec3a29f4b7192961aaef667424885ce35023424db0673d04.ctv
-btn tv (1080p),https://epg.pw/stream/732d9bbe5849427165fe21663e597d479db125a9aea66cbe5b9a458c04439959.m3u8
-btn tv (1080p),https://epg.pw/stream/a08b5d5746797bb4f47d5e13589ec81326ccbc79f7273315f53c0dcd19291709.m3u8
 btn tv (1080p),https://epg.pw/stream/4676c6d695981120cdaab9bb55b31cfb638bcb090678b624aa54a9fd7f79046a.m3u8
-cpbc,https://epg.pw/stream/22d42ace85410fe6ed011b1b78e6d141a22c27c3916e572040510f06c25e61bc.m3u8
 cts기독교tv (720p),https://epg.pw/stream/7120551ca3569275b349b49f8f4a0f6bb85ad1c60f0695e55c0579964de3f967.m3u8
-ebs e (400p),https://epg.pw/stream/368fa0f84389e516f37e4f48116ed3335d745a30cbfb6527fbaf2b8362c99848.m3u8
-ebs+ 2 (400p),https://epg.pw/stream/a09fa2730014c22c7a9a98eb3a42926a25a4b482776c3346a70b04b9d87e57ab.m3u8
-etvn,https://epg.pw/stream/d9c541659c0f07a5985763f32b048227fd23e33642f53315f551858d5fde3612.m3u8
-gs my shop (1080p),https://epg.pw/stream/5bd68ba016f06dffe91b01d0e3a7fa08b6f8dc2d7c237f759afab132194ab72d.m3u8
-gs my shop (1080p),https://epg.pw/stream/d5ee7ac15b1e8bb6503c0453fff38b5f2cbf1d29a3a8a2be921f52c42c6bb2a0.m3u8
-hse24 trend (576p),https://epg.pw/stream/b52242446e03a7104dcdca90c98c58987f9dc19536a423f40aea22e3b363d58c.m3u8
-kbc sbs 综艺,https://epg.pw/stream/5e9ce14c6b9f87377c8f620f6b3fd768de1c8d0870b1676ba685bfc212ccf020.m3u8
 kbs drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
 kbs joy,https://epg.pw/stream/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
 kbs kids,https://epg.pw/stream/5779afa722e1634c61422728d02494bf76bdd5a08539013809b3b4befb6f586b.ctv
 kbs life,https://epg.pw/stream/eb030d83667ff48ac36a4c95696a4af4d48a1f139d29cd944d557a64425f9658.ctv
 kbs story,https://epg.pw/stream/55925e277a1960fc059cff58362aeb6bdc12369ca9e0ecb0c0abe85bc597779d.ctv
-kbs world,https://epg.pw/stream/2c19be7abe16385db0d31e58e4070ef11521c2e064ce4894b710206cba8be8cf.ctv
 kbs world,https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
 kbs world,https://epg.pw/stream/dbf98bbd01c423cfd50b4ad1a57fc34e5ba6bdb930b2c93db7f43b8f43dfa6f9.m3u8
 kbs world,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
@@ -1273,19 +1222,15 @@ kbs world,https://epg.pw/stream/6f5e76c4531b1c6160326aafee8bbea510ca4f6a138e5a1f
 kbs world,https://epg.pw/stream/275ace2dd9475899fde691d6df0c1302708c008ca4ffb274961dc33fe02b9c83.m3u8
 kbs2_,https://epg.pw/stream/64033027a93ca6394ca97171c2f4f036005be7dcc996a153834f1a5e10ac7aee.ctv
 kctv 광주,https://epg.pw/stream/7a3c4e057a1628fc0b67eae1c8a73d2a16e0896f4bbe2b92773691579c0fee65.m3u8
-kltv,https://epg.pw/stream/3f4b44155ad2e89b02bb952e8ba7d03c7935f565ed4cf39b2b89d965ff2c7861.m3u8
 mbc america (480p),https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
 mbn,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
 on style hd,https://epg.pw/stream/39e9efeffabe694999b5d7bd9e01903bff6a2cf77fdf01baf06e84f923f59e7e.m3u8
 ora tv,https://epg.pw/stream/a194a81145a1f2b1976cac5efe960e6c1e6a20c7a81476b515315735dd16945b.m3u8
 ora tv,https://epg.pw/stream/a77511d8a8f673b3204180739b8bf4c78d15f92b848db2bb94b26a12aa23f122.m3u8
-sbs jtv,https://epg.pw/stream/ea9bcd7a06cb85d7792f9fd4283d1264e39ef7d1055f0c9ed611ce32e7898156.m3u8
-sbs korean,https://epg.pw/stream/2f05aede53ce03d54854941e5317a0f96b595994aa582874ec7010a34d1e2d82.m3u8
 sbs tjb (1080p) [not 24/7],https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
 sbs tjb (1080p) [not 24/7],https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
 sony movies,https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8
 sony movies,https://epg.pw/stream/dc8fcbd42c8dde62f58eb8995dcf32c222412b61d11cfd74291c89ffda1efb9b.m3u8
-sports tv,https://epg.pw/stream/69cbf39d659b67eaa93eb7e9bf9afb7d65c63760f53e8ea2af71a434aba7cdee.m3u8
 tv chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
 tvn,https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
 vos tv (720p),https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8
