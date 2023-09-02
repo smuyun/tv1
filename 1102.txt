@@ -59,7 +59,7 @@ MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://mytv.dothome.co.kr/ch/public/5.php
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-mbn,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
+MBN,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
