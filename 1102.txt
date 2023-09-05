@@ -163,6 +163,7 @@ KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 KoreaTV,http://han.ddkdxmkj.com/api/han123.php?id=9
 KoreaTV,http://ye23.win/iptv/korea2021.php?id=korea
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_b2500000.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/playlist.m3u8?checkedby:iptvcat.net
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
@@ -1053,6 +1054,7 @@ CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
 🇨🇳GANG AO,#genre#
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰中文,http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068
 凤凰中文,http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
@@ -1065,6 +1067,7 @@ CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰中文,http://r.jdshipin.com/0Rp07
 凤凰中文,http://lcx-olt.8866.org:8181/tsfile/live/1073_1.m3u8
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.flv
