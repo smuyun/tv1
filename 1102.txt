@@ -1054,6 +1054,7 @@ CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
 🇨🇳GANG AO,#genre#
+凤凰中文,http://php.17186.eu.org/phtv/asfj/fhzw.m3u8
 凤凰中文,http://107.151.203.111:2209/135/hk.php?id=fhzw
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.flv
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
@@ -1066,6 +1067,7 @@ CCTV17,http://125.210.152.19:9120/live/hzgq-cctv17gq-h264.m3u8
 凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰中文,http://r.jdshipin.com/0Rp07
 凤凰中文,http://lcx-olt.8866.org:8181/tsfile/live/1073_1.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/asfj/fhzx.m3u8
 凤凰资讯,http://107.151.203.111:2209/135/hk.php?id=fhzx
 凤凰资讯,http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.flv
