@@ -1,5 +1,4 @@
 🇰🇷HANGUO,#genre#
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=11
