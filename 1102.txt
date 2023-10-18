@@ -93,6 +93,7 @@ YTN,http://nettvpro.live/hls/naver.php?id=3074734
 YTN,http://ye23.win/iptv/korea2021.php?id=ytn
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+TVN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 TVN,http://58.142.60.62:9981/stream/channelid/1041875196
 TVN,p2p://generationnexxxt.com:19806/645fb9b800079c5f77c2572e6a78418d
 TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
@@ -335,6 +336,7 @@ THE MOVIE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2501
 韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b1800000.m3u8
+tvN Movies,mitv://generationnexxxt.com:19806/7ad63818eea64677beb87cf16459919f
 tvN Movies,http://210.210.155.37/dr9445/h/h21/index.m3u8
 tvN Movies,p2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
 tvN Movies,http://210.210.155.35:80/session/8772b294-c460-11ed-bd85-900cbba69053/dr9445/h/h21/02.m3u8
