@@ -1303,7 +1303,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-🇰🇷测试1,#genre#
+🇰🇷测试,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
