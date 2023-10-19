@@ -1303,11 +1303,12 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-🇰🇷测试,#genre#
+🇰🇷测试1,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
-KBSDrama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
+KBS Drama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
+KBS Drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
 KBSJoy,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
 SBS,mitv://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
 SBSBiz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
