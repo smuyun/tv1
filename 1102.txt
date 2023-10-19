@@ -1334,21 +1334,21 @@ kbs world,https://epg.pw/stream/dbf98bbd01c423cfd50b4ad1a57fc34e5ba6bdb930b2c93d
 kbs world,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
 kbs world,https://epg.pw/stream/6f5e76c4531b1c6160326aafee8bbea510ca4f6a138e5a1fc6e2dff6a13fca6d.ctv
 kbs world,https://epg.pw/stream/275ace2dd9475899fde691d6df0c1302708c008ca4ffb274961dc33fe02b9c83.m3u8
-kbs2_,https://epg.pw/stream/64033027a93ca6394ca97171c2f4f036005be7dcc996a153834f1a5e10ac7aee.ctv
+KBS2,https://epg.pw/stream/64033027a93ca6394ca97171c2f4f036005be7dcc996a153834f1a5e10ac7aee.ctv
 kctv 광주,https://epg.pw/stream/7a3c4e057a1628fc0b67eae1c8a73d2a16e0896f4bbe2b92773691579c0fee65.m3u8
-mbc america (480p),https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
+mbc america,https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
 mbn,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
 on style hd,https://epg.pw/stream/39e9efeffabe694999b5d7bd9e01903bff6a2cf77fdf01baf06e84f923f59e7e.m3u8
 ora tv,https://epg.pw/stream/a194a81145a1f2b1976cac5efe960e6c1e6a20c7a81476b515315735dd16945b.m3u8
 ora tv,https://epg.pw/stream/a77511d8a8f673b3204180739b8bf4c78d15f92b848db2bb94b26a12aa23f122.m3u8
-sbs tjb (1080p) [not 24/7],https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
-sbs tjb (1080p) [not 24/7],https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
+sbs tjb,https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
+sbs tjb,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
 sony movies,https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8
 sony movies,https://epg.pw/stream/dc8fcbd42c8dde62f58eb8995dcf32c222412b61d11cfd74291c89ffda1efb9b.m3u8
 tv chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
 tvn,https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
-vos tv (720p),https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8
-vos tv (720p),https://epg.pw/stream/8b06ac56b32b66b83aeb73f98e50fbd8d41cf53a2a5638dfc8b52a22157ccee1.m3u8
+vos tv,https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8
+vos tv,https://epg.pw/stream/8b06ac56b32b66b83aeb73f98e50fbd8d41cf53a2a5638dfc8b52a22157ccee1.m3u8
 wb tv,https://epg.pw/stream/f57c2217dd011bb1ce89e4b73e66855f7e37cdfd5aad9c803eba2701e0f208d1.ctv
 ytn2,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
 阿里郎电台,https://epg.pw/stream/f592a0d375966407059e0daa1a72f252e4522cef754eff14091bf8650e378831.m3u8
