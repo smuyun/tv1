@@ -1,7 +1,12 @@
 🇰🇷HANGUO,#genre#
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/20_11/playlist.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=11
 KBS1,https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1690340671&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2OTAzNDA2NzF9fX1dfQ__&Signature=faWueXqhPDyW6zX0fQk9Dsb388HTgQNohSwrHweL4rYpzownLLAo1CXwskxG1LjZM4Y0j8nlSRt3VcOuvOgKElnJvHEP00hPHW6psgRh9aEXaPkmUQyz9YhQOJ7SsXD17YzvzAEK77sZ2O1ImJ~-d7S4BDbE6tDGyExK0qbCJRvuF~FV~hLJgFvOBEkkWo6HVtzMieECz12qvgu2KlyDknZpgzLVqIHSzKTMI3dZlNeVNzZR8yxe11LkgiS7XH-SypFlCu9DtJQyjARU84vDtTyDmkFkHs1xM8uDOYkLYunlfiw9O~Zcj6sONVXFWm4xkObs6oOiIm-arwJx3w7tZA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 KBS1,http://220.95.92.160:9981/stream/channelid/660474352
