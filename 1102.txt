@@ -1,10 +1,10 @@
 🇰🇷HANGUO,#genre#
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/20_11/playlist.m3u8
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
-KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
