@@ -1,4 +1,5 @@
 🇰🇷HANGUO,#genre#
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/13.php
 KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 KBS1,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=11
@@ -12,6 +13,7 @@ KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,http://222.109.117.27:9981/stream/channelid/2133459073
 KBS1,http://ye23.top/ktv/kbs2022.php?id=1
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
+KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=12
@@ -71,8 +73,9 @@ JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
-KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
+KBS24,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
@@ -123,6 +126,7 @@ Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
 Channel A,http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 KBS DRAMA,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+KBS DRAMA,https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS DRAMA,http://58.142.60.62:9981/stream/channelid/604398662
 KBS DRAMA,http://110.9.159.82:9981/stream/channelid/1207260298
@@ -137,6 +141,7 @@ SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS PLUS,http://itskoi.dothome.co.kr/sbs.php?id=S03
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS W,https://code.vthanhtivi.pw/getlink/kbs/14/playlist.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=14
@@ -194,23 +199,27 @@ OCN Movies,http://110.9.159.82:9981/stream/channelid/273544231
 OCN Movies,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+KBS JOY,https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
 KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS JOY,http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
 KBS JOY,http://han.ddkdxmkj.com/api/kbs.php?id=6
 KBS JOY,http://live1.abcdsky.com:1935/live/KBSJOY/playlist.m3u8
-KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-KBS KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
-KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
-KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
 KBSN LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBSN LIFE,https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
 KBSN LIFE,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=N93
 KBSN LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBSN LIFE,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
 KBSN LIFE,http://han.ddkdxmkj.com/api/kbs.php?id=7
 KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS Story,https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
 KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
 KBS Story,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
 KBS Story,http://han.ddkdxmkj.com/api/kbs.php?id=8
+KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+KBS KIDS,https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+KBS KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
+KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
 MBC M,http://58.142.60.62:9981/stream/channelid/1920571670
 MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default
 MUSIC TOP,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
