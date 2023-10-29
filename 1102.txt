@@ -71,9 +71,9 @@ JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.
 JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
 JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
 JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
-KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
+KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
