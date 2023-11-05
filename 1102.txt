@@ -12,8 +12,8 @@ KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
-KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efda3a63151c2f.m3u8
+KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,https://epg.pw/stream/64033027a93ca6394ca97171c2f4f036005be7dcc996a153834f1a5e10ac7aee.ctv
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
