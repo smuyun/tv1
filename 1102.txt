@@ -1217,9 +1217,9 @@ CCTV17,https://iptv.yang-1989.top/api/bestv.php?id=cctv17hd8m/8000000
 凤凰资讯,https://s2.pub/Y-11
 凤凰资讯,https://i.125011.xyz/fhx.php?id=fhzx
 凤凰资讯,http://38.207.160.104:11012/live.php?date=231108&id=phtv-info
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.flv
-凤凰香港,http://rihou.cc:61/qiepian/xianggang.php?id=fhhk
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰香港,https://i.125011.xyz/fhx.php?id=fhhk
+凤凰香港,http://rihou.cc:61/qiepian/xianggang.php?id=fhhk
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
