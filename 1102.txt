@@ -1,9 +1,6 @@
 🇰🇷HANGUO,#genre#
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
-KBS1,https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
-KBS1,https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
-KBS1,https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
@@ -316,7 +313,11 @@ K-STAR,http://58.142.60.62:9981/stream/channelid/342733435
 KoreaEconomyTV,https://kr-streams.onrender.com/scraper?channel=408
 KoreaEconomyTV,https://apichvod19.seezntv.com/OTM/10480_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
 KBS大邱,http://mytv.dothome.co.kr/ch/public/13.php
+KBS大邱,https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
 KBS京南,https://code.vthanhtivi.pw/getlink/kbs/20_11/playlist.m3u8
+KBS-A,https://code.vthanhtivi.pw/getlink/kbs/10_11/playlist.m3u8
+KBS-B,https://code.vthanhtivi.pw/getlink/kbs/40_11/playlist.m3u8
+KBS-C,https://code.vthanhtivi.pw/getlink/kbs/11_11/playlist.m3u8
 KBC SBS,http://ye23.win/iptv/korea2021.php?id=KBC
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 TJB SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
