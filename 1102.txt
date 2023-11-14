@@ -1214,6 +1214,7 @@ CCTV17,https://iptv.yang-1989.top/api/bestv.php?id=cctv17hd8m/8000000
 凤凰中文,http://r.jdshipin.com/0Rp07
 凤凰中文,https://i.125011.xyz/fhx.php?id=fhzw
 凤凰中文,http://38.207.160.104:11012/live.php?date=231108&id=phtv-cn
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/asfj/fhzx.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
@@ -1233,16 +1234,16 @@ CCTV17,https://iptv.yang-1989.top/api/bestv.php?id=cctv17hd8m/8000000
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,https://s2.pub/Y-12
 TVB翡翠台,http://nas.jdshipin.com:8801/gdfc720.php
 TVB翡翠台,http://113.117.74.15:8081/hls/67/index.m3u8
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686312646&rand=hPJgZ3EFou&uuid=9b647b3816b2a66a&from=web&sign=d3f919309615a6398f9d278153ee5690
 TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
 TVB翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+TVB明珠台,http://r.jdshipin.com/ZQ4kN
 TVB明珠台,https://s2.pub/Y-14
 TVB明珠台,https://live.astradamy.com/tvbpearl/index.m3u8
 TVB明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
