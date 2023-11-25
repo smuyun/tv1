@@ -644,7 +644,6 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
-延边1台,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
