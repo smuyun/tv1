@@ -625,50 +625,6 @@ CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
 CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 
-🇨🇳央视(官),#genre#
-CCTV4K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv4k
-CCTV8K,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv8k
-CCTV1,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv1
-CCTV2,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv2
-CCTV3(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv3
-CCTV4,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv4
-CCTV4欧洲,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226266/1/index.m3u8?fmt=ts2hls
-CCTV4美洲,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226300/1/index.m3u8?fmt=ts2hls
-CCTV5,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv5
-CCTV5+,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv5p
-CCTV6(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv6
-CCTV7,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv7
-CCTV8(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv8
-CCTV9,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv9
-CCTV10,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv10
-CCTV11,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv11
-CCTV12,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv12
-CCTV13,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv13
-CCTV14,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv14
-CCTV15,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv15
-CCTV16,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv16
-CCTV16-4K(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv16-4k
-CCTV-17,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cctv17
-CCTV兵器科技(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=bqkj
-CCTV第一剧场(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=dyjc
-CCTV怀旧剧场(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=hjhc
-CCTV风云剧场(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=fyjc
-CCTV风云音乐(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=fyyy
-CCTV风云足球(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=fyzq
-CCTV电视指南(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=dszn
-CCTV女性时尚(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=nxss
-CCTV央视文化精品(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=whjp
-CCTV世界地理(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=sjdl
-CCTV高尔夫网球(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=gefwq
-CCTV央视台球(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=ystq
-CCTV卫生健康(VIP),http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=wsjk
-CGTN,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtn
-CGTN纪录,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnjl
-CGTN西语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtne
-CGTN法语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnf
-CGTN阿语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtna
-CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
-
 🇨🇳卫视,#genre#
 深圳都市,http://113.65.20.196:4022/udp/239.77.1.176:5146
 深圳都市,http://113.65.20.196:4022/udp/239.77.1.124:5146
@@ -685,6 +641,8 @@ CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8?zjild
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
@@ -1130,6 +1088,10 @@ CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
 🇨🇳GANG AO,#genre#
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰卫视资讯台,https://udnhls.skilldns.com/fhzx.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -1151,6 +1113,8 @@ CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
 凤凰资讯,https://s2.pub/Y-11
 凤凰资讯,https://i.125011.xyz/fhx.php?id=fhzx
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
+凤凰香港,https://epg.pw/stream/b22976296a71b1a2a7fd440ea009e5501378f1e8193bcc7edaa6ad5a31a3e5e6.m3u8
 凤凰香港,https://i.125011.xyz/fhx.php?id=fhhk
 凤凰香港,http://rihou.cc:61/qiepian/xianggang.php?id=fhhk
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
@@ -1164,6 +1128,7 @@ CGTN俄语,http://svip.weixine.net:88/uploads/itvbox/tv/ysp.php?id=cgtnr
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 TVB翡翠台,http://r.jdshipin.com/62WM7
+TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,https://s2.pub/Y-12
 TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,http://nas.jdshipin.com:8801/gdfc720.php
@@ -1190,6 +1155,7 @@ TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1535
 TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
 TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
 TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/d803719995ab40df83fca5e638cac7f4.m3u8
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 星空音乐,http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
