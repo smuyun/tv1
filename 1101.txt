@@ -468,6 +468,37 @@ Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
 
 🇨🇳央视,#genre#
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV1,https://live.goodiptv.club/api/yqgd.php?id=cctv1hd
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
+CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
