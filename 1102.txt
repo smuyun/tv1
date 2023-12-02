@@ -1324,6 +1324,40 @@ TVBS新闻,https://s2.pub/Y-30
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
 🇨🇳高清,#genre#
+CCTV-1 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV-2 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV-2 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
+CCTV-3 2K,http://111.20.40.172/PLTV/88888893/224/3221226397/index.m3u8
+CCTV-4 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV-4 2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV-5 2K,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+CCTV-5 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV-5+   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
+CCTV-5+   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV-6 2K,http://111.20.40.167/PLTV/88888893/224/3221226393/index.m3u8
+CCTV-6 2K,http://111.20.40.166/PLTV/88888893/224/3221226393/index.m3u8
+CCTV-7 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-8 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8 2K,http://111.20.40.172/PLTV/88888893/224/3221226391/index.m3u8
+CCTV-9 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
+CCTV-9 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-10   2K,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
+CCTV-10   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
+CCTV-13   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
+CCTV-13   2K,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-13   2K,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
+CCTV-14   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?
+CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+4K剧场,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
 CCTV8K,http://42.81.252.22/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
 CCTV8K,http://angtv.cc/test/ysp.php?id=cctv8k
 CCTV8Khdr,http://159.75.85.63:8654/xx8k50fps.php
