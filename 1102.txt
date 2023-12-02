@@ -1324,6 +1324,7 @@ TVBS新闻,https://s2.pub/Y-30
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 
 🇨🇳高清,#genre#
+CCTV-1 2K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-1 2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2 2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
