@@ -303,6 +303,7 @@ ASIA UHD,http://110.9.159.82:9981/stream/channelid/1791120833?ticket=E6D80F42E0C
 K-STAR,http://58.142.60.62:9981/stream/channelid/342733435
 KoreaEconomyTV,https://kr-streams.onrender.com/scraper?channel=408
 KoreaEconomyTV,https://apichvod19.seezntv.com/OTM/10480_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
+Tomato,http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
 KBS大邱,http://mytv.dothome.co.kr/ch/public/13.php
 KBS大邱,https://code.vthanhtivi.pw/getlink/kbs/30_11/playlist.m3u8
 KBS京南,https://code.vthanhtivi.pw/getlink/kbs/20_11/playlist.m3u8
@@ -665,7 +666,6 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
-延边1台,http://live.ybtvyun.com/video/s10006-9b7346d273d6/index.m3u8
 延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 延边2台,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
