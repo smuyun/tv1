@@ -1180,6 +1180,7 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,https://s2.pub/Y-11
 凤凰资讯,https://i.125011.xyz/fhx.php?id=fhzx
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰香港,https://epg.pw/stream/8aa4301596dada4db1a6c94086183a8b733c3ade2254e0bbf1130a576faac531.m3u8
 凤凰香港,https://epg.pw/stream/b22976296a71b1a2a7fd440ea009e5501378f1e8193bcc7edaa6ad5a31a3e5e6.m3u8
