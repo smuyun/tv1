@@ -1471,6 +1471,96 @@ ytn2,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72
 국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
 朝鮮中央臺,https://epg.pw/stream/9b1597f57763b9bbcb425fb2b5b39938dc76f1bba9004d1281c748a1432e7cf6.m3u8
 
+🇰🇷测试4,#genre#
+MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
+tvN 사랑의 불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
+MBC 나 혼자 산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
+SBS TV 동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
+tvN 미스터 션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
+MBC 나는 가수다,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
+MBC 옷소매 붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
+KBS 1박2일 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
+JTBC 비긴어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
+JTBC 크라임씬,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
+PLAYY 어워드특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+Mnet 스트릿 우먼 파이터 2 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
+tvN 유 퀴즈 온 더 블럭 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
+Animax 반지의 비밀일기,https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
+초록뱀미디어 K-STAR 골프,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
+PGA Tour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
+SBS 편의점 샛별이,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
+SBS 궁금한 이야기 Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
+JTBC 톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
+KBS 쌈마이웨이,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
+JTBC 괴물,https://i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8
+JTBC 품위있는 그녀,https://i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8
+SBS 나는 솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
+TV조선 미스터트롯 영웅의 탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
+TV조선 빨간 풍선,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
+TV조선 골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
+PLAYY 영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
+SBS 스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+SBS 순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
+MBC 지붕뚫고 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
+MBC 거침없이 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8
+MBC 심야괴담회,https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8
+JTBC 효리네 민박 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8
+SBS 정글의 법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
+맛있는 녀석들,https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
+JTBC 힘쎈여자 도봉순,https://i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8
+tvN 호텔 델루나,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
+채널A 이제 만나러 갑니다,https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
+전우치,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
+사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
+역사 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
+심리 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
+tvN 환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
+tvN 대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
+MBN 나는 자연인이다,https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8
+ch.핑크퐁,https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8
+SBS 그것이 알고싶다,https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8
+고독한 미식가,https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8
+MBC every1 어서와 한국은 처음이지?,https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8
+채널A 나만 믿고 따라와 도시어부,https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8
+TV CHOSUN 국가가 부른다,https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
+도라마코리아,https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8
+JTBC 뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+Mnet 스트릿 우먼 파이터,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
+MBN 돌싱글즈,https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8
+SBS 펜트하우스,https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8
+MBC 돈꽃,https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8
+MBC 안싸우면 다행이야,https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8
+SBS 빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
+꽃보다 남자,https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
+MBC every1 별순검,https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8
+채널A 요즘 육아 금쪽같은 내새끼,https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8
+SBS 런닝맨,https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
+SBS 미운 우리 새끼,https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
+MBC 선을 넘는 녀석들,https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8
+TV CHOSUN 식객 허영만의 백반기행,https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8
+SBS 동상이몽2 - 너는 내 운명,https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8
+SBS 백종원의 골목식당,https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8
+SBS 불타는 청춘,https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8
+SBS 패밀리가 떴다,https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8
+iHQ 돈쭐내러 왔습니다,https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
+E채널 토요일은 밥이 좋아,https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
+KBS Joy 연애의 참견,https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
+KBS Joy 무엇이든 물어보살,https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8
+MBN 속풀이쇼 동치미,https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8
+SBS 순간포착 세상에 이런일이,https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8
+SBS 생활의 달인,https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8
+MBN 휴먼다큐 사노라면,https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8
+우리의식탁,https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
+NEW MOVIES,https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+OGN 스타리그,https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
+World Billiards TV,https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
+TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
+JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
+JTBC 골프,https://i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+KBS 개는 훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
+씨네21+,https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
+
 🇨🇳GANG AO测试,#genre#
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 T翡翠台,http://r.jdshipin.com/qClQf
