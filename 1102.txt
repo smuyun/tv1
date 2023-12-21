@@ -660,7 +660,6 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 深圳都市,http://www.kitcc.cn:8888/udp/239.77.1.176:5146
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild
 延边1台,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
