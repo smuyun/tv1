@@ -1369,7 +1369,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 臻彩4K欧洲,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-时装Fashine TV,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/11045/index.m3u8
+时装Fashion TV,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/4005/index.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 🇰🇷测试1,#genre#
