@@ -45,6 +45,7 @@ MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://58.142.60.62:9981/stream/channelid/188316
 JTBC,http://mytv.dothome.co.kr/ch/catv/216.php
 JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
