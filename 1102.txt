@@ -1354,12 +1354,16 @@ CCTV-16 2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
 BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K剧场,http://bp-caster.bestv.com.cn/513/1/video.m3u8
+绚影4K,http://171.214.202.74:4000/udp/239.93.42.33:5140
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV4K,http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-CCTV8K,http://42.81.252.22/tlivecloud-ipv6.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV8K,http://211.101.234.94:9999/php/8k.php
 CCTV8K,http://angtv.cc/test/ysp.php?id=cctv8k
 CCTV8Khdr,http://159.75.85.63:8654/xx8k50fps.php
-CCTV-16 奥林匹克 4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+CCTV-16 4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
+CCTV-16 4K,http://merlin.ax86.site:8080/api/epg/live_proxy_epg_eztv.php?simple=1&id=CCTV-16_4K
+广东4K,http://113.117.74.27:8081/hls/145/index.m3u8
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -1371,6 +1375,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 臻彩4K欧洲,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 时装Fashion TV,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/4005/index.m3u8
+NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 🇰🇷测试1,#genre#
