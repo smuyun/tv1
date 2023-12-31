@@ -1191,7 +1191,9 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 香港卫视,http://107.151.203.111:2209/135/hk.php?id=hkws
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+TVB翡翠台,http://183.238.66.1:9090/live/1350_4500.m3u8?t=w14L5ppGYYzipwiIRQpgdA==&u=17199741419&p=8&pid=&cid=&d=865372026096088&sid=hfAt3RCtJHIvxbAAwbST4g==&r=20231231094145&e=20240101094150&nc=QDyHzPY0Vj9z&a=7&v=2&isSuma=1&hlsSessionID=2793077895964774921&srchost=172.16.149.181:8060&gid=NU%2Fr8WDdxGv5j%2FndxaKyQQ%3D%3D
 TVB翡翠台,http://r.jdshipin.com/62WM7
+TVB翡翠台,http://211.101.234.94:9999/php/gudo.php?id=fcthd
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,https://s2.pub/Y-12
 TVB翡翠台,http://r.jdshipin.com/n90gt
@@ -1202,6 +1204,7 @@ TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccn
 TVB翡翠台,https://dispatch.ulivetv.net/v/live/ccns0yuvkzpc.m3u8?stream_id=ccns0yuvkzpc&timestamp=1686272589&rand=pj9N0CE1NQ&uuid=9b647b3816b2a66a&from=web&sign=252ae84528559cdc6a20b2650d802188
 TVB翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
+TVB明珠台,http://211.101.234.94:9999/php/gudo.php?id=mzthd
 TVB明珠台,https://s2.pub/Y-14
 TVB明珠台,https://live.astradamy.com/tvbpearl/index.m3u8
 TVB明珠台,http://107.151.203.111:2209/135/hk.php?id=tvbmzt
@@ -1364,6 +1367,7 @@ CCTV8Khdr,http://159.75.85.63:8654/xx8k50fps.php
 CCTV-16 4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 CCTV-16 4K,http://merlin.ax86.site:8080/api/epg/live_proxy_epg_eztv.php?simple=1&id=CCTV-16_4K
 广东4K,http://113.117.74.27:8081/hls/145/index.m3u8
+广东综艺4K,http://211.101.234.94:9999/php/gudo.php?id=gdzy4k
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
