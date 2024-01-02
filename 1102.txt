@@ -298,6 +298,7 @@ inet,https://epg.pw/stream/80648d0bdb5700f114edde040658506d0cdb1fca7e9cb2cc60d00
 inet,http://221.167.205.241:9981/stream/channelid/34
 inet,mitv://ns2.hellotvvod.com:9906/7d8f385ab9fd42f6b77b907ada6e3553
 inet,http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
+JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 ABN HD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 ASIA UHD,http://110.9.159.82:9981/stream/channelid/1791120833?ticket=E6D80F42E0C80368D31F672E0D2A3BEDD8740FCD&profile=pass
