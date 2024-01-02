@@ -6,7 +6,7 @@ KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS1,http://202.60.106.14:8080/200/playlist.m3u8
-https://tv.iill.top/kbs/12&p=0
+KBS2,https://tv.iill.top/kbs/12&p=0
 KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efda3a63151c2f.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
@@ -130,6 +130,7 @@ SBS PLUS,http://58.142.60.62:9981/stream/channelid/1517719782
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS PLUS,http://itskoi.dothome.co.kr/sbs.php?id=S03
+KBS W,https://tv.iill.top/kbs/14&p=0
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS W,https://epg.pw/stream/a0394b32a64c280d51c57c81cad605d7e57c9703d3a19d4808dbda3ab536039e.ctv
 KBS W,https://epg.pw/stream/e96a867a5fb7d4ed6f113d7b43479dd40c4b6319643138e2e7e689e456ece578.ctv
@@ -1392,7 +1393,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 🇰🇷测试1,#genre#
 kbs1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
