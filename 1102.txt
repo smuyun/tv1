@@ -102,7 +102,7 @@ TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
-CHANNEL A,http://119.192.58.101:9981/stream/channelid/132382008?ticket=166D3DCB57C1A2ACA59A7832447C16E73E017B45&profile=pass
+Channel A,http://119.192.58.101:9981/stream/channelid/132382008?ticket=166D3DCB57C1A2ACA59A7832447C16E73E017B45&profile=pass
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 Channel A,https://epg.pw/stream/48ed4b6c1b6f9a0f6bc2c8fbba3ae24e0ca11a92d7bb03f351f8230670edcef1.m3u8
 Channel A,https://epg.pw/stream/04e101b8e9ec7fc2ecf74cb42e16c0d935cd48e05cf5c8f529b3181319c4f4fe.m3u8
