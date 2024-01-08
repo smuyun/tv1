@@ -1428,101 +1428,65 @@ NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 🇰🇷测试1,#genre#
-kbs1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
-kbs2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efda3a63151c2f.m3u8
-TJB SBS,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
-TJB SBS,https://epg.pw/stream/a1b8fb52971ee07d2914792f9c4e640f98e4910baadb07ad4955d5290745445f.m3u8
-TJB SBS,https://epg.pw/stream/0c4c4aa8d189d13d5575ff9d5c9a4af99036c9ac9d7c91b670900e415b021416.m3u8
-kbs world,https://epg.pw/stream/a0394b32a64c280d51c57c81cad605d7e57c9703d3a19d4808dbda3ab536039e.ctv
-kbs world,https://epg.pw/stream/e96a867a5fb7d4ed6f113d7b43479dd40c4b6319643138e2e7e689e456ece578.ctv
-kbs world,https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
-kbs world,https://epg.pw/stream/dbf98bbd01c423cfd50b4ad1a57fc34e5ba6bdb930b2c93db7f43b8f43dfa6f9.m3u8
-kbs world,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
-kbs world,https://epg.pw/stream/6f5e76c4531b1c6160326aafee8bbea510ca4f6a138e5a1fc6e2dff6a13fca6d.ctv
-kbs world,https://epg.pw/stream/5485f64308646d5fa7f24f4d40c383bc06d1dedb4197ddc13fb9bc538ab664da.m3u8
-kbs world,https://epg.pw/stream/275ace2dd9475899fde691d6df0c1302708c008ca4ffb274961dc33fe02b9c83.m3u8
-CHANNEL A,https://epg.pw/stream/04e101b8e9ec7fc2ecf74cb42e16c0d935cd48e05cf5c8f529b3181319c4f4fe.m3u8
-kbs drama,https://epg.pw/stream/b15aad8f626e01dc7a011b0c898389ded005232c5d34e5cf263e163c42ce463d.ctv
-kbs drama,https://epg.pw/stream/effbd6f0e6a7003322fbd3c134e06a751fe14c2e827a496f37d352dfd8660109.ctv
-kbs drama,https://epg.pw/stream/538baa96c4b508ca2d45bb3ea610fd4601d229dd26c2c83281f4c9fdb0bd80d6.m3u8
-kbs drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
-kbs joy,https://epg.pw/stream/37b06032135a5fe7fa79f7a4fe13eeecf9813e9250248e431b49205173b03099.m3u8
-kbs joy,https://epg.pw/stream/305cdf6ce73f15fc8b99cf02f03f8b94acbb4e43f607c9f4d83752c227ad2624.ctv
-kbs joy,https://epg.pw/stream/95bc3207f2d32592885ab619bafad02e5ce037f02dc81247e1f0cc0be6f3a206.ctv
-kbs joy,https://epg.pw/stream/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
-kbs kids,https://epg.pw/stream/5779afa722e1634c61422728d02494bf76bdd5a08539013809b3b4befb6f586b.ctv
-kbs kids,https://epg.pw/stream/f5b55c798733191f6877db3100ff6a7da8961d0fc3c57ac53f0bf34cc44fb2a5.ctv
-kbs kids,https://epg.pw/stream/6d4754c856dff8be97469d1fa9ed27435ba411dac1028db1ebb17f6a6fff84de.ctv
-kbs life,https://epg.pw/stream/6e97c10ae4ff04a9f684fd403f6a1e42d54627e726c947c5ded5f8e63cea773a.ctv
-kbs life,https://epg.pw/stream/34f0a48e35d7bb385a09f5acfd563731002379fe5b1b90bd0190cb7159f36e70.ctv
-kbs life,https://epg.pw/stream/c4fba9d87553d91230382bb50979196f24d3586b03cdd35bf8dc68cdf4624d3f.m3u8
-kbs life,https://epg.pw/stream/eb030d83667ff48ac36a4c95696a4af4d48a1f139d29cd944d557a64425f9658.ctv
-kbs story,https://epg.pw/stream/e44c3ff19c4b01f605e0e7e19169c62afa77e25b54ff4a54ab8517af527b5566.ctv
-kbs story,https://epg.pw/stream/366f14c57e2c25ef101eba472819f4d34dd2a2629a7937f47d70c2a75a947784.ctv
-kbs story,https://epg.pw/stream/9cf281c6cd16e27d83d6d25f0bbcde8c7b0134cfec5b2ba261278c885ba2aeac.m3u8
-kbs story,https://epg.pw/stream/55925e277a1960fc059cff58362aeb6bdc12369ca9e0ecb0c0abe85bc597779d.ctv
-korea tv,https://epg.pw/stream/2993da41063a3be7a1a367b111251458c87041a59e1f839a58e048a4ab103b26.m3u8
-korea tv,https://epg.pw/stream/82034f50580ac0c94f2685fe67523c478b36cb49110cc68eb7f192ce8edec80a.m3u8
-korea tv,https://epg.pw/stream/a77511d8a8f673b3204180739b8bf4c78d15f92b848db2bb94b26a12aa23f122.m3u8
-tv chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
-
-🇰🇷测试2,#genre#
-Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
-KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
-KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
-KBS Drama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
-KBS Drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
-KBSJoy,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
-SBS,mitv://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
-SBSBiz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
+KBS1,http://119.192.58.101:9981/stream/channelid/2104459495?ticket=CE017F6090614F851C5B7767AE6FCE12378B79B9&profile=pass
+KBS2,http://119.192.58.101:9981/stream/channelid/1207472992?ticket=EDF6A65D52114D65CE8B60AD6B38D846B74F6AEC&profile=pass
+SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
+MBC,http://119.192.58.101:9981/stream/channelid/2070605839?ticket=5CE51A3E4FFB9B4498F8BA12AEAD95A061C395AB&profile=pass
+MBN,http://119.192.58.101:9981/stream/channelid/668377508?ticket=B4F3B6F317B2B52BD110A1DA9D0B0C35A445FAF5&profile=pass
+YTN,http://119.192.58.101:9981/stream/channelid/1107476581?ticket=306490852D6D7C279A5B3C0112083A6E4AF6ACC1&profile=pass
+Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
-EBS,mitv://generationnexxxt.com:19806/257252e5e0f749beb160af97e36d15d1
-YTN,mitv://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
-Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
-tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3
-OCNMovies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
-TVChosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
-MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
-MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
-Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
-
-🇰🇷测试3,#genre#
-kbs drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
-kbs joy,https://epg.pw/stream/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
-kbs kids,https://epg.pw/stream/5779afa722e1634c61422728d02494bf76bdd5a08539013809b3b4befb6f586b.ctv
-kbs life,https://epg.pw/stream/eb030d83667ff48ac36a4c95696a4af4d48a1f139d29cd944d557a64425f9658.ctv
-kbs story,https://epg.pw/stream/55925e277a1960fc059cff58362aeb6bdc12369ca9e0ecb0c0abe85bc597779d.ctv
-kbs world,https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
-kbs world,https://epg.pw/stream/dbf98bbd01c423cfd50b4ad1a57fc34e5ba6bdb930b2c93db7f43b8f43dfa6f9.m3u8
-kbs world,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
-kbs world,https://epg.pw/stream/6f5e76c4531b1c6160326aafee8bbea510ca4f6a138e5a1fc6e2dff6a13fca6d.ctv
-kbs world,https://epg.pw/stream/275ace2dd9475899fde691d6df0c1302708c008ca4ffb274961dc33fe02b9c83.m3u8
-KBS2,https://epg.pw/stream/64033027a93ca6394ca97171c2f4f036005be7dcc996a153834f1a5e10ac7aee.ctv
-kctv 광주,https://epg.pw/stream/7a3c4e057a1628fc0b67eae1c8a73d2a16e0896f4bbe2b92773691579c0fee65.m3u8
-mbc america,https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
-mbn,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
-on style hd,https://epg.pw/stream/39e9efeffabe694999b5d7bd9e01903bff6a2cf77fdf01baf06e84f923f59e7e.m3u8
-ora tv,https://epg.pw/stream/a194a81145a1f2b1976cac5efe960e6c1e6a20c7a81476b515315735dd16945b.m3u8
-ora tv,https://epg.pw/stream/a77511d8a8f673b3204180739b8bf4c78d15f92b848db2bb94b26a12aa23f122.m3u8
-sbs tjb,https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
-sbs tjb,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
-sony movies,https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8
-sony movies,https://epg.pw/stream/dc8fcbd42c8dde62f58eb8995dcf32c222412b61d11cfd74291c89ffda1efb9b.m3u8
-tv chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
-tvn,https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
-vos tv,https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8
-vos tv,https://epg.pw/stream/8b06ac56b32b66b83aeb73f98e50fbd8d41cf53a2a5638dfc8b52a22157ccee1.m3u8
-wb tv,https://epg.pw/stream/f57c2217dd011bb1ce89e4b73e66855f7e37cdfd5aad9c803eba2701e0f208d1.ctv
-ytn2,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
-阿里郎电台,https://epg.pw/stream/f592a0d375966407059e0daa1a72f252e4522cef754eff14091bf8650e378831.m3u8
-韩国电影1,https://epg.pw/stream/4dc4e83c56bc5e0543b15f0cdfc80e24eac36ef307def73ce8aa62385cac2794.m3u8
-韩国电影1,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
-韩国电影3,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
-국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
-朝鮮中央臺,https://epg.pw/stream/9b1597f57763b9bbcb425fb2b5b39938dc76f1bba9004d1281c748a1432e7cf6.m3u8
-
-🇰🇷测试4,#genre#
+JTBC,http://58.142.60.62:9981/stream/channelid/188316
+JTBC,http://mytv.dothome.co.kr/ch/catv/216.php
+JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
+JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
+JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
+JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
+JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
+TVN,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
+TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=283924
+TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306295
+TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
+TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
+TVN,http://210.210.155.35:80/session/d81fbba6-81b6-11ee-8fea-81988aec3c8c/dr9445/h/h20/02.m3u8
+TVN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+TV CHOSUN,http://119.192.58.101:9981/stream/channelid/906085881?ticket=E826D6EFF6A4C85C42B66BC12F2F47974592E9F1&profile=pass
+TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
+TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
+TV Chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
+TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
+TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
+TV CHOSUN2,http://119.192.58.101:9981/stream/channelid/572768770?ticket=87B0F776BF3EFC02D10EA5F1D7688423E0A9AB1F&profile=pass
+CHANNEL A,http://119.192.58.101:9981/stream/channelid/132382008?ticket=166D3DCB57C1A2ACA59A7832447C16E73E017B45&profile=pass
+CHANNEL A+,http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
+KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
+MBC DARMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
+MBC DARMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
+SBS PLUS,http://119.192.58.101:9981/stream/channelid/2004305573?ticket=7146CF06171AAE814E965172A592162BBB975670&profile=pass
+SBS PLUS,http://119.192.58.101:9981/stream/channelid/1333986935?ticket=49D36D20A1702170E03CE923E36FC0AA659D2153&profile=pass
+MBC Every1,http://119.192.58.101:9981/stream/channelid/1534822180?ticket=1380F404A630DF35B0D791FD321D503AD2CDA701&profile=pass
+KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+KBS W,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
+KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
+KBS24,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
+KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
+KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
+KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
+KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS STORY,http://mytv.dothome.co.kr/ch/catv/4.php
+the LIFE,http://119.192.58.101:9981/stream/channelid/1772682182?ticket=17E1B963B26E7D2B9E611592C1973F0E93BBE320&profile=pass
+K star,http://119.192.58.101:9981/stream/channelid/1755085478?ticket=8BD163BCD752C17265A964C2C1B5823C698E1712&profile=pass
+SBS Biz,http://119.192.58.101:9981/stream/channelid/133554653?ticket=171A101DA8C86F2FA403B313B91B0B822DA75FAD&profile=pass
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+综艺,http://14.49.86.138:9981/stream/channelid/553838573?ticket=A205A77A19E3E6AE539F7FBCD634F014832075DA&profile=pass
+测试1,http://175.207.220.199:9981/stream/channelid/135345991?ticket=
+测试2,http://14.49.86.138:9981/stream/channelid/700704486?ticket=12A688862E2C825D5DA3DC122595142CB94F750F&profile=pass
+测试3,http://14.49.86.138:9981/stream/channelid/1308141696?ticket=BAF2BAD0CC12EE136DB2D5CC0131D42B23D4EFB5&profile=pass
 MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
 tvN 사랑의 불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
 MBC 나 혼자 산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
@@ -1707,6 +1671,265 @@ NEW MOVIES,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel
 빌리어즈TV 레전드,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%B9%8C%EB%A6%AC%EC%96%B4%EC%A6%88tv%EB%A0%88%EC%A0%84%EB%93%9C&channel_id=newid_027&apikey=b97c7a7d0c82424bb607e141ef215779&auth=8d76450f-b948e49a-8b1249a3-63fbfeac&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 ch.핑크퐁,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ch.%ED%95%91%ED%81%AC%ED%90%81&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&coppa=1&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
+
+🇰🇷测试2,#genre#
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,http://220.95.92.160:9981/stream/channelid/660474352
+KBS1,http://58.142.60.62:9981/stream/channelid/500228236
+KBS1,http://222.237.71.141:9981/stream/channelid/2145940811?profile=pass
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,http://222.237.71.141:9981/stream/channelid/2145120055?profile=pass
+KBS2,http://183.99.22.189:9981/stream/channelid/806525648?ticket=89FC36A507B8BF3BEE410174A9F90617BB018964&profile=pass
+KBS2,http://183.99.22.189:9981/stream/channelid/806525648?ticket=2CAD38B571549F19B45E89A4DA61B7F2F1293FE2&profile=pass
+KBS2,http://183.99.22.189:9981/stream/channelid/1564137658
+KBS2,http://58.142.60.62:9981/stream/channelid/2025687795
+KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
+SBS,http://183.99.22.189:9981/stream/channelid/1124346476?
+SBS,http://117.123.30.250:9981/stream/channelid/86
+SBS,http://58.142.60.62:9981/stream/channelid/260418342
+MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,http://58.142.60.62:9981/stream/channelid/793162132
+MBC,http://117.123.30.250:9981/stream/channelid/84
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://8.ykwlm.sinaapp.com/han3.php?id=10
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+MBN,http://117.123.30.250:9981/stream/channelid/20
+MBN,http://58.142.60.62:9981/stream/channelid/1007022958
+연합뉴스TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+연합뉴스TV,http://117.123.30.250:9981/stream/channelid/29
+YTN,http://110.47.7.144:9981/stream/channelid/53
+YTN,http://58.142.60.62:9981/stream/channelid/1136165985
+YTN,http://117.123.30.250:9981/stream/channelid/30
+JTBC,http://110.47.7.144:9981/stream/channelid/46
+JTBC,http://117.123.30.250:9981/stream/channelid/18
+JTBC,http://58.142.60.62:9981/stream/channelid/1883166422
+JTBC2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
+tvN,http://110.47.7.144:9981/stream/channelid/44
+tvN,http://117.123.30.250:9981/stream/channelid/11
+tvN,http://58.142.60.62:9981/stream/channelid/1041875196
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KBS D,http://110.47.7.144:9981/stream/channelid/6
+KBS D,http://117.123.30.250:9981/stream/channelid/65
+KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+KBS W,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+MBC Drama net,http://58.142.60.62:9981/stream/channelid/1480601091
+SBS Plus,http://58.142.60.62:9981/stream/channelid/1517719782
+KBS DRAMA,http://58.142.60.62:9981/stream/channelid/604398662
+KBS DRAMA,http://58.142.60.62:9981/stream/channelid/342733435
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+KBS JOY,http://110.47.7.144:9981/stream/channelid/5?ticket=
+MBC Every1,http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
+MBC M,http://58.142.60.62:9981/stream/channelid/1920571670
+OCN,http://110.47.7.144:9981/stream/channelid/48
+OCN,http://117.123.30.250:9981/stream/channelid/35?
+OCN,http://58.142.60.62:9981/stream/channelid/1732991760
+OCN MOVIES,http://117.123.30.250:9981/stream/channelid/37
+OCN MOVIES,http://110.47.7.144:9981/stream/channelid/45
+OCN MOVIES2,http://117.123.30.250:9981/stream/channelid/40
+JTBC2,http://110.47.7.144:9981/stream/channelid/81
+JTBC2,http://117.123.30.250:9981/stream/channelid/71?
+JTBC3,http://106.246.92.3:9981/stream/channelid/50
+JTBC4,http://106.246.92.3:9981/stream/channelid/51
+JTBC4,http://110.47.7.144:9981/stream/channelid/62
+综艺娱乐,http://14.49.86.138:9981/stream/channelid/553838573?
+Mnet,http://110.47.7.144:9981/stream/channelid/29
+Mnet,http://117.123.30.250:9981/stream/channelid/45
+Mnet,http://58.142.60.62:9981/stream/channelid/1916731800
+Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
+inet,http://117.123.30.250:9981/stream/channelid/66
+inet,http://121.136.153.200:9981/stream/channelid/50
+Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
+JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
+애니원,http://210.97.86.161:9981/stream/channelid/377618692?ticket=
+测试1,http://175.207.220.199:9981/stream/channelid/135345991?ticket=
+测试2,http://14.49.86.138:9981/stream/channelid/700704486?ticket=12A688862E2C825D5DA3DC122595142CB94F750F&profile=pass
+测试3,http://14.49.86.138:9981/stream/channelid/1308141696?ticket=BAF2BAD0CC12EE136DB2D5CC0131D42B23D4EFB5&profile=pass
+올레 순위,http://14.49.86.138:9981/stream/channelid/1715507632?ticket=FE046EE785484561DCCCC775D7128F78C827F9B1&profile=pass
+올레 순위 - 예능,http://14.49.86.138:9981/stream/channelid/432814552?ticket=A846A789887C780B140AC4573D3E4AFB9E2102EA&profile=pass
+올레 순위 - 종합,http://14.49.86.138:9981/stream/channelid/1169993630?ticket=AFBB8CCACF4F0685B04E649C134EB3A670A95CAB&profile=pass
+频道预览2,http://175.207.220.199:9981/stream/channelid/454725470?ticket=
+频道预览3,http://175.207.220.199:9981/stream/channelid/256178647?ticket=
+频道预览4,http://175.207.220.199:9981/stream/channelid/1204857893?ticket=
+EBS,http://183.99.22.189:9981/stream/channelid/1358704792?ticket=
+LifeU,http://1.236.14.10:9981/stream/channelid/47?ticket=
+올리브,http://1.236.14.10:9981/stream/channelid/48?ticket=
+FOX,http://222.98.109.224:9981/stream/channelid/31?ticket=6DAE034785AA1B91B0EFE10F7C5C2226C6F4DAD0
+코미디TV,http://222.98.109.224:9981/stream/channelid/32?ticket=BA5FA935FB1DAB2F598F3CA495A83F3892098F9B
+CJ오쇼핑 플러스,http://14.49.86.138:9981/stream/channelid/958661849?ticket=899E986687EBB48C4224704EB95AB2D16AD66FA4&profile=pass
+Mplex,http://110.47.7.144:9981/stream/channelid/65
+TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
+CJB SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+평화방송,http://110.47.7.144:9981/stream/channelid/64?ticket=3662ABD728AFD0F7429ACAD6D379422C487E7480
+CBS,http://110.47.7.144:9981/stream/channelid/63?ticket=B5E3C7D0A99E04552194F54922A71361B50AE5A4
+STB,http://110.47.7.144:9981/stream/channelid/15
+E,http://110.47.7.144:9981/stream/channelid/25
+IHQ,http://110.47.7.144:9981/stream/channelid/27
+SCREEN,http://110.47.7.144:9981/stream/channelid/28
+30,http://110.47.7.144:9981/stream/channelid/30
+ENA PLAY,http://110.47.7.144:9981/stream/channelid/50
+DONE,http://110.47.7.144:9981/stream/channelid/51
+SPOTV,http://110.47.7.144:9981/stream/channelid/56
+CHING,http://110.47.7.144:9981/stream/channelid/71
+CNTV,http://110.47.7.144:9981/stream/channelid/73
+NOW,http://110.47.7.144:9981/stream/channelid/94
+中华TV,http://110.47.7.144:9981/stream/channelid/97
+CMCTV,http://110.47.7.144:9981/stream/channelid/98
+ENA,http://110.47.7.144:9981/stream/channelid/99
+OL!FE,http://175.207.220.199:9981/stream/channelid/33199828?ticket=
+TVC2,http://175.207.220.199:9981/stream/channelid/429974246?
+ONCE,http://175.207.220.199:9981/stream/channelid/417888638
+GENIE TV,http://175.207.220.199:9981/stream/channelid/1089353828?ticket=
+GENIE TV,http://175.207.220.199:9981/stream/channelid/79438460?ticket=
+job plus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+CTS,https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+aN,http://175.207.220.199:9981/stream/channelid/1265183448
+C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
+TJ MBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+BS MBC,http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+JEJU MBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
+CJ MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
+CNTV,http://106.246.92.3:9981/stream/channelid/94
+AXN,http://106.246.92.3:9981/stream/channelid/32
+BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+BBSTV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+NBS한국농업방송,https://media.joycorp.co.kr:4443/live/live_360p/playlist.m3u8
+ANIONE,http://117.123.30.250:9981/stream/channelid/58
+MBC D,http://117.123.30.250:9981/stream/channelid/59
+패션앤,http://117.123.30.250:9981/stream/channelid/39
+한국경제TV,http://117.123.30.250:9981/stream/channelid/77
+EDGE,http://117.123.30.250:9981/stream/channelid/2
+FUN,http://117.123.30.250:9981/stream/channelid/3
+MBCON,http://117.123.30.250:9981/stream/channelid/7
+SPOTV,http://117.123.30.250:9981/stream/channelid/8
+E,http://117.123.30.250:9981/stream/channelid/10
+CJ,http://117.123.30.250:9981/stream/channelid/12
+롯데홈쇼핑,http://117.123.30.250:9981/stream/channelid/15
+채널A,http://117.123.30.250:9981/stream/channelid/22
+DR CUBE,http://117.123.30.250:9981/stream/channelid/24
+KTV,http://117.123.30.250:9981/stream/channelid/27
+ANIMAX,http://117.123.30.250:9981/stream/channelid/33
+뷰,http://117.123.30.250:9981/stream/channelid/34
+SCREEN,http://117.123.30.250:9981/stream/channelid/36
+CNTV,http://117.123.30.250:9981/stream/channelid/6
+TV asia,http://117.123.30.250:9981/stream/channelid/52
+KBS1,http://117.123.30.250:9981/stream/channelid/85
+인디필름,http://117.123.30.250:9981/stream/channelid/5
+CINE F,http://117.123.30.250:9981/stream/channelid/38
+F,http://117.123.30.250:9981/stream/channelid/39
+ENA,http://117.123.30.250:9981/stream/channelid/41
+iHQ,http://117.123.30.250:9981/stream/channelid/43
+ENA S,http://117.123.30.250:9981/stream/channelid/46
+K STAR,http://117.123.30.250:9981/stream/channelid/48
+tvN D,http://117.123.30.250:9981/stream/channelid/49
+SKY SP,http://117.123.30.250:9981/stream/channelid/50
+tvN S,http://117.123.30.250:9981/stream/channelid/51
+TVA P,http://117.123.30.250:9981/stream/channelid/52
+NOW,http://117.123.30.250:9981/stream/channelid/53
+KBSN,http://117.123.30.250:9981/stream/channelid/55
+event,http://117.123.30.250:9981/stream/channelid/56
+CTS,http://117.123.30.250:9981/stream/channelid/60
+BTN,http://117.123.30.250:9981/stream/channelid/61
+cpbc,http://117.123.30.250:9981/stream/channelid/62
+CS2,http://117.123.30.250:9981/stream/channelid/63
+SBS P,http://117.123.30.250:9981/stream/channelid/64
+MBC SP,http://117.123.30.250:9981/stream/channelid/67
+SBS SP,http://117.123.30.250:9981/stream/channelid/68
+SBS B,http://117.123.30.250:9981/stream/channelid/69
+MBC M,http://117.123.30.250:9981/stream/channelid/70
+CMC가족오락,http://117.123.30.250:9981/stream/channelid/73
+TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+TV2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=623
+TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
+TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
+TV5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
+TV6,https://stream.ads.ottera.tv/playlist.m3u8?network_id=751
+EBS,http://58.142.60.62:9981/stream/channelid/1384850680
+OBS,http://58.142.60.62:9981/stream/channelid/1581563490
+tvN SHOW,http://58.142.60.62:9981/stream/channelid/814405847
+COOKTV,http://58.142.60.62:9981/stream/channelid/985811264
+GTV,http://58.142.60.62:9981/stream/channelid/1986529233
+ANIMAX,http://58.142.60.62:9981/stream/channelid/293052838
+AXN,http://58.142.60.62:9981/stream/channelid/1554285063
+SBS Sports,http://58.142.60.62:9981/stream/channelid/387572407
+14,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+MTN,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+K STAR,http://121.136.153.200:9981/stream/channelid/41
+smile,http://121.136.153.200:9981/stream/channelid/55
+
+🇰🇷测试3,#genre#
+Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
+KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
+KBS Drama,mitv://generationnexxxt.com:19806/10263d570592484e864bf42334ba5a2f
+KBS Drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
+KBSJoy,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176
+SBS,mitv://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df
+SBSBiz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
+EBS,mitv://generationnexxxt.com:19806/257252e5e0f749beb160af97e36d15d1
+YTN,mitv://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125
+Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb
+tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3
+OCNMovies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0
+TVChosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e
+MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30
+MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
+Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446
+
+🇰🇷测试4,#genre#
+kbs drama,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
+kbs joy,https://epg.pw/stream/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
+kbs kids,https://epg.pw/stream/5779afa722e1634c61422728d02494bf76bdd5a08539013809b3b4befb6f586b.ctv
+kbs life,https://epg.pw/stream/eb030d83667ff48ac36a4c95696a4af4d48a1f139d29cd944d557a64425f9658.ctv
+kbs story,https://epg.pw/stream/55925e277a1960fc059cff58362aeb6bdc12369ca9e0ecb0c0abe85bc597779d.ctv
+kbs world,https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
+kbs world,https://epg.pw/stream/dbf98bbd01c423cfd50b4ad1a57fc34e5ba6bdb930b2c93db7f43b8f43dfa6f9.m3u8
+kbs world,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
+kbs world,https://epg.pw/stream/6f5e76c4531b1c6160326aafee8bbea510ca4f6a138e5a1fc6e2dff6a13fca6d.ctv
+kbs world,https://epg.pw/stream/275ace2dd9475899fde691d6df0c1302708c008ca4ffb274961dc33fe02b9c83.m3u8
+KBS2,https://epg.pw/stream/64033027a93ca6394ca97171c2f4f036005be7dcc996a153834f1a5e10ac7aee.ctv
+kctv 광주,https://epg.pw/stream/7a3c4e057a1628fc0b67eae1c8a73d2a16e0896f4bbe2b92773691579c0fee65.m3u8
+mbc america,https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
+mbn,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
+on style hd,https://epg.pw/stream/39e9efeffabe694999b5d7bd9e01903bff6a2cf77fdf01baf06e84f923f59e7e.m3u8
+ora tv,https://epg.pw/stream/a194a81145a1f2b1976cac5efe960e6c1e6a20c7a81476b515315735dd16945b.m3u8
+ora tv,https://epg.pw/stream/a77511d8a8f673b3204180739b8bf4c78d15f92b848db2bb94b26a12aa23f122.m3u8
+sbs tjb,https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
+sbs tjb,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
+sony movies,https://epg.pw/stream/9d707ffff7b8c5ac0681bf5b720085d55283d0e8d6f70a9c6796a954a8bcaffe.m3u8
+sony movies,https://epg.pw/stream/dc8fcbd42c8dde62f58eb8995dcf32c222412b61d11cfd74291c89ffda1efb9b.m3u8
+tv chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
+tvn,https://epg.pw/stream/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8
+vos tv,https://epg.pw/stream/4d52b49173c9620b02ac145ed8ab4166b42fbfb178575abe2116aa2686a53932.m3u8
+vos tv,https://epg.pw/stream/8b06ac56b32b66b83aeb73f98e50fbd8d41cf53a2a5638dfc8b52a22157ccee1.m3u8
+wb tv,https://epg.pw/stream/f57c2217dd011bb1ce89e4b73e66855f7e37cdfd5aad9c803eba2701e0f208d1.ctv
+ytn2,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
+阿里郎电台,https://epg.pw/stream/f592a0d375966407059e0daa1a72f252e4522cef754eff14091bf8650e378831.m3u8
+韩国电影1,https://epg.pw/stream/4dc4e83c56bc5e0543b15f0cdfc80e24eac36ef307def73ce8aa62385cac2794.m3u8
+韩国电影1,https://epg.pw/stream/3d0b0e644d73932ced9b2a9e4c4eb3371abdf1a867bbd27267e7650c2e25fe69.m3u8
+韩国电影3,https://epg.pw/stream/8283baa9c305ecec457631b92ee1c01f25b4d6b8cf19e284d9efbd8de0789eb5.m3u8
+국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
+朝鮮中央臺,https://epg.pw/stream/9b1597f57763b9bbcb425fb2b5b39938dc76f1bba9004d1281c748a1432e7cf6.m3u8
 
 🇨🇳GANG AO测试,#genre#
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
