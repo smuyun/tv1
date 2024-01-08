@@ -14,6 +14,7 @@ KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efd
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
+SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
 SBS,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
 SBS,https://epg.pw/stream/a1b8fb52971ee07d2914792f9c4e640f98e4910baadb07ad4955d5290745445f.m3u8
@@ -101,6 +102,7 @@ TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
+CHANNEL A,http://119.192.58.101:9981/stream/channelid/132382008?ticket=166D3DCB57C1A2ACA59A7832447C16E73E017B45&profile=pass
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 Channel A,https://epg.pw/stream/48ed4b6c1b6f9a0f6bc2c8fbba3ae24e0ca11a92d7bb03f351f8230670edcef1.m3u8
 Channel A,https://epg.pw/stream/04e101b8e9ec7fc2ecf74cb42e16c0d935cd48e05cf5c8f529b3181319c4f4fe.m3u8
@@ -113,6 +115,7 @@ Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
 Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
 Channel A,http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
+CHANNEL A+,http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
 KBS DRAMA,http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 KBS DRAMA,https://epg.pw/stream/b15aad8f626e01dc7a011b0c898389ded005232c5d34e5cf263e163c42ce463d.ctv
 KBS DRAMA,https://epg.pw/stream/effbd6f0e6a7003322fbd3c134e06a751fe14c2e827a496f37d352dfd8660109.ctv
@@ -126,8 +129,12 @@ KBS DRAMA,http://luotuo.ycchenrong.cn/dl/kbs.php?id=5
 KBS DRAMA,http://han.ddkdxmkj.com/api/kbs.php?id=5
 KBS DRAMA,http://zyj520ljzfjzfx.xyz/kbs.php?id=drama
 KBS DRAMA,http://live2.abcdsky.com:1935/live/KBSDRAMA/playlist.m3u8
+MBC DARMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
+MBC DARMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
 MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091
 SBS PLUS,p2p://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
+SBS PLUS,http://119.192.58.101:9981/stream/channelid/2004305573?ticket=7146CF06171AAE814E965172A592162BBB975670&profile=pass
+SBS PLUS,http://119.192.58.101:9981/stream/channelid/1333986935?ticket=49D36D20A1702170E03CE923E36FC0AA659D2153&profile=pass
 SBS PLUS,http://58.142.60.62:9981/stream/channelid/1517719782
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
@@ -199,6 +206,8 @@ OCN Movies,mitv://ns1.hellotvvod.com:9906/46438bc1be674ccab104e6e1a27a3221
 OCN Movies,http://110.9.159.82:9981/stream/channelid/273544231?ticket=F0DBA9A743EA297D9DF211AF47B48DF04AF8C01D&profile=pass
 OCN Movies,http://110.9.159.82:9981/stream/channelid/273544231
 OCN Movies,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+综艺,http://14.49.86.138:9981/stream/channelid/553838573?ticket=A205A77A19E3E6AE539F7FBCD634F014832075DA&profile=pass
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
 KBS JOY,https://epg.pw/stream/305cdf6ce73f15fc8b99cf02f03f8b94acbb4e43f607c9f4d83752c227ad2624.ctv
@@ -248,6 +257,7 @@ SBS FUN,http://110.9.159.82:9981/stream/channelid/1347324162
 SBS FUN,http://han.ddkdxmkj.com/api/sbs.php?id=4
 SBS FUN,http://ye23.win/iptv/sbs5.1.php?id=S04
 SBS FUN,http://itskoi.dothome.co.kr/sbs.php?id=S04
+SBS Biz,http://119.192.58.101:9981/stream/channelid/133554653?ticket=171A101DA8C86F2FA403B313B91B0B822DA75FAD&profile=pass
 SBS BIZ,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S06&q=default
 SBS BIZ,http://gg.gg/Ha_Noi_IPTV_58-SBS_Biz-Kinh_te_Tai_chinh
 SBS BIZ,http://49.167.236.190:9981/stream/channelid/55
@@ -276,6 +286,7 @@ MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800
 MBC-America,https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
 MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/playlist.m3u8
+MBC Every1,http://119.192.58.101:9981/stream/channelid/1534822180?ticket=1380F404A630DF35B0D791FD321D503AD2CDA701&profile=pass
 MBC every1,http://119.197.107.139:9981/stream/channelid/45
 MBC every1,http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
 MBC every1,mitv://ns1.hellotvvod.com:9906/aab3f63bd59549e495c57fbd99a5c259
