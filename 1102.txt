@@ -1429,12 +1429,50 @@ NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 
 🇰🇷测试1,#genre#
 KBS1,http://119.192.58.101:9981/stream/channelid/2104459495?ticket=CE017F6090614F851C5B7767AE6FCE12378B79B9&profile=pass
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS1,https://tv.iill.top/kbs/11&p=0
+KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
+KBS1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS2,http://119.192.58.101:9981/stream/channelid/1207472992?ticket=EDF6A65D52114D65CE8B60AD6B38D846B74F6AEC&profile=pass
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS2,https://tv.iill.top/kbs/12&p=0
+KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
+KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efda3a63151c2f.m3u8
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
+SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
+SBS,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
+SBS,https://epg.pw/stream/a1b8fb52971ee07d2914792f9c4e640f98e4910baadb07ad4955d5290745445f.m3u8
+SBS,https://epg.pw/stream/0c4c4aa8d189d13d5575ff9d5c9a4af99036c9ac9d7c91b670900e415b021416.m3u8
+SBS,https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
+SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
+SBS,http://1.245.74.5:1935/live/tv/.m3u8
 MBC,http://119.192.58.101:9981/stream/channelid/2070605839?ticket=5CE51A3E4FFB9B4498F8BA12AEAD95A061C395AB&profile=pass
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_b2500000.m3u8
+MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
+MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
+MBC,https://livestreams.mewinnie.gq/livestreams/kr_live/mbc.php
+MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 MBN,http://119.192.58.101:9981/stream/channelid/668377508?ticket=B4F3B6F317B2B52BD110A1DA9D0B0C35A445FAF5&profile=pass
+MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
+MBN,https://epg.pw/stream/807a40c79a26ee81a1a091772c18dfb927963443d07d1a7304f849079adf228a.ctv
+MBN,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
 YTN,http://119.192.58.101:9981/stream/channelid/1107476581?ticket=306490852D6D7C279A5B3C0112083A6E4AF6ACC1&profile=pass
+YTN,https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
+YTN,http://210.92.207.38:40001
+YTN,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
+YTN,http://hls.ye23.vip/hk/ytn.php
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
+Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
+Yonhap News TV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
+Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://58.142.60.62:9981/stream/channelid/188316
 JTBC,http://mytv.dothome.co.kr/ch/catv/216.php
