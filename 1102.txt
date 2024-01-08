@@ -383,6 +383,8 @@ THE MOVIE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2501
 韩国电影3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 韩剧,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
 Sony movies,https://epg.pw/stream/1c814573e5bd6547e45e373bade4252d1c93e4289bafaa8c12dd9fdc7dea7c1a.m3u8
+GENIE TV,http://14.49.86.138:9981/stream/channelid/958661849
+GENIE TV,http://175.207.220.199:9981/stream/channelid/79438460?ticket=
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b1800000.m3u8
 TvN Movies,https://epg.pw/stream/907a2677d1e726b269c145ab79a811140383fe39a1a617a00a2cbddaccd7f547.ctv
