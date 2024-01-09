@@ -14,8 +14,8 @@ KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efd
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
-SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
+SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
 SBS,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
 SBS,https://epg.pw/stream/a1b8fb52971ee07d2914792f9c4e640f98e4910baadb07ad4955d5290745445f.m3u8
 SBS,https://epg.pw/stream/0c4c4aa8d189d13d5575ff9d5c9a4af99036c9ac9d7c91b670900e415b021416.m3u8
@@ -90,8 +90,8 @@ TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
-TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
+TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
 TV Chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
@@ -99,6 +99,7 @@ TV Chosun,http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m
 TV Chosun,http://119.197.107.139:9981/stream/channelid/46
 TV Chosun,https://c11.kr/1608e
 TV Chosun,http://mytv.dothome.co.kr/ch/catv/213.php
+TV Chosun2,http://119.192.58.101:9981/stream/channelid/572768770?ticket=87B0F776BF3EFC02D10EA5F1D7688423E0A9AB1F&profile=pass
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
@@ -1442,75 +1443,19 @@ NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 
 🇰🇷测试1,#genre#
 KBS1,http://119.192.58.101:9981/stream/channelid/2104459495?ticket=CE017F6090614F851C5B7767AE6FCE12378B79B9&profile=pass
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
-KBS1,https://tv.iill.top/kbs/11&p=0
-KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-KBS1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
-KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS2,http://119.192.58.101:9981/stream/channelid/1207472992?ticket=EDF6A65D52114D65CE8B60AD6B38D846B74F6AEC&profile=pass
-KBS2,http://mytv.dothome.co.kr/ch/public/3.php
-KBS2,https://tv.iill.top/kbs/12&p=0
-KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
-KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efda3a63151c2f.m3u8
-KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
-SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
-SBS,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
-SBS,https://epg.pw/stream/a1b8fb52971ee07d2914792f9c4e640f98e4910baadb07ad4955d5290745445f.m3u8
-SBS,https://epg.pw/stream/0c4c4aa8d189d13d5575ff9d5c9a4af99036c9ac9d7c91b670900e415b021416.m3u8
-SBS,https://epg.pw/stream/e84733a2ded4a18ceb273eca3c0fc0911fede5e93e881dbf22f5dd33563891ad.m3u8
-SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
-SBS,http://1.245.74.5:1935/live/tv/.m3u8
 MBC,http://119.192.58.101:9981/stream/channelid/2070605839?ticket=5CE51A3E4FFB9B4498F8BA12AEAD95A061C395AB&profile=pass
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_b2500000.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MBC,https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_w1740046871.m3u8
-MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
-MBC,https://livestreams.mewinnie.gq/livestreams/kr_live/mbc.php
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 MBN,http://119.192.58.101:9981/stream/channelid/668377508?ticket=B4F3B6F317B2B52BD110A1DA9D0B0C35A445FAF5&profile=pass
-MBN,http://mytv.dothome.co.kr/ch/catv/54.php
-MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-MBN,https://epg.pw/stream/807a40c79a26ee81a1a091772c18dfb927963443d07d1a7304f849079adf228a.ctv
-MBN,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
 YTN,http://119.192.58.101:9981/stream/channelid/1107476581?ticket=306490852D6D7C279A5B3C0112083A6E4AF6ACC1&profile=pass
-YTN,https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
-YTN,http://210.92.207.38:40001
-YTN,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
-YTN,http://hls.ye23.vip/hk/ytn.php
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
-Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
-Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
-Yonhap News TV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
-Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
-JTBC,http://58.142.60.62:9981/stream/channelid/188316
-JTBC,http://mytv.dothome.co.kr/ch/catv/216.php
-JTBC,http://110.9.159.82:9981/stream/channelid/2009003970
-JTBC,https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_211_53993BC5.m3u8
-JTBC,http://122.129.115.21:1935/tvdol/ch1370019/playlist.m3u8
-JTBC,http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
-JTBC,http://mytv.dothome.co.kr/ch/catv/211.php
 TVN,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=283924
-TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306295
-TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
-TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-TVN,http://210.210.155.35:80/session/d81fbba6-81b6-11ee-8fea-81988aec3c8c/dr9445/h/h20/02.m3u8
-TVN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 TV CHOSUN,http://119.192.58.101:9981/stream/channelid/906085881?ticket=E826D6EFF6A4C85C42B66BC12F2F47974592E9F1&profile=pass
-TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
-TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
-TV Chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
-TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
-TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 TV CHOSUN2,http://119.192.58.101:9981/stream/channelid/572768770?ticket=87B0F776BF3EFC02D10EA5F1D7688423E0A9AB1F&profile=pass
 CHANNEL A,http://119.192.58.101:9981/stream/channelid/132382008?ticket=166D3DCB57C1A2ACA59A7832447C16E73E017B45&profile=pass
 CHANNEL A+,http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
-KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
 MBC DARMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
 MBC DARMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
 SBS PLUS,http://119.192.58.101:9981/stream/channelid/2004305573?ticket=7146CF06171AAE814E965172A592162BBB975670&profile=pass
