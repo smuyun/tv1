@@ -339,6 +339,7 @@ TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
 CJB SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 CJB SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 CJB SBS,http://ye23.win/iptv/korea2021.php?id=CJB
+JTV SBS,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 JTV SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 TBC SBS,http://221.157.125.239:1935/live/psike/playlist.m3u8
 UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
@@ -1444,6 +1445,7 @@ NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 🇰🇷测试1,#genre#
 KBS1,http://119.192.58.101:9981/stream/channelid/2104459495?ticket=CE017F6090614F851C5B7767AE6FCE12378B79B9&profile=pass
 KBS2,http://119.192.58.101:9981/stream/channelid/1207472992?ticket=EDF6A65D52114D65CE8B60AD6B38D846B74F6AEC&profile=pass
+SBS,http://82.115.12.136:8080/live/play/ZFU5UFJXZEpOalJRVWxOeU5UbEZNeTlxT0hsRWFFRmpjR3BPVEZaVmIwRmhUMFozVVRGbWVYVlFkejA9/156426
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
 MBC,http://119.192.58.101:9981/stream/channelid/2070605839?ticket=5CE51A3E4FFB9B4498F8BA12AEAD95A061C395AB&profile=pass
 MBN,http://119.192.58.101:9981/stream/channelid/668377508?ticket=B4F3B6F317B2B52BD110A1DA9D0B0C35A445FAF5&profile=pass
@@ -1475,6 +1477,10 @@ KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBS STORY,http://mytv.dothome.co.kr/ch/catv/4.php
+MBC A,http://82.115.12.136:8080/live/play/UlZkb2RHRmxhVk0yUldjek1VTjVTVzFyZEVaeVJEZ3hWREJVU2pjelNTdFZjV1ZOZFZaT0wxbEZVVDA9/156429
+JTBC2,http://49.167.236.190:9981/stream/channelid/66?ticket=B18BE6C5447A807FDEA8754AB88AEB8E5B0C0B40
+JTBC3,http://49.167.236.190:9981/stream/channelid/73?ticket=3AF335D579332DFB53FA86F76E0BBD5CDBC5DFB2
+JTBC4,http://49.167.236.190:9981/stream/channelid/95?ticket=70626C61D7A4C5041F8710C782C2C56CECDB7BFA
 the LIFE,http://119.192.58.101:9981/stream/channelid/1772682182?ticket=17E1B963B26E7D2B9E611592C1973F0E93BBE320&profile=pass
 K star,http://119.192.58.101:9981/stream/channelid/1755085478?ticket=8BD163BCD752C17265A964C2C1B5823C698E1712&profile=pass
 SBS Biz,http://119.192.58.101:9981/stream/channelid/133554653?ticket=171A101DA8C86F2FA403B313B91B0B822DA75FAD&profile=pass
