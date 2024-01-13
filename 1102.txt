@@ -1206,6 +1206,7 @@ CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 
 🇨🇳GANG AO,#genre#
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,https://udnhls.skilldns.com/fhzx.m3u8
 凤凰资讯,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 凤凰香港,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
