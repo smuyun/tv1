@@ -1435,10 +1435,13 @@ KBS2,http://119.192.58.101:9981/stream/channelid/1207472992?ticket=EDF6A65D52114
 SBS,http://82.115.12.136:8080/live/play/T1ZOMGN6VlZZMUUxYXpsM2FXaE5PRzR4U25CM01FUmtaWGxuVFhkVFQzUjRVMGhuVUVaV2JqZDZRVDA9/156426
 SBS,http://82.115.12.136:8080/live/play/WWtKRVZUaElVRU5DUkUxd2NWQnZRVWhPWm0wME1XbHFaVWRVT1dkcU9GSlBMMjVDZFd4Vk9VSm5XVDA9/156426
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
+SBS HD,http://82.115.12.136:8080/live/play/UWpsdmEwdGFOWFZvVWxKa0syWkZWRWhJY1RKSFVVOHlaemxJY1VwUVYxQklXVWg2VW1KQ0wyZDNUVDA9/156426
 MBC,http://119.192.58.101:9981/stream/channelid/2070605839?ticket=5CE51A3E4FFB9B4498F8BA12AEAD95A061C395AB&profile=pass
 MBN,http://119.192.58.101:9981/stream/channelid/668377508?ticket=B4F3B6F317B2B52BD110A1DA9D0B0C35A445FAF5&profile=pass
+YTN,http://117.123.30.250:9981/stream/channelid/18
 YTN,http://119.192.58.101:9981/stream/channelid/1107476581?ticket=306490852D6D7C279A5B3C0112083A6E4AF6ACC1&profile=pass
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+JTBC,http://117.123.30.250:9981/stream/channelid/86
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 TVN,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=283924
@@ -1467,6 +1470,7 @@ KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
 KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
 KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBS STORY,http://mytv.dothome.co.kr/ch/catv/4.php
+MBC A,http://82.115.12.136:8080/live/play/Tlc5UFdYaHhObTFVUVdGMFNYWkxaMkpvU1RCUlJWbzJiV3Q0VGxGVGVHdG9WbUZFTmxWdE5qUTBORDA9/156429
 MBC A,http://82.115.12.136:8080/live/play/U21salZuY3hOblpKYWpKb1F6SlJXV2cwVjB0UU1rNDBXVVJJUTJkWGMxWmpXVVJKUW5GUlZsZDVUVDA9/156429
 MBC A,http://82.115.12.136:8080/live/play/Y1Vaak1rUjRZVmgxZG5FNGMyTmtUbFZVVVUxUVRUVkhTVlJ6Vm5aRk1tWnJPR3hZVEhSWE9XWnJVVDA9/156429
 GEINE TV,http://14.49.86.138:9981/stream/channelid/958661849?ticket=899E986687EBB48C4224704EB95AB2D16AD66FA4&profile=pass
