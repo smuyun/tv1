@@ -283,11 +283,10 @@ MBC大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 MBC釜山,http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 MBC济州,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 MBC庆南,https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
-MBC-US,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
+MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/chunklist_b4628000.m3u8
 MBC-America,https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
 MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/playlist.m3u8
-MBC Every1,http://119.192.58.101:9981/stream/channelid/1534822180?ticket=1380F404A630DF35B0D791FD321D503AD2CDA701&profile=pass
 MBC every1,http://119.197.107.139:9981/stream/channelid/45
 MBC every1,http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
 MBC every1,mitv://ns1.hellotvvod.com:9906/aab3f63bd59549e495c57fbd99a5c259
