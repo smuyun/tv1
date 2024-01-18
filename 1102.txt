@@ -13,6 +13,7 @@ KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS2,https://epg.pw/stream/82b8093f81851fcae5a66dff3a17d2aa6489eaceee0c914715efda3a63151c2f.m3u8
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 KBS2,http://ye23.top/ktv/kbs2022.php?id=2
+KBS2,mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
 SBS,https://epg.pw/stream/1f01e35dd302830bc6608a682dda37f2cc8118356c106129c79b12d2137d73e4.m3u8
