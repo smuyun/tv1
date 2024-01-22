@@ -72,6 +72,8 @@ Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
+TVN,https://epg.pw/stream/204194bd0297e55973ab0802f5d8ee989a1bf12aebd46e453466d1d9c7137390.ctv
+TVN,https://epg.pw/stream/2353a02a9ecea2ad7f1bb6a7c227013c1ce835c6bb960a6e5bfcc3f868a33b48.ctv
 TVN,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=283924
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306295
@@ -81,9 +83,7 @@ TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 TVN,http://210.210.155.35:80/session/d81fbba6-81b6-11ee-8fea-81988aec3c8c/dr9445/h/h20/02.m3u8
 TVN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
 TVN,http://58.142.60.62:9981/stream/channelid/1041875196
-TVN,p2p://generationnexxxt.com:19806/645fb9b800079c5f77c2572e6a78418d
 TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
-TVN,https://cutt.ly/Ha_Noi_IPTV_5-tvN-Giai_tri_Hang_dau
 TVN,http://mytv.dothome.co.kr/ch/catv/221.php
 TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
@@ -111,11 +111,11 @@ Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501
 Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
 Channel A,http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 CHANNEL A+,http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
+KBS DRAMA,https://epg.pw/stream/effbd6f0e6a7003322fbd3c134e06a751fe14c2e827a496f37d352dfd8660109.ctv
+KBS DRAMA,https://epg.pw/stream/538baa96c4b508ca2d45bb3ea610fd4601d229dd26c2c83281f4c9fdb0bd80d6.m3u8
 KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS DRAMA,https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 KBS DRAMA,https://epg.pw/stream/b15aad8f626e01dc7a011b0c898389ded005232c5d34e5cf263e163c42ce463d.ctv
-KBS DRAMA,https://epg.pw/stream/effbd6f0e6a7003322fbd3c134e06a751fe14c2e827a496f37d352dfd8660109.ctv
-KBS DRAMA,https://epg.pw/stream/538baa96c4b508ca2d45bb3ea610fd4601d229dd26c2c83281f4c9fdb0bd80d6.m3u8
 KBS DRAMA,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
 MBC DARMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
 MBC DARMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
@@ -330,6 +330,7 @@ JTV SBS,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
 JTV SBS,https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 TBC SBS,http://221.157.125.239:1935/live/psike/playlist.m3u8
 UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+UBC SBS,http://mytv.dothome.co.kr/ch/public/7.php
 KNN SBS,http://220.95.92.160:9981/stream/channelid/1445999617
 ONE,http://210.210.155.35/uq2663/h/h143/02.m3u8?checkedby:iptvcat.net
 ONE,http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
@@ -382,6 +383,7 @@ THE MOVIE,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=F2501
 韩国电影8,http://serv7.iptv11.com/977/video.m3u8?token=95C80E0B63D1B
 韩剧1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=622
 韩剧2,http://91.216.173.39:10120/play/a004
+Sony movies,https://epg.pw/stream/d8bf59139d707959de362865b0daef9c462659edc8618fafed16f637f73b81f8.m3u8
 Sony movies,https://epg.pw/stream/1c814573e5bd6547e45e373bade4252d1c93e4289bafaa8c12dd9fdc7dea7c1a.m3u8
 GENIE TV,http://175.207.220.199:9981/stream/channelid/79438460?ticket=
 GENIE TV,http://175.207.220.199:9981/stream/channelid/1089353828?ticket=
