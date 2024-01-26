@@ -1,7 +1,6 @@
 🇰🇷HANGUO,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
-KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,https://tv.iill.top/kbs/11&p=0
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
