@@ -203,6 +203,7 @@ OCN Movies,mitv://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
 Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 综艺,http://14.49.86.138:9981/stream/channelid/553838573?ticket=A205A77A19E3E6AE539F7FBCD634F014832075DA&profile=pass
 韩国娱乐台,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
+韩国娱乐台,p3p://108.181.20.159:16621/621e16b0000ec4772884cc295a1614a8.ts
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 KBS JOY,http://110.47.7.144:9981/stream/channelid/5?ticket=
 KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
