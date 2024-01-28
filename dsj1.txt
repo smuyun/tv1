@@ -2566,7 +2566,7 @@ Lifetime,http://187.95.95.247/lifetime/manifest.m3u8
 Band Sports,http://187.95.95.247/Band-Sports/index.m3u8
 Band News,http://187.95.95.247/Band-News/mono.m3u8
 
-🔸暂未开放_5509,#genre#
+🔸暂未开放_9988,#genre#
 PLAYBOY FHD,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/872
 CINE ADULTO +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/83244
 COSPLAY +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82163
