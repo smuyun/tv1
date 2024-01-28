@@ -1709,6 +1709,29 @@ NEW MOVIES,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel
 ch.핑크퐁,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ch.%ED%95%91%ED%81%AC%ED%90%81&channel_id=newid_022&apikey=b97c7a7d0c82424bb607e141ef215779&auth=2056c90d-547037a5-169ab56c-8ec32d93&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&coppa=1&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 
+🇰🇷测试2,#genre#
+Arirang,P2p://generationnexxxt.com:18806/42c31b6cacb84600a00f33608a2cb08a
+KBS1,P2p://generationnexxxt.com:18806/8400ca6d54d943a1b56cb8f5e8ac798b
+KBS2,P2p://generationnexxxt.com:18806/3a5e2e4674c249ce9f0ef35f4b856f6a
+KBS Drama,P2p://generationnexxxt.com:18806/ce912b15c45249cfa35f87d2a04f0e9e
+KBS Joy,P2p://generationnexxxt.com:18806/59a1050ab5bb47df81d4cb33bcc64325
+SBS,P2p://generationnexxxt.com:18806/f45345cb31274ef7920ec067dc1b04cb
+SBS Biz,P2p://generationnexxxt.com:18806/91d1cd65ddd046c1b5cc404972679f75
+JTBC,P2p://generationnexxxt.com:18806/cdd599a3a22f46a6930df1663a9a1bd4
+EBS,P2p://generationnexxxt.com:18806/f085679e82d74baca7d23d65d622d790
+YTN,P2p://generationnexxxt.com:18806/8552279d043840bb96eff8d2f2d9bb29
+Mnet,P2p://generationnexxxt.com:18806/b0724f862a234f4c9c9a61f40d4b921e
+tvN,P2p://generationnexxxt.com:18806/002e853e84314b65a426f3bd542018be
+OCN,P2p://generationnexxxt.com:18806/18bf96bd627d4468a273c6a5d473418b
+OCN Movies,P2p://generationnexxxt.com:18806/9d21d9d85ebb491fa33a4a76ec3fb83e
+TV Chosun,P2p://generationnexxxt.com:18806/6c5aaa98e9f1489384fecc13e12062b1
+MBC,P2p://generationnexxxt.com:18806/95aa99fa35a6401cacd86484f105075e
+MBN,P2p://generationnexxxt.com:18806/c9e45ba797014b7bb138f335bb0a85f5
+Tooniverse,P2p://generationnexxxt.com:18806/963adae978f94362a7d54d787be7b6d1
+SPOTV,P2p://generationnexxxt.com:18806/25714b78b6cc4062a8910d2530588f5c
+SPOTV 2,P2p://generationnexxxt.com:18806/717f5338af554d39b627aa8e8a54dc16
+JTBC GOLF,P2p://generationnexxxt.com:18806/30fe059bb439436dae6d4640518d0541
+
 🎸韩国音乐,#genre#
 洪真英-爱情的电池,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzvSa4gUoutzqwwQ.mp4
 韩国热舞Sori-Dual Life,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
