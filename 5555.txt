@@ -32,6 +32,13 @@
 {"key":"影探","name":"👉春盈┃影探","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/yt.js"},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {
+  "key": "电视直播",
+  "name": "🐾丨直播【🎦】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://tvbox.serv00.net/live.php"
+  },
+{
       "key": "百度",
       "name": "❤️百度采集",
       "type": 1,
