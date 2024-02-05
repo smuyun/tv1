@@ -51,9 +51,9 @@ MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,http://110.47.7.144:9981/stream/channelid/30
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
+JTBC,http://110.47.7.144:9981/stream/channelid/46
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce.ts
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
-JTBC,http://110.47.7.144:9981/stream/channelid/46
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
 KBS24,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
@@ -73,20 +73,12 @@ Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
-TVN,https://epg.pw/stream/204194bd0297e55973ab0802f5d8ee989a1bf12aebd46e453466d1d9c7137390.ctv
-TVN,https://epg.pw/stream/2353a02a9ecea2ad7f1bb6a7c227013c1ce835c6bb960a6e5bfcc3f868a33b48.ctv
 TVN,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=283924
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306295
 TVN,http://110.47.7.144:9981/stream/channelid/44
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-TVN,http://210.210.155.35:80/session/d81fbba6-81b6-11ee-8fea-81988aec3c8c/dr9445/h/h20/02.m3u8
-TVN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-TVN,http://58.142.60.62:9981/stream/channelid/1041875196
-TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
-TVN,http://mytv.dothome.co.kr/ch/catv/221.php
-TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
 TV Chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
@@ -119,8 +111,8 @@ KBS DRAMA,https://epg.pw/stream/538baa96c4b508ca2d45bb3ea610fd4601d229dd26c2c832
 KBS DRAMA,https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 KBS DRAMA,https://epg.pw/stream/b15aad8f626e01dc7a011b0c898389ded005232c5d34e5cf263e163c42ce463d.ctv
 KBS DRAMA,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
-MBC DARMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
-MBC DARMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
+MBC DRAMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
+MBC DRAMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
 MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091
 SBS PLUS,p2p://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
 SBS PLUS,http://119.192.58.101:9981/stream/channelid/2004305573?ticket=7146CF06171AAE814E965172A592162BBB975670&profile=pass
@@ -1480,27 +1472,6 @@ BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然,http://95.67.12.82:9098/
 高清风景,http://185.57.68.33:8091/232/playlist.m3u8
-
-百视,#genre#
-百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
-百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
-百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
-百视TV4,https://bp-caster.bestv.com.cn/900/3/video.m3u8
-百视TV5,https://bp-caster.bestv.com.cn/956/3/video.m3u8
-百视TV6,https://bp-caster.bestv.com.cn/947/3/video.m3u8
-百视TV7,https://bp-caster.bestv.com.cn/941/3/video.m3u8
-百视TV8,https://bp-caster.bestv.com.cn/953/3/video.m3u8
-百视TV9,https://bp-caster.bestv.com.cn/939/3/video.m3u8
-百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
-百视TV11,https://bp-caster.bestv.com.cn/937/3/video.m3u8
-百视TV12,https://bp-caster.bestv.com.cn/954/3/video.m3u8
-百视TV14,https://bp-caster.bestv.com.cn/934/3/video.m3u8
-百视独播1,https://bp-caster.bestv.com.cn/946/3/video.m3u8
-百视独播2,https://bp-caster.bestv.com.cn/955/3/video.m3u8
-百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
-百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
-百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
-独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 🇰🇷测试1,#genre#
 频道预览1,http://14.49.86.138:9981/stream/channelid/1169993630?ticket=AFBB8CCACF4F0685B04E649C134EB3A670A95CAB&profile=pass
