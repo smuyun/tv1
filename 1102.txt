@@ -1460,6 +1460,7 @@ CCTV8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 湖南卫视4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视4k,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230920/1.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/PLTV/1/224/3221230920/1.m3u8
@@ -1470,64 +1471,15 @@ CCTV8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/PLTV/1/224/3221230427/1.m3u8
-纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/PLTV/1/224/3221230931/1.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
 BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-4K剧场,http://bp-caster.bestv.com.cn/513/1/video.m3u8
-绚影4K,http://171.214.202.74:4000/udp/239.93.42.33:5140
-广东4K,http://113.117.74.27:8081/hls/145/index.m3u8
-广东综艺4K,http://211.101.234.94:9999/php/gudo.php?id=gdzy4k
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-4k地理台,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-咪咕4K,http://39.134.24.162/000000001000/3000000010000015686/index.m3u8?
-咪咕体育4K,http://39.134.24.166/000000001000/3000000010000005180/index.m3u8
 欢笑剧场4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://39.136.18.105/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226210/1/index.m3u8?fmt=ts2hls
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-臻彩4K欧洲,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-时装Fashion TV,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/4005/index.m3u8
-NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
-纯享 4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221228242/index.m3u8
-高清风景,http://185.57.68.33:8091/232/playlist.m3u8
-BOX Relax 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/19283/index.m3u8
-Home 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/4002/index.m3u8
-Home 4K,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/4002/index.m3u8
-BOX Remast 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20158/index.m3u8
-法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然,http://95.67.12.82:9098/
-STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
-FTV 4k,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283290&extension=ts&play_token=ANc6neJCos
-FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
-STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
-FTV 4k,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283290&extension=ts&play_token=ANc6neJCos
-FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
-Service01 HD,http://109.239.138.241:8000/tv3plus4
-FASHION TV HD,http://103.131.214.129:9985/stream/channelid/1970610798?ticket=D9E704995D13E7559DDA5DD905155D8F9BC00C13&profile=pass
-FASHION TV HD,http://main.xplus2-main.xyz:2082/xplus-2-W20pTJnEIu/tYOwRMIuwy/878
-FASHION TV Asia,http://103.131.214.129:9985/stream/channelid/176023054?ticket=A4656BFF4864287691B42CFB0532C9AB5E36C243&profile=pass
-World Fashion Channel,http://94.228.204.166:8000/play/0089
-SYFY,http://168.181.122.234:8000/play/a03c/index.m3u8
-SYFY,http://167.250.39.130:8000/play/syfy
-CINE ACTION FULL HD,http://62.210.220.21:7777/play/a00f
-KTOP,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-Premium Action,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10072
-axnblack,https://cdn-main.lolokoko.tv/axnblack.stream/chunks.m3u8
-free,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
-SYFY,http://181.205.130.194:4000/play/a06v/index.m3u8
-FilmBoxExtra,https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
-TRANCE IS STAR,https://tis.catcast.tv/content/391/index.m3u8
-Индийское Кино:Классика,https://v2.catcast.tv/content/41596/index.m3u8
-Детское Кино International,https://v2.catcast.tv/content/38720/index.m3u8
-SONYSAB,http://tv.cloudcdn.me:80/live.ts?channelId=260&deviceMac=00:1A:79:0A:3B:2D
-AMC HD,https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
-VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+高清风景,http://185.57.68.33:8091/232/playlist.m3u8
 
 百视,#genre#
 百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
@@ -2253,179 +2205,37 @@ Stellar - Study,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 
-
 🇪🇺环球1_9988,#genre#
-n0724AIKA膣膨満真正東熱孕汁,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
-n0946橋本美帆変則FUCKに驚愕,https://z100.cdn2020.com/video/m3u8/2020/07/24/07dd89a1/index.m3u8
-n0598美人校医-飯島奈津美,https://z100.cdn2020.com/video/m3u8/2020/07/20/8f61697f/index.m3u8
-n0630浅乃ハルミ東熱流3穴激カン,https://z100.cdn2020.com/video/m3u8/2020/07/18/ac0bd0ea/index.m3u8
-n0476白衣の変態輪カン調教孕汁,https://z100.cdn2020.com/video/m3u8/2020/07/17/9671e301/index.m3u8
-n1332大乱交SP2008part2,https://z100.cdn2020.com/video/m3u8/2020/07/15/e68fe14f/index.m3u8
-1pondo-062614_833変態女-古瀬玲,https://z100.cdn2020.com/video/m3u8/2020/07/13/8df89ffe/index.m3u8
-n1150鬼逝-川野杏樹,https://z100.cdn2020.com/video/m3u8/2020/07/14/23bdb384/index.m3u8
-jux-449妻の秘密神波多一花,https://z100.cdn2020.com/video/m3u8/2020/07/12/6c12a001/index.m3u8
-n0998鬼逝-橘涼香,https://z100.cdn2020.com/video/m3u8/2020/07/10/0a17f7bf/index.m3u8
-1pondo_042115_065好色妻降臨-古瀬玲,https://z100.cdn2020.com/video/m3u8/2020/07/10/e464cce5/index.m3u8
-carib-030816-112黒人失神寸前-篠田あゆみ,https://z100.cdn2020.com/video/m3u8/2020/07/09/0c60b9bc/index.m3u8
-heyzo_1773極上ボディの好色OL-百多えみり,https://z100.cdn2020.com/video/m3u8/2020/07/06/36a05675/index.m3u8
-n1183Wカン中山美憂園田ありさ,https://z100.cdn2020.com/video/m3u8/2020/07/07/61a670e7/index.m3u8
-HEYZO720P50部,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
-HEYZO720P30,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1958_full/1500kb/hls/index.m3u8
-HEYZO720P31,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1941_full/1500kb/hls/index.m3u8
-HEYZO720P32,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1973_full/1500kb/hls/index.m3u8
-HEYZO720P33,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1971_full/1500kb/hls/index.m3u8
-HEYZO720P34,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1965_full/1500kb/hls/index.m3u8
-HEYZO720P35,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1970_full/1500kb/hls/index.m3u8
-HEYZO720P36,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1945_full/1500kb/hls/index.m3u8
-HEYZO720P37,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1980_full/1500kb/hls/index.m3u8
-HEYZO720P38,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1974_full/1500kb/hls/index.m3u8
-HEYZO720P39,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1944_full/1500kb/hls/index.m3u8
-HEYZO720P40,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1960_full/1500kb/hls/index.m3u8
-HEYZO720P41,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1954_full/1500kb/hls/index.m3u8
-HEYZO720P42,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1981_full/1500kb/hls/index.m3u8
-HEYZO720P43,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1962_full/1500kb/hls/index.m3u8
-HEYZO720P44,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1946_full/1500kb/hls/index.m3u8
-HEYZO720P45,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1976_full/1500kb/hls/index.m3u8
-HEYZO720P46,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1957_full/1500kb/hls/index.m3u8
-HEYZO720P47,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1940_full/1500kb/hls/index.m3u8
-HEYZO720P48,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1950_full/1500kb/hls/index.m3u8
-HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/index.m3u8
-HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
-heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
-heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
-heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-heyzo-1601,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-heyzo-1638,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-heyzo-1691,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-heyzo-1722,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-heyzo-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
-pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-pondo-518,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-pondo-559,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-pondo-597,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
-carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-carib-206,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-carib-239,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-carib-288,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-carib-311,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-carib-339,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-carib-363,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-carib-375,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
-carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
-carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
-carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
-carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
-carib-206,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
-carib-239,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
-carib-288,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
-carib-311,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
-carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
-carib-339,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
-carib-363,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
-carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
-carib-375,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
-carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
-carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
-carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
-carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
-carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
-carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
-carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
-carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
-carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
-carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
-carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
-carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
-carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
-carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
-carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
-carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
-carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
-carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
-carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
-carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
-carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
-carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
-carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
-carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
-heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
-heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
-heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
-heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
-heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
-heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
-heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
-heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
-heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
-heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
-heyzo-1601,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
-heyzo-1638,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
-heyzo-1691,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
-heyzo-1722,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
-heyzo-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
-pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
-pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
-pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
-pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
-pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
-pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
-pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
-pondo-518,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
-pondo-559,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
-pondo-597,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
-pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
-pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
-pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
-pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
-
-🇪🇺环球2_9988,#genre#
 PlayBoy,http://181.78.208.254:8010/play/a04e/index.m3u8
+BOX Relax 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/19283/index.m3u8
+Home 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/4002/index.m3u8
+Home 4K,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/4002/index.m3u8
+BOX Remast 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20158/index.m3u8
+STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
+FTV 4k,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283290&extension=ts&play_token=ANc6neJCos
+FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
+STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
+FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
+Service01 HD,http://109.239.138.241:8000/tv3plus4
+FASHION TV HD,http://103.131.214.129:9985/stream/channelid/1970610798?ticket=D9E704995D13E7559DDA5DD905155D8F9BC00C13&profile=pass
+FASHION TV HD,http://main.xplus2-main.xyz:2082/xplus-2-W20pTJnEIu/tYOwRMIuwy/878
+FASHION TV Asia,http://103.131.214.129:9985/stream/channelid/176023054?ticket=A4656BFF4864287691B42CFB0532C9AB5E36C243&profile=pass
+World Fashion Channel,http://94.228.204.166:8000/play/0089
+SYFY,http://168.181.122.234:8000/play/a03c/index.m3u8
+SYFY,http://167.250.39.130:8000/play/syfy
+CINE ACTION FULL HD,http://62.210.220.21:7777/play/a00f
+KTOP,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+Premium Action,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10072
+axnblack,https://cdn-main.lolokoko.tv/axnblack.stream/chunks.m3u8
+free,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+SYFY,http://181.205.130.194:4000/play/a06v/index.m3u8
+FilmBoxExtra,https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
+TRANCE IS STAR,https://tis.catcast.tv/content/391/index.m3u8
+Индийское Кино:Классика,https://v2.catcast.tv/content/41596/index.m3u8
+Детское Кино International,https://v2.catcast.tv/content/38720/index.m3u8
+SONYSAB,http://tv.cloudcdn.me:80/live.ts?channelId=260&deviceMac=00:1A:79:0A:3B:2D
+AMC HD,https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 蜜桃成熟时3-3D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
 蜜桃成熟时3之蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
 燕妇转世1,https://v5.jindangao.com/fff/ff9/23/hls/index.m3u8
@@ -2647,6 +2457,176 @@ PlayBoy,http://181.78.208.254:8010/play/a04e/index.m3u8
 安娜女秘书,https://ckzy1com.com/20220127/ehrDrci6/index.m3u8
 猪的女儿https://ckzy1com.com/20220127/ItUuW5gC/index.m3u8\体貌膏,https://ckzy1com.com/20220127/YCg1whCu/index.m3u8
 灌肠狂魔,https://ckzy1com.com/20220127/pyt99wLQ/index.m3u8
+
+🇪🇺环球2_9988,#genre#
+n0724AIKA膣膨満真正東熱孕汁,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
+n0946橋本美帆変則FUCKに驚愕,https://z100.cdn2020.com/video/m3u8/2020/07/24/07dd89a1/index.m3u8
+n0598美人校医-飯島奈津美,https://z100.cdn2020.com/video/m3u8/2020/07/20/8f61697f/index.m3u8
+n0630浅乃ハルミ東熱流3穴激カン,https://z100.cdn2020.com/video/m3u8/2020/07/18/ac0bd0ea/index.m3u8
+n0476白衣の変態輪カン調教孕汁,https://z100.cdn2020.com/video/m3u8/2020/07/17/9671e301/index.m3u8
+n1332大乱交SP2008part2,https://z100.cdn2020.com/video/m3u8/2020/07/15/e68fe14f/index.m3u8
+1pondo-062614_833変態女-古瀬玲,https://z100.cdn2020.com/video/m3u8/2020/07/13/8df89ffe/index.m3u8
+n1150鬼逝-川野杏樹,https://z100.cdn2020.com/video/m3u8/2020/07/14/23bdb384/index.m3u8
+jux-449妻の秘密神波多一花,https://z100.cdn2020.com/video/m3u8/2020/07/12/6c12a001/index.m3u8
+n0998鬼逝-橘涼香,https://z100.cdn2020.com/video/m3u8/2020/07/10/0a17f7bf/index.m3u8
+1pondo_042115_065好色妻降臨-古瀬玲,https://z100.cdn2020.com/video/m3u8/2020/07/10/e464cce5/index.m3u8
+carib-030816-112黒人失神寸前-篠田あゆみ,https://z100.cdn2020.com/video/m3u8/2020/07/09/0c60b9bc/index.m3u8
+heyzo_1773極上ボディの好色OL-百多えみり,https://z100.cdn2020.com/video/m3u8/2020/07/06/36a05675/index.m3u8
+n1183Wカン中山美憂園田ありさ,https://z100.cdn2020.com/video/m3u8/2020/07/07/61a670e7/index.m3u8
+HEYZO720P50部,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
+HEYZO720P30,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1958_full/1500kb/hls/index.m3u8
+HEYZO720P31,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1941_full/1500kb/hls/index.m3u8
+HEYZO720P32,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1973_full/1500kb/hls/index.m3u8
+HEYZO720P33,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1971_full/1500kb/hls/index.m3u8
+HEYZO720P34,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1965_full/1500kb/hls/index.m3u8
+HEYZO720P35,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1970_full/1500kb/hls/index.m3u8
+HEYZO720P36,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1945_full/1500kb/hls/index.m3u8
+HEYZO720P37,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1980_full/1500kb/hls/index.m3u8
+HEYZO720P38,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1974_full/1500kb/hls/index.m3u8
+HEYZO720P39,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1944_full/1500kb/hls/index.m3u8
+HEYZO720P40,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1960_full/1500kb/hls/index.m3u8
+HEYZO720P41,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1954_full/1500kb/hls/index.m3u8
+HEYZO720P42,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1981_full/1500kb/hls/index.m3u8
+HEYZO720P43,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1962_full/1500kb/hls/index.m3u8
+HEYZO720P44,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1946_full/1500kb/hls/index.m3u8
+HEYZO720P45,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1976_full/1500kb/hls/index.m3u8
+HEYZO720P46,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1957_full/1500kb/hls/index.m3u8
+HEYZO720P47,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1940_full/1500kb/hls/index.m3u8
+HEYZO720P48,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1950_full/1500kb/hls/index.m3u8
+HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/index.m3u8
+HEYZO720P50,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
+heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+heyzo-1601,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+heyzo-1638,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+heyzo-1691,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+heyzo-1722,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+heyzo-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+pondo-518,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+pondo-559,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+pondo-597,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
+carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+carib-206,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+carib-239,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+carib-288,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+carib-311,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+carib-339,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+carib-363,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+carib-375,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+carib-002,https://fc.maa1808.com/c/fpsvmyqlej/fpsvmyqlej.m3u8
+carib-004,https://fc.maa1808.com/f/xuyanbincr/xuyanbincr.m3u8
+carib-146,https://fc.maa1808.com/c/nofftnyelj/nofftnyelj.m3u8
+carib-182,https://fc.maa1808.com/f/tveemkomvr/tveemkomvr.m3u8
+carib-206,https://fc.maa1808.com/d/oduhcvyunk/oduhcvyunk.m3u8
+carib-239,https://fc.maa1808.com/n/uvbinnjany/uvbinnjany.m3u8
+carib-288,https://fc.maa1808.com/m/jtzgqcaxvw/jtzgqcaxvw.m3u8
+carib-311,https://fc.maa1808.com/h/kmqtdxwjmz/kmqtdxwjmz.m3u8
+carib-337,https://fc.maa1808.com/d/uuvombzvvi/uuvombzvvi.m3u8
+carib-339,https://fc.maa1808.com/d/pqkdrfftpw/pqkdrfftpw.m3u8
+carib-363,https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+carib-375,https://fc.maa1808.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+carib-375,https://fc.maa1808.com/n/qwpcalfmpo/qwpcalfmpo.m3u8
+carib-420,https://fc.maa1808.com/d/qzwkkcltyl/qzwkkcltyl.m3u8
+carib-431,https://fc.maa1808.com/d/jestvkpubl/jestvkpubl.m3u8
+carib-433,https://fc.maa1808.com/g/vphfeljbji/vphfeljbji.m3u8
+carib-449,https://fc.maa1808.com/b/txaohlcqnn/txaohlcqnn.m3u8
+carib-457,https://fc.maa1808.com/h/unxtgmrxzw/unxtgmrxzw.m3u8
+carib-474,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
+carib-477,https://fc.maa1808.com/c/avmrmbmugl/avmrmbmugl.m3u8
+carib-478,https://fc.maa1808.com/d/lhnviuaoqi/lhnviuaoqi.m3u8
+carib-495,https://fc.maa1808.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+carib-531,https://fc.maa1808.com/n/cekgvsrnrr/cekgvsrnrr.m3u8
+carib-533,https://fc.maa1808.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+carib-541,https://fc.maa1808.com/c/rhmiiydppe/rhmiiydppe.m3u8
+carib-563,https://fc.maa1808.com/f/pwkupqugdm/pwkupqugdm.m3u8
+carib-563,https://fc.maa1808.com/d/qscypinana/qscypinana.m3u8
+carib-589,https://fc.maa1808.com/n/okjmiigqsr/okjmiigqsr.m3u8
+carib-639,https://fc.maa1808.com/n/rpsqccbbug/rpsqccbbug.m3u8
+carib-665,https://fc.maa1808.com/c/mrpmoinlmj/mrpmoinlmj.m3u8
+carib-665,https://fc.maa1808.com/g/oplnohpsmh/oplnohpsmh.m3u8
+carib-674,https://fc.maa1808.com/g/jtlmkjipqv/jtlmkjipqv.m3u8
+carib-675,https://fc.maa1808.com/c/qmlpmophlh/qmlpmophlh.m3u8
+carib-710,https://fc.maa1808.com/h/mesmnroogk/mesmnroogk.m3u8
+carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
+carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
+carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+heyzo-0705,https://fc.maa1808.com/e/hacddcsdtd/hacddcsdtd.m3u8
+heyzo-1199,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
+heyzo-1243,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
+heyzo-1262,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
+heyzo-1275,https://fc.maa1808.com/m/yifrmmuwzg/yifrmmuwzg.m3u8
+heyzo-1395,https://fc.maa1808.com/n/navpsngdew/navpsngdew.m3u8
+heyzo-1478,https://fc.maa1808.com/c/tbpdlnyuix/tbpdlnyuix.m3u8
+heyzo-1544,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
+heyzo-1570,https://fc.maa1808.com/b/xisxqtvjhu/xisxqtvjhu.m3u8
+heyzo-1590,https://fc.maa1808.com/m/qyqycucecx/qyqycucecx.m3u8
+heyzo-1601,https://fc.maa1808.com/d/mdsjynuabc/mdsjynuabc.m3u8
+heyzo-1638,https://fc.maa1808.com/n/hvxlbaoohy/hvxlbaoohy.m3u8
+heyzo-1691,https://fc.maa1808.com/d/gxoiwurbtv/gxoiwurbtv.m3u8
+heyzo-1722,https://fc.maa1808.com/f/xbztwfweja/xbztwfweja.m3u8
+heyzo-1786,https://fc.maa1808.com/b/ehazmnswdt/ehazmnswdt.m3u8
+pondo-273,https://fc.maa1808.com/g/pzvktykubw/pzvktykubw.m3u8
+pondo-311,https://fc.maa1808.com/c/vkitdntxfe/vkitdntxfe.m3u8
+pondo-350,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
+pondo-366,https://fc.maa1808.com/c/wgucctcnwb/wgucctcnwb.m3u8
+pondo-419,https://fc.maa1808.com/b/ptytphcyus/ptytphcyus.m3u8
+pondo-450,https://fc.maa1808.com/f/omlrqipols/omlrqipols.m3u8
+pondo-488,https://fc.maa1808.com/g/ibktjjcjvi/ibktjjcjvi.m3u8
+pondo-518,https://fc.maa1808.com/h/uglvzhiqwb/uglvzhiqwb.m3u8
+pondo-559,https://fc.maa1808.com/h/ibogkqnaah/ibogkqnaah.m3u8
+pondo-597,https://fc.maa1808.com/n/iqphtushdl/iqphtushdl.m3u8
+pondo-613,https://fc.maa1808.com/e/vwiedbxdkp/vwiedbxdkp.m3u8
+pondo-618,https://fc.maa1808.com/c/dyostrmwue/dyostrmwue.m3u8
+pondo-764,https://fc.maa1808.com/g/rgihjwnolt/rgihjwnolt.m3u8
+pondo-793,https://fc.maa1808.com/f/kpprkumlkh/kpprkumlkh.m3u8
 
 🇪🇺环球3_9988,#genre#
 森林01-相遇,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/q9/cf/me/5p/453774d191ce481d9714925f1fba72bc.m3u8?
