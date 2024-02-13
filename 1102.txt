@@ -1504,12 +1504,6 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 高清风景,http://185.57.68.33:8091/232/playlist.m3u8
 
 🇰🇷测试1,#genre#
-频道预览1,http://14.49.86.138:9981/stream/channelid/1169993630?ticket=AFBB8CCACF4F0685B04E649C134EB3A670A95CAB&profile=pass
-频道预览2,http://14.49.86.138:9981/stream/channelid/432814552?ticket=A846A789887C780B140AC4573D3E4AFB9E2102EA&profile=pass
-频道预览3,http://14.49.86.138:9981/stream/channelid/1715507632?ticket=FE046EE785484561DCCCC775D7128F78C827F9B1&profile=pass
-频道预览4,http://175.207.220.199:9981/stream/channelid/1204857893?ticket=
-频道预览5,http://175.207.220.199:9981/stream/channelid/256178647?ticket=
-频道预览6,http://175.207.220.199:9981/stream/channelid/454725470?ticket=
 KBS1,http://119.192.58.101:9981/stream/channelid/2104459495?ticket=CE017F6090614F851C5B7767AE6FCE12378B79B9&profile=pass
 KBS2,http://119.192.58.101:9981/stream/channelid/1207472992?ticket=EDF6A65D52114D65CE8B60AD6B38D846B74F6AEC&profile=pass
 SBS,http://82.115.12.136:8080/live/play/T1ZOMGN6VlZZMUUxYXpsM2FXaE5PRzR4U25CM01FUmtaWGxuVFhkVFQzUjRVMGhuVUVaV2JqZDZRVDA9/156426
