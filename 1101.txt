@@ -51,7 +51,7 @@ MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,http://110.47.7.144:9981/stream/channelid/30
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
-JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce.ts
+JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://110.47.7.144:9981/stream/channelid/46
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
@@ -73,20 +73,12 @@ Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
-TVN,https://epg.pw/stream/204194bd0297e55973ab0802f5d8ee989a1bf12aebd46e453466d1d9c7137390.ctv
-TVN,https://epg.pw/stream/2353a02a9ecea2ad7f1bb6a7c227013c1ce835c6bb960a6e5bfcc3f868a33b48.ctv
 TVN,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683148
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=283924
 TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306295
 TVN,http://110.47.7.144:9981/stream/channelid/44
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
-TVN,http://210.210.155.35:80/session/d81fbba6-81b6-11ee-8fea-81988aec3c8c/dr9445/h/h20/02.m3u8
-TVN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
-TVN,http://58.142.60.62:9981/stream/channelid/1041875196
-TVN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
-TVN,http://mytv.dothome.co.kr/ch/catv/221.php
-TVN,mitv://ns1.hellotvvod.com:9906/a9026d711deb4d15a89ceb066507b0be
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
 TV Chosun,https://epg.pw/stream/7b1cb6c502530e927165abcb16a5c81f0d17e8d1884b66cbf6ebcda3f81020f8.m3u8
@@ -119,8 +111,8 @@ KBS DRAMA,https://epg.pw/stream/538baa96c4b508ca2d45bb3ea610fd4601d229dd26c2c832
 KBS DRAMA,https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 KBS DRAMA,https://epg.pw/stream/b15aad8f626e01dc7a011b0c898389ded005232c5d34e5cf263e163c42ce463d.ctv
 KBS DRAMA,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
-MBC DARMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
-MBC DARMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
+MBC DRAMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
+MBC DRAMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
 MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091
 SBS PLUS,p2p://generationnexxxt.com:19806/01dbd835b88940cd91eb45190a71c1de
 SBS PLUS,http://119.192.58.101:9981/stream/channelid/2004305573?ticket=7146CF06171AAE814E965172A592162BBB975670&profile=pass
@@ -294,7 +286,7 @@ WBC TV,https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac
 한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
 국악방송国乐,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
 국악방송国乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-Mnet,http://110.47.7.144:9981/stream/channelid/29
+Mnet,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
 Mnet,p2p://generationnexxxt.com:19806/4d5973be862e438f909863fcfc0a7e62
 Mnet,http://mytv.dothome.co.kr/ch/catv/224.php
 Mnet,http://58.142.60.62:9981/stream/channelid/1916731800
@@ -311,6 +303,7 @@ JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 ABN HD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
 ASIA UHD,http://110.9.159.82:9981/stream/channelid/1791120833?ticket=E6D80F42E0C80368D31F672E0D2A3BEDD8740FCD&profile=pass
+K-STAR,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
 K-STAR,http://58.142.60.62:9981/stream/channelid/342733435
 KoreaEconomyTV,https://kr-streams.onrender.com/scraper?channel=408
 KoreaEconomyTV,https://apichvod19.seezntv.com/OTM/10480_M.m3u8?AdaptiveType=HLS&SessionID=3438d7e9-3e70-43b1-9fe6-b8290cd25403
