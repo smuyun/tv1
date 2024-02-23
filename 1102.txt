@@ -51,7 +51,7 @@ MBN,http://hls.ye23.vip/hk/MBN.php
 MBN,http://110.47.7.144:9981/stream/channelid/30
 MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
 MBN,http://mytv.dothome.co.kr/ch/catv/214.php
-JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce.ts
+JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://110.47.7.144:9981/stream/channelid/46
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
