@@ -1541,10 +1541,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 高清风景,http://185.57.68.33:8091/232/playlist.m3u8
 
 🇰🇷测试1,#genre#
-SBS HD,http://82.115.12.136:8080/live/play/UWpsdmEwdGFOWFZvVWxKa0syWkZWRWhJY1RKSFVVOHlaemxJY1VwUVYxQklXVWg2VW1KQ0wyZDNUVDA9/156426
 Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-综艺,http://14.49.86.138:9981/stream/channelid/553838573?ticket=A205A77A19E3E6AE539F7FBCD634F014832075DA&profile=pass
-综艺,http://14.49.86.138:9981/stream/channelid/553838573?ticket=A205A77A19E3E6AE539F7FBCD634F014832075DA&profile=pass
 연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 YTN,https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
 MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
