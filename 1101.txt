@@ -66,7 +66,7 @@ YTN,http://210.92.207.38:40001
 YTN,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
 YTN,http://hls.ye23.vip/hk/ytn.php
 YTN,http://110.47.7.144:9981/stream/channelid/53
-Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
+Yonhap News TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 Yonhap News TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 Yonhap News TV,https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
 Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
