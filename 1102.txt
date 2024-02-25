@@ -46,12 +46,7 @@ MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://mytv.dothome.co.kr/ch/public/5.php
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-MBN,https://epg.pw/stream/807a40c79a26ee81a1a091772c18dfb927963443d07d1a7304f849079adf228a.ctv
-MBN,https://epg.pw/stream/457b1966d52fcb20a9edc496e0ebb0030b20b05c6d59fff8d1e3d78e5e12a5d5.m3u8
-MBN,http://hls.ye23.vip/hk/MBN.php
-MBN,http://110.47.7.144:9981/stream/channelid/30
-MBN,mitv://generationnexxxt.com:19806/a2c12bef09204f61adf2b42e1c529bf6
-MBN,http://mytv.dothome.co.kr/ch/catv/214.php
+MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://110.47.7.144:9981/stream/channelid/46
