@@ -2127,50 +2127,18 @@ Stellar - Study,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.
 
 🇪🇺环球1_9988,#genre#
 PlayBoy,http://181.78.208.254:8010/play/a04e/index.m3u8
-4K-BangBros 01,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271577
-4K-BangBros 02,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271578
-4K-BangBros 03,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271579
-4K-BangBros 04,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271580
-4K-CarnaFunk 2019,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271581
-4K-Holed 01,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271582
-4K-Holed 02,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271583
-4K-Holed 03,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271584
-4K-Holed 04,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271585
-4K-Holed 05,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271586
-4K-Holed 06,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271587
-4K-Holed 07,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271588
-4K-Holed 08,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271589
-4K-Holed 09,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271590
-4K-Holed 10,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/271591
-For Man HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289730
 BOX Relax 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/19283/index.m3u8
 Home 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/4002/index.m3u8
 Home 4K,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/4002/index.m3u8
 BOX Remast 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20158/index.m3u8
-STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
-FTV 4k,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283290&extension=ts&play_token=ANc6neJCos
-FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
-STAR 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283288&extension=ts&play_token=ggQ1TaqbK0
-FILM 4K,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283330&extension=ts&play_token=ldsQSlJKa4
-Service01 HD,http://109.239.138.241:8000/tv3plus4
-FASHION TV HD,http://103.131.214.129:9985/stream/channelid/1970610798?ticket=D9E704995D13E7559DDA5DD905155D8F9BC00C13&profile=pass
-FASHION TV HD,http://main.xplus2-main.xyz:2082/xplus-2-W20pTJnEIu/tYOwRMIuwy/878
-FASHION TV Asia,http://103.131.214.129:9985/stream/channelid/176023054?ticket=A4656BFF4864287691B42CFB0532C9AB5E36C243&profile=pass
 World Fashion Channel,http://94.228.204.166:8000/play/0089
 SYFY,http://168.181.122.234:8000/play/a03c/index.m3u8
 SYFY,http://167.250.39.130:8000/play/syfy
-CINE ACTION FULL HD,http://62.210.220.21:7777/play/a00f
-KTOP,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
-Premium Action,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10072
-axnblack,https://cdn-main.lolokoko.tv/axnblack.stream/chunks.m3u8
-free,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 SYFY,http://181.205.130.194:4000/play/a06v/index.m3u8
-FilmBoxExtra,https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
+KTOP,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+free,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 TRANCE IS STAR,https://tis.catcast.tv/content/391/index.m3u8
-Индийское Кино:Классика,https://v2.catcast.tv/content/41596/index.m3u8
-Детское Кино International,https://v2.catcast.tv/content/38720/index.m3u8
 SONYSAB,http://tv.cloudcdn.me:80/live.ts?channelId=260&deviceMac=00:1A:79:0A:3B:2D
-AMC HD,https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
 VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 蜜桃成熟时3-3D,https://v5.jindangao.com/jj/j4/11/hls/index.m3u8
 蜜桃成熟时3之蜜桃仙子,https://v5.jindangao.com/jj/j4/13/hls/index.m3u8
