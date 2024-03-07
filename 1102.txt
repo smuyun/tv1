@@ -387,10 +387,10 @@ GENIE TV,http://14.49.86.138:9981/stream/channelid/958661849
 GENIE TV,http://175.207.220.199:9981/stream/channelid/79438460?ticket=
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b1800000.m3u8
-TvN Movies,https://epg.pw/stream/907a2677d1e726b269c145ab79a811140383fe39a1a617a00a2cbddaccd7f547.ctv
+TvN Movies,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
+tvN Movies,https://epg.pw/stream/907a2677d1e726b269c145ab79a811140383fe39a1a617a00a2cbddaccd7f547.ctv
 tvN Movies,http://210.210.155.37/dr9445/h/h21/index.m3u8
 tvN Movies,mitv://generationnexxxt.com:19806/7ad63818eea64677beb87cf16459919f
-tvN Movies,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
 tvN Movies,p2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
 tvN Movies,http://210.210.155.35:80/session/8772b294-c460-11ed-bd85-900cbba69053/dr9445/h/h21/02.m3u8
 tvN Movies,http://210.210.155.35:80/dr9445/h/h21/02.m3u8
