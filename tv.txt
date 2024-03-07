@@ -1,4 +1,4 @@
-&#38889;&#22269;
+韩国
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php#https://tv.iill.top/kbs/11&p=0#http://mytv.dothome.co.kr/ch/public/11.php
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php#https://tv.iill.top/kbs/12&p=0
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8#http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass#http://1.245.74.5:1935/live/tv/playlist.m3u8#http://1.245.74.5:1935/live/tv/chunklist_w1709292453.m3u8
