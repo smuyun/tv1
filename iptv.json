@@ -1,0 +1,37 @@
+[
+  {
+    "name": "龙门直播",
+    "url": "http://m35.grelighting.cn/html/zb1.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 1
+  },
+  {
+    "name": "Ray直播",
+    "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 2
+  },
+  {
+    "name": "多多直播",
+    "url": "https://yydsys.top/duo/txt/v.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 3
+  },
+  {
+    "name": "饭太硬直播",
+    "url": "http://ftyyy.tk/live.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 4
+  },
+  {
+    "name": "俊于直播",
+    "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+    "epg": "http://epg.112114.xyz",
+    "isActive": true,
+    "id": 5
+  }
+]
