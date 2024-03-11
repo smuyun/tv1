@@ -57,6 +57,7 @@ KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 KBS24,http://luotuo.ycchenrong.cn/dl/kbs.php?id=4
 KBS24,http://han.ddkdxmkj.com/api/kbs.php?id=4
+YTN,http://jp1.yiweb.net:8880/live.m3u8?c=118
 YTN,https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
 YTN,http://210.92.207.38:40001
 YTN,https://epg.pw/stream/1f8ab08ef1077f425ede3d1b6d49bb0f13348777b3fdc2a24bb72670fd45ba3c.ctv
@@ -139,18 +140,6 @@ KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 KBS W,http://line.premiumpowers.net:80/Manuel/1234567/941604
 KBS W,http://luotuo.ycchenrong.cn/dl/kbs.php?id=3
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-JTBC2,http://110.47.7.144:9981/stream/channelid/81
-JTBC2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
-JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
-JTBC2,https://kr-streams.onrender.com/scraper?channel=455
-JTBC2,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
-JTBC4,http://110.47.7.144:9981/stream/channelid/62
-JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
-JTBC4,http://gg.gg/Ha_Noi_IPTV_9-JTBC4-Giai_tri_Danh_cho_Gioi_tre
-JTBC4,http://110.9.159.82:9981/stream/channelid/1850641228
-JTBC4,http://221.148.26.130:9981/stream/channelid/29
-JTBC4,https://kr-streams.onrender.com/scraper?channel=523
-JTBC4,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
 KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 KoreaTV,https://epg.pw/stream/2993da41063a3be7a1a367b111251458c87041a59e1f839a58e048a4ab103b26.m3u8
 KoreaTV,https://epg.pw/stream/82034f50580ac0c94f2685fe67523c478b36cb49110cc68eb7f192ce8edec80a.m3u8
@@ -166,7 +155,44 @@ KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 KCTV,http://ye23.win/iptv/korea2021.php?id=KCTV
 KCTV,http://ye23.win/iptv/korea2021.php?id=Channela
 KCTV,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-YTN 2,https://kr-streams.onrender.com/scraper?channel=254
+KBS JOY,http://110.47.7.144:9981/stream/channelid/5?ticket=
+KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+KBS JOY,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176.ts
+KBS JOY,https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
+KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS JOY,http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
+KBS JOY,http://han.ddkdxmkj.com/api/kbs.php?id=6
+KBS JOY,http://live1.abcdsky.com:1935/live/KBSJOY/playlist.m3u8
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
+KBS LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+KBS LIFE,https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
+KBS LIFE,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=N93
+KBS LIFE,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
+KBS LIFE,http://han.ddkdxmkj.com/api/kbs.php?id=7
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
+KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+KBS Story,https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
+KBS Story,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
+KBS Story,http://han.ddkdxmkj.com/api/kbs.php?id=8
+KBS KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
+KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+KBS KIDS,https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
+KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
+KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
+YTN 2,http://jp1.yiweb.net:8880/live.m3u8?c=117
+YTN Science,http://jp1.yiweb.net:8880/live.m3u8?c=123
+JTBC2,http://110.47.7.144:9981/stream/channelid/81
+JTBC2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
+JTBC2,https://kr-streams.onrender.com/scraper?channel=455
+JTBC2,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
+JTBC4,http://110.47.7.144:9981/stream/channelid/62
+JTBC4,http://mytv.dothome.co.kr/ch/catv/283.php
+JTBC4,http://gg.gg/Ha_Noi_IPTV_9-JTBC4-Giai_tri_Danh_cho_Gioi_tre
+JTBC4,http://110.9.159.82:9981/stream/channelid/1850641228
+JTBC4,http://221.148.26.130:9981/stream/channelid/29
+JTBC4,https://kr-streams.onrender.com/scraper?channel=523
+JTBC4,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.net
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.com
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
@@ -194,47 +220,10 @@ Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 韩国娱乐台,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 韩国娱乐台,p3p://108.181.20.159:16621/621e16b0000ec4772884cc295a1614a8.ts
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
-KBS JOY,http://110.47.7.144:9981/stream/channelid/5?ticket=
-KBS JOY,http://ye23.vip/z7z8/2021/kbs2020.php?id=6
-KBS JOY,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176.ts
-KBS JOY,https://epg.pw/stream/305cdf6ce73f15fc8b99cf02f03f8b94acbb4e43f607c9f4d83752c227ad2624.ctv
-KBS JOY,https://epg.pw/stream/95bc3207f2d32592885ab619bafad02e5ce037f02dc81247e1f0cc0be6f3a206.ctv
-KBS JOY,https://epg.pw/stream/6e5ac268f6f535878bf582eeb86a37b58989736e931212d7989ee646765c593d.ctv
-KBS JOY,https://epg.pw/stream/37b06032135a5fe7fa79f7a4fe13eeecf9813e9250248e431b49205173b03099.m3u8
-KBS JOY,https://code.vthanhtivi.pw/getlink/kbs/N92/playlist.m3u8
-KBS JOY,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS JOY,http://luotuo.ycchenrong.cn/dl/kbs.php?id=6
-KBS JOY,http://han.ddkdxmkj.com/api/kbs.php?id=6
-KBS JOY,http://live1.abcdsky.com:1935/live/KBSJOY/playlist.m3u8
-KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
-KBS LIFE,http://ye23.vip/z7z8/2021/kbs2020.php?id=7
-KBS LIFE,https://epg.pw/stream/34f0a48e35d7bb385a09f5acfd563731002379fe5b1b90bd0190cb7159f36e70.ctv
-KBS LIFE,https://epg.pw/stream/c4fba9d87553d91230382bb50979196f24d3586b03cdd35bf8dc68cdf4624d3f.m3u8
-KBS LIFE,https://epg.pw/stream/eb030d83667ff48ac36a4c95696a4af4d48a1f139d29cd944d557a64425f9658.ctv
-KBS LIFE,https://code.vthanhtivi.pw/getlink/kbs/N93/playlist.m3u8
-KBS LIFE,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=N93
-KBS LIFE,http://luotuo.ycchenrong.cn/dl/kbs.php?id=7
-KBS LIFE,http://han.ddkdxmkj.com/api/kbs.php?id=7
-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
-KBS Story,http://ye23.vip/z7z8/2021/kbs2020.php?id=8
-KBS Story,https://epg.pw/stream/e44c3ff19c4b01f605e0e7e19169c62afa77e25b54ff4a54ab8517af527b5566.ctv
-KBS Story,https://epg.pw/stream/366f14c57e2c25ef101eba472819f4d34dd2a2629a7937f47d70c2a75a947784.ctv
-KBS Story,https://epg.pw/stream/9cf281c6cd16e27d83d6d25f0bbcde8c7b0134cfec5b2ba261278c885ba2aeac.m3u8
-KBS Story,https://epg.pw/stream/55925e277a1960fc059cff58362aeb6bdc12369ca9e0ecb0c0abe85bc597779d.ctv
-KBS Story,https://code.vthanhtivi.pw/getlink/kbs/N94/playlist.m3u8
-KBS Story,http://luotuo.ycchenrong.cn/dl/kbs.php?id=8
-KBS Story,http://han.ddkdxmkj.com/api/kbs.php?id=8
-KBS KIDS,http://mytv.dothome.co.kr/ch/catv/6.php
-KBS KIDS,http://ye23.vip/z7z8/2021/kbs2020.php?id=9
-KBS KIDS,https://epg.pw/stream/5779afa722e1634c61422728d02494bf76bdd5a08539013809b3b4befb6f586b.ctv
-KBS KIDS,https://epg.pw/stream/f5b55c798733191f6877db3100ff6a7da8961d0fc3c57ac53f0bf34cc44fb2a5.ctv
-KBS KIDS,https://epg.pw/stream/6d4754c856dff8be97469d1fa9ed27435ba411dac1028db1ebb17f6a6fff84de.ctv
-KBS KIDS,https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
-KBS KIDS,http://luotuo.ycchenrong.cn/dl/kbs.php?id=9
-KBS KIDS,http://han.ddkdxmkj.com/api/kbs.php?id=9
 MBC M,http://58.142.60.62:9981/stream/channelid/1920571670
 MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default
 MUSIC TOP,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Kpop,http://jp1.yiweb.net:8880/live.m3u8?c=119
 Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Kpop,http://ye23.win/iptv/sbs5.1.php?id=S20
 Kpop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=S14&q=default
