@@ -399,8 +399,8 @@ ENA,http://110.47.7.144:9981/stream/channelid/50
 ENA,http://110.47.7.144:9981/stream/channelid/99
 ENA,http://221.167.205.241:9981/stream/channelid/6
 E CHANNEL,http://110.47.7.144:9981/stream/channelid/25
+Arirang,http://jp1.yiweb.net:8880/live.m3u8?c=124
 Arirang,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-Arirang,https://epg.pw/stream/106718c3a3dd3cdbd5cbe8698d59fdf1db6160d99737d2a6f78a0615c93eb7da.ctv
 Arirang,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 Arirang,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Arirang,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
