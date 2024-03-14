@@ -1509,7 +1509,7 @@ NASA 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-HAN GUO测试,#genre#
+KR测试,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00.ts
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855.ts
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507.ts
