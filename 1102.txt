@@ -1,4 +1,4 @@
-🇰🇷HANGUO,#genre#
+HANGUO,#genre#
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,https://tv.iill.top/kbs/11&p=0
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
@@ -483,7 +483,7 @@ Shopping NT,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C49
 Shopping NT,https://live.shoppingntmall.com/live/10011.m3u8
 Gongyoung Shopping,https://etv.publichs.com/live5.stream/playlist.m3u8
 
-🇨🇳央视,#genre#
+央视,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
@@ -807,7 +807,7 @@ CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122619
 CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 
-🇨🇳卫视,#genre#
+卫视,#genre#
 深圳都市,http://116.30.249.78:8888/rtp/239.77.1.176:5146
 深圳都市,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
@@ -1392,7 +1392,7 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
-🇨🇳GANG AO,#genre#
+GANG AO,#genre#
 凤凰中文,http://110.72.78.16:808/hls/83/index.m3u8
 凤凰中文,http://fzcds.cn:8822/hls/81/index.m3u8
 凤凰中文,http://110.72.78.16:808/hls/62/index.m3u8
@@ -1608,7 +1608,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱自然,http://95.67.12.82:9098/
 高清风景,http://185.57.68.33:8091/232/playlist.m3u8
 
-🇰🇷测试1,#genre#
+KR测试1,#genre#
 Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
 YTN,https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
@@ -1716,7 +1716,7 @@ KBS 개는 훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 씨네21+,https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
 
 
-🇰🇷测试2,#genre#
+KR测试2,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00.ts
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855.ts
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507.ts
@@ -1738,7 +1738,7 @@ Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446.ts
 SPOTV,mitv://generationnexxxt.com:19806/d270398d5c9d4358a1fab94773d6b8d1.ts
 JTBC GOLF,mitv://generationnexxxt.com:19806/7c397fb18c154c5f91e41a48fd3ab95c.ts
 
-🇰🇷测试3,#genre#
+KR测试3,#genre#
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
@@ -1954,7 +1954,7 @@ EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunk
 jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
 K STAR,http://121.136.153.200:9981/stream/channelid/41
 
-🎸韩国音乐,#genre#
+韩国音乐,#genre#
 洪真英-爱情的电池,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzvSa4gUoutzqwwQ.mp4
 韩国热舞Sori-Dual Life,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 skart-1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi5Ke4wUoy6vqTg.mp4
@@ -2190,7 +2190,7 @@ AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.
 AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
 金泫雅,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
 
-🇪🇺环球1_9988,#genre#
+环球1_9988,#genre#
 一本道歐美版,http://live.redtraffic.xyz:80/bigass.m3u8
 松視2歐美版,http://live.redtraffic.xyz:80/interracial.m3u8
 松視3歐美版,http://live.redtraffic.xyz:80/bigtits.m3u8
@@ -2426,7 +2426,7 @@ Povd8,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_t
 Povd9,http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannanicole051914/content/vid01.mp4
 Rarely seen such hot tits,http://ovhv39.twincdn.com/videos/4/4634/4634_720p.mp4
 
-🇪🇺环球2_9988,#genre#
+环球2_9988,#genre#
 n0724AIKA膣膨満真正東熱孕汁,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
 n0946橋本美帆変則FUCKに驚愕,https://z100.cdn2020.com/video/m3u8/2020/07/24/07dd89a1/index.m3u8
 n0598美人校医-飯島奈津美,https://z100.cdn2020.com/video/m3u8/2020/07/20/8f61697f/index.m3u8
@@ -2694,7 +2694,7 @@ carib-717,https://fc.maa1808.com/f/ssoskhqgml/ssoskhqgml.m3u8
 carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
 carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
 
-🇪🇺环球3_9988,#genre#
+环球3_9988,#genre#
 网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
 FSOG-065零三年的小白虎-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/03/42c5f64b/index.m3u8
 FSOG-066骑射JK双马尾,https://t21.cdn2020.com/video/m3u8/2023/03/03/60dce235/index.m3u8
@@ -4113,7 +4113,7 @@ MSD-107/丈夫当家   炮房,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/
 MSD-108/看着姐姐给人操,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/0h/87/t2/ap/2eaf34126e304659927ca047da48907e.m3u8?
 MSD-110/肉臀学姐上位榨精,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/qk/2p/5h/s0/b14f9cce57684362ade1fd00c9833528.m3u8
 
-🇪🇺环球4_9988,#genre#
+环球4_9988,#genre#
 PLAYBOY FHD,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/872
 CINE ADULTO +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/83244
 COSPLAY +18,http://joao-1-us.mainbkonline.shop:80/491175347448pw/906956704666/82163
