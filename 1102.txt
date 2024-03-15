@@ -1808,7 +1808,6 @@ jtbc2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
 K STAR,http://121.136.153.200:9981/stream/channelid/41
 
 韩国音乐,#genre#
-洪真英-爱情的电池,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzvSa4gUoutzqwwQ.mp4
 韩国热舞Sori-Dual Life,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 skart-1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi5Ke4wUoy6vqTg.mp4
 skart-2,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4
