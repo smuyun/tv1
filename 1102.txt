@@ -1279,6 +1279,7 @@ CCTV16,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 GANG AO,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰中文,http://220.189.108.176:19888/rtp/233.50.200.191:5140
 凤凰中文,http://fzcds.cn:8822/hls/81/index.m3u8
 凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰中文,http://110.72.78.16:808/hls/62/index.m3u8
@@ -1287,6 +1288,7 @@ GANG AO,#genre#
 凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰资讯,http://livetv.skycf.eu.org/live.m3u8?c=2
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰资讯,http://220.189.108.176:19888/rtp/233.50.200.192:5140
 凤凰资讯,http://fzcds.cn:8822/hls/80/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://111.31.107.123/1.v.smtcdns.net/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
