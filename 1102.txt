@@ -48,6 +48,7 @@ MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+JTBC,https://epg.pw/stream/9c683f5e12d8f5a1230c18b13ed38758022b4eba4978c95f8740c6e1c7620a15.m3u8
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://110.47.7.144:9981/stream/channelid/46
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
@@ -78,6 +79,7 @@ TVN,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&strea
 TVN,http://210.210.155.37:80/session/14c9c47a-8b13-11ed-aacf-95cd8cbba762/dr9445/h/h20/01.m3u8
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b1800000.m3u8
+TV Chosun,https://epg.pw/stream/6a7bc54a300ef9738e283a8e71911869c44859eb505e49c5c156599d32235e38.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b2500000.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/playlist.m3u8
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
@@ -284,6 +286,7 @@ inet,https://epg.pw/stream/80648d0bdb5700f114edde040658506d0cdb1fca7e9cb2cc60d00
 inet,http://221.167.205.241:9981/stream/channelid/34
 inet,mitv://ns2.hellotvvod.com:9906/7d8f385ab9fd42f6b77b907ada6e3553
 inet,http://51.81.66.195:1935/krtv/inet_540/playlist.m3u8
+MBC News Desk,https://epg.pw/stream/794172db13663b24c619a56265a1a966ecba71c01c0c6dec089745ba4c2c7157.m3u8
 JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 JCN,https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
 ABN HD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
