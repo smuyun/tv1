@@ -177,6 +177,9 @@ YTN 2,http://jp1.yiweb.net:8880/live.m3u8?c=117
 YTN Science,http://jp1.yiweb.net:8880/live.m3u8?c=123
 JTBC2,http://110.47.7.144:9981/stream/channelid/81
 JTBC2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+三星TV,https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
+三星TV+,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+三星TV3,https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
 JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
