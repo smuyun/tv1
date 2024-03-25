@@ -2578,6 +2578,9 @@ carib-744,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
 carib-758,https://fc.maa1808.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
 
 环球3_9988,#genre#
+舒淇经典三级片段,https://v6.jindangao.com/hj/hj2/hj25/36/hls/index.m3u8
+LOVE5,https://cdn4.11yun.cc/GAV2/63657/63657.m3u8
+LOVE6,https://cdn4.11yun.cc/GAV2/65116/65116.m3u8
 网袜白虎小学妹,https://t21.cdn2020.com/video/m3u8/2023/03/03/b233b478/index.m3u8
 FSOG-065零三年的小白虎-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/03/42c5f64b/index.m3u8
 FSOG-066骑射JK双马尾,https://t21.cdn2020.com/video/m3u8/2023/03/03/60dce235/index.m3u8
