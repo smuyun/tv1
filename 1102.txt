@@ -1,18 +1,18 @@
 HANGUO,#genre#
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,https://tv.iill.top/kbs/11&p=0
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
-KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855.ts
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS1,http://202.60.106.14:8080/200/playlist.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://tv.iill.top/kbs/12&p=0
-KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507.ts
+KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
 KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBS2,http://ye23.top/ktv/kbs2022.php?id=2
 KBS2,mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
@@ -44,8 +44,8 @@ MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 JTBC,https://epg.pw/stream/9c683f5e12d8f5a1230c18b13ed38758022b4eba4978c95f8740c6e1c7620a15.m3u8
-JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://110.47.7.144:9981/stream/channelid/46
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
 KBS24,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
@@ -2068,6 +2068,8 @@ Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI
 AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
 AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
 金泫雅,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+4K-1,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313341682455.mp4 
+4K-2,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/313689895693.mp4
 
 环球1_9988,#genre#
 一本道歐美版,http://live.redtraffic.xyz:80/bigass.m3u8
