@@ -1,0 +1,38 @@
+[
+  {
+    "group": "韩国",
+    "logo": "",
+    "name": "KBS1",
+    "title": "KBS1",
+    "uris": [
+      "http://mytv.dothome.co.kr/ch/public/1.php"
+    ]
+  },
+  {
+    "group": "韩国",
+    "logo": "",
+    "name": "KBS1",
+    "title": "KBS1",
+    "uris": [
+      "http://mytv.dothome.co.kr/ch/public/12.php"
+    ]
+  },
+  {
+    "group": "韩国",
+    "logo": "",
+    "name": "KBS2",
+    "title": "KBS2",
+    "uris": [
+      "http://mytv.dothome.co.kr/ch/public/3.php"
+    ]
+  },
+  {
+    "group": "韩国",
+    "logo": "",
+    "name": "KBS2",
+    "title": "KBS2",
+    "uris": [
+      "https://tv.iill.top/kbs/12&p=0"
+    ]
+  }
+]
