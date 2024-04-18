@@ -1,18 +1,18 @@
 HANGUO,#genre#
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
 KBS1,http://mytv.dothome.co.kr/ch/public/12.php
 KBS1,https://tv.iill.top/kbs/11&p=0
 KBS1,http://mytv.dothome.co.kr/ch/public/11.php
-KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855.ts
+KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855
 KBS1,https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 KBS1,https://epg.pw/stream/c59eb39861ade61ac7ce3f9eba0afef0e10b9391f6ea8fe072731486b4c88494.m3u8
 KBS1,p2p://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS1,http://202.60.106.14:8080/200/playlist.m3u8
 KBS2,http://mytv.dothome.co.kr/ch/public/3.php
 KBS2,https://tv.iill.top/kbs/12&p=0
-KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507.ts
+KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507
 KBS2,https://code.vthanhtivi.pw/getlink/kbs/12/playlist.m3u8
 KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-KBS2,http://ye23.top/ktv/kbs2022.php?id=2
 KBS2,mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
 SBS,http://1.245.74.5:1935/live/tv/chunklist_b2500000.m3u8
 SBS,http://119.192.58.101:9981/stream/channelid/1979196530?ticket=F58CBF8EFAE76C64C55189E559C063F040D8E7F3&profile=pass
@@ -40,12 +40,13 @@ MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=23
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w927448341.m3u8
 MBC综艺,http://mytv.dothome.co.kr/ch/public/5.php
 MBN,http://mytv.dothome.co.kr/ch/catv/54.php
+MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMjAyMTA1MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=1QhInakRi10s3MY1b19hhX7t8tXlVEoTtEwWDgYCDqoEV9hp0Q4vXNMKT80Xq9f-YK6WKMeYMnXE60dDXaT7r-YwHBaGtjbpIg~wCT~v5gNCDmL3UC2Kdgii0djiG4qM3u~GeHb6KxrLXOw0ve~6QMkHfuB~Z60~oNT~WA--A7E_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd
 JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
 JTBC,https://epg.pw/stream/9c683f5e12d8f5a1230c18b13ed38758022b4eba4978c95f8740c6e1c7620a15.m3u8
-JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 JTBC,http://110.47.7.144:9981/stream/channelid/46
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
 KBS24,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=81
 KBS24,https://code.vthanhtivi.pw/getlink/kbs/81/playlist.m3u8
@@ -177,6 +178,9 @@ YTN 2,http://jp1.yiweb.net:8880/live.m3u8?c=117
 YTN Science,http://jp1.yiweb.net:8880/live.m3u8?c=123
 JTBC2,http://110.47.7.144:9981/stream/channelid/81
 JTBC2,http://222.237.71.141:9981/stream/channelid/1803658735?profile=pass
+三星TV,https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
+三星TV+,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+三星TV3,https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
 JTBC2,http://110.9.159.82:9981/stream/channelid/676326046
 JTBC2,https://kr-streams.onrender.com/scraper?channel=455
 JTBC2,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC2.m3u8
