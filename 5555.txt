@@ -9,15 +9,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/电视盒子.json"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/js/电视盒子.json"
     },
-{
-  "key": "影探1",
-  "name": "拾光┃影探",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/drpy2.min.js",
-  "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/影探4K.js"
-  },
        {
             "key": "南瓜",
             "name": "南瓜┃App",
@@ -29,11 +22,11 @@
             "filterable": 1,
             "ext": ""
         },
-{"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/奇珍异兽.js"},
-{"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/腾云驾雾.js"},
-{"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/百忙无果.js"},
-{"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/优酷.js"},
-{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/菜狗.js"},
+{"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/奇珍异兽.js"},
+{"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/腾云驾雾.js"},
+{"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/百忙无果.js"},
+{"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/优酷.js"},
+{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/菜狗.js"},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
@@ -60,65 +53,10 @@
         "战争片"
       ]
     },
- {
-      "key": "七七备用",
-      "name": "影视| 酷云七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fan-2.jar",
-      "changeable": 1
-    },
-{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
-{"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
-{"key": "csp_Nmys","name": "农民影视", "type": 3,"api": "csp_Nmys", "searchable": 1,"changeable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/农民影视.json"},
-{
-      "key": "49zy",
-      "name": "♻️┃49Z┃2K",
-      "type": 1,
-      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "纪录片",
-        "欧美剧",
-        "香港剧",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片",
-        "动画片",
-        "犯罪片",
-        "韩国剧",
-        "动漫",
-        "电影",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "台湾剧",
-        "国产动漫",
-        "日本动漫",
-        "欧美动漫",
-        "泰国剧",
-        "日剧",
-        "电影解说",
-        "奇幻片",
-        "灾难片",
-        "悬疑片",
-        "其他片",
-        "体育赛事",
-        "海外剧"
-      ]
-    },
-{"key": "火狐资源","name": "采集/火狐","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8","categories": [ "内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]	}},
+{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitcode.com/qkyj/zy/raw/master/JAR/230929.jar"},
+{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.gitcode.com/qkyj/zy/raw/master/JAR/230929.jar"},
+{"key":"csp_QIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://raw.gitcode.com/qkyj/zy/raw/master/JAR/230929.jar"},
+{"key": "csp_Nmys","name": "农民影视", "type": 3,"api": "csp_Nmys", "searchable": 1,"changeable": 1,"ext": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/js/农民影视.json"},
     {
       "key": "豪华资源",
       "name": "🥬┃豪华┃2K",
@@ -154,7 +92,7 @@
         "欧美综艺"
       ]
     },
-{"key": "drpy_js_看韩剧","name": "看韩剧","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/看韩剧.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
+{"key": "drpy_js_看韩剧","name": "看韩剧","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/看韩剧.js","jar": "https://raw.gitcode.com/qkyj/zy/raw/master/gy/02.jar"},
 {
       "key": "儿童拼音",
       "name": "💕儿童拼音",
@@ -163,7 +101,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童拼音.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童拼音.txt"
     },
     {
       "key": "儿童识字",
@@ -173,7 +111,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童识字.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童识字.txt"
     },
     {
       "key": "儿童英语",
@@ -183,7 +121,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童英语.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童英语.txt"
     },
     {
       "key": "儿童硬笔",
@@ -193,7 +131,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童硬笔.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童硬笔.txt"
     },
     {
       "key": "儿童思维",
@@ -203,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童思维.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童思维.txt"
     },
     {
       "key": "儿童口才",
@@ -213,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童口才.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童口才.txt"
     },
     {
       "key": "儿童编程",
@@ -223,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童编程.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/儿童编程.txt"
     },
     {
       "key": "兴趣培养",
@@ -233,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/兴趣培养.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/兴趣培养.txt"
     },
     {
       "key": "小学",
@@ -243,7 +181,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩小学.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/哔哩哔哩小学.txt"
     },
     {
       "key": "初中",
@@ -253,7 +191,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩初中.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/哔哩哔哩初中.txt"
     },
     {
       "key": "高中",
@@ -263,7 +201,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩高中.txt"
+      "ext": "https://raw.gitcode.com/qkyj/zy/raw/master/哔哩哔哩高中.txt"
     },
 {
       "key": "push_agent",
@@ -279,7 +217,7 @@
    "lives":[
      {"group":"redirect","channels":[
     {"name":"live","urls":[
-    "proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1101.txt"
+    "proxy://do=live&type=txt&ext=https://raw.gitcode.com/qkyj/tv/raw/main/1101.txt"
     ]}]}],
 
     "parses": [
