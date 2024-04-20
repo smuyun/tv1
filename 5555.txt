@@ -22,11 +22,11 @@
             "filterable": 1,
             "ext": ""
         },
+{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/菜狗.js"},
 {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/奇珍异兽.js"},
 {"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/腾云驾雾.js"},
 {"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/百忙无果.js"},
 {"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/优酷.js"},
-{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://raw.gitcode.com/qkyj/zy/raw/master/JS/lib/drpy2.min.js","ext": "https://raw.gitcode.com/qkyj/zy/raw/master/dr_py/js/菜狗.js"},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
