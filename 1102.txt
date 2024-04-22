@@ -470,10 +470,8 @@ KBS Joy,mitv://generationnexxxt.com:19806/0a9a842f13284e848e7aa72af382c176.ts
 SBS,mitv://generationnexxxt.com:19806/c8f25b3b0185407792640de06e8781df.ts
 SBS Biz,mitv://generationnexxxt.com:19806/a99ade867d304779a5ac84ab89228575.ts
 JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce.ts
-JTBC,mitv://generationnexxxt.com:19806/132ccdb9253f4c4898e685a841b896ea
 EBS,mitv://generationnexxxt.com:19806/257252e5e0f749beb160af97e36d15d1.ts
 YTN,mitv://generationnexxxt.com:19806/37e575278e574bc9a9fc598c733de125.ts
-YTN,mitv://generationnexxxt.com:19806/9a05e5a1bc4c4f8f871bc4246475360b
 Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb.ts
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7.ts
 OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3.ts
