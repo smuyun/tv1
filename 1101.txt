@@ -1250,7 +1250,7 @@ BesTV 4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 8K 北京科教,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 高清风景,http://185.57.68.33:8091/232/playlist.m3u8
 
-KR测试,#genre#
+KR测试1,#genre#
 Arirang,mitv://generationnexxxt.com:19806/853704c2f9a442e7a1532038f14d8d00.ts
 KBS1,mitv://generationnexxxt.com:19806/28676e413f2a477ababeae97e87ef855.ts
 KBS2,mitv://generationnexxxt.com:19806/fa378d3829f643d2a87c4c754bbae507.ts
@@ -1265,7 +1265,7 @@ Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb.ts
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7.ts
 OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3.ts
 OCN Movies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0.ts
-TV Chosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e.ts
+inet,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e.ts
 MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30.ts
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd.ts
 Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446.ts
