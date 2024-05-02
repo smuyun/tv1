@@ -1374,7 +1374,7 @@ Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb.ts
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7.ts
 OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3.ts
 OCN Movies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0.ts
-TV Chosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e.ts
+inet,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e.ts
 MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30.ts
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd.ts
 Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446.ts
