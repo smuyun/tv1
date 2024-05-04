@@ -1,10 +1,19 @@
 {
     "sites": [
  {"key":"七七","name":"👒七七┃秒播","type":3,"api":"csp_Kunyu77","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
-    {"key":"酷看","name":"💡酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
-    {"key":"原创","name":"☀哔嘀┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1}, 
-    {"key":"苹果","name":"🍎苹果┃无广","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1}, 
-    {"key":"白嫖","name":"👻白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.baipiaoys.com:9092/"}, {"key":"视觉","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/"}, 
+ { "key": "酷看1","name": "💡酷看┃App","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/custom_spider.jar"},
+{
+"key":"小苹果",
+"name":"🍎主力源",
+"type":3,
+"api":"csp_LiteApple",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/fan.txt;md5;29b4ef28be2f88e3ae3f37682e19e309"
+},
+{"key":"白嫖1","name":"👻白飘┃无广","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.baipiaoys.com:9092/","jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/fan.txt;md5;29b4ef28be2f88e3ae3f37682e19e309"},
     {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
     {"key":"农民","name":"🌾农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"}, 
   {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/奇珍异兽.js"},
