@@ -25,7 +25,9 @@ MBC,https://5ee1ec6f32118.streamlock.net/live/livetv/chunklist_b2500000.m3u8
 MBC,https://livestreams.mewinnie.gq/livestreams/kr_live/mbc.php
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w14884132.m3u8
 MBC,http://58.142.60.62:9981/stream/channelid/793162132
-MBC,http://110.9.159.82:9981/stream/channelid/124634470
+MBC,http://mytv.dothome.co.kr/ch/catv/28.php
+MBC,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+MBC综艺,https://ns1.tjmbc.co.kr/live/myStream.sdp/chunklist_w1527660410.m3u8
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_b2500000.m3u8
 MBC综艺,http://8.ykwlm.sinaapp.com/han3.php?id=10
 MBC综艺,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1728125568.m3u8
@@ -39,6 +41,7 @@ MBN,http://mytv.dothome.co.kr/ch/catv/54.php
 MBN,https://hls-live.mbn.co.kr/mbn-on-air/600k/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cCo6Ly9obHMtbGl2ZS5tYm4uY28ua3IvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcxMjAyMTA1MH0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=1QhInakRi10s3MY1b19hhX7t8tXlVEoTtEwWDgYCDqoEV9hp0Q4vXNMKT80Xq9f-YK6WKMeYMnXE60dDXaT7r-YwHBaGtjbpIg~wCT~v5gNCDmL3UC2Kdgii0djiG4qM3u~GeHb6KxrLXOw0ve~6QMkHfuB~Z60~oNT~WA--A7E_&Key-Pair-Id=pub_hls-live.mbn.co.kr
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 JTBC,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+JTBC,mitv://generationnexxxt.com:19806/4e234cda667b42a8bc3081db3b08bfce.ts
 JTBC,https://epg.pw/stream/9c683f5e12d8f5a1230c18b13ed38758022b4eba4978c95f8740c6e1c7620a15.m3u8
 JTBC,http://110.47.7.144:9981/stream/channelid/46
 KBS24,http://mytv.dothome.co.kr/ch/catv/1.php
@@ -58,6 +61,7 @@ Yonhap News TV,http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/yonhapnews_korea/playlist.m3u8
 Yonhap News TV,http://mytv.dothome.co.kr/ch/catv/216.php
 Yonhap News TV,http://221.148.26.130:9981/stream/channelid/30
+TVN,http://210.210.155.35/session/127fe5a6-0523-11ef-a4ee-9adabab70d70/dr9445/h/h20/02.m3u8
 TVN,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200014XZ
 TVN,http://210.210.155.35/dr9445/h/h20/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_HD
 TVN,http://210.210.155.35:80/dr9445/h/h20/02.m3u8
@@ -68,22 +72,18 @@ TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/pla
 TV Chosun,https://wms2-kortv.akamaized.net/a_live/37871460/smil:20tv024.smil/chunklist_b900000.m3u8
 TV Chosun,https://c11.kr/1608e
 TV Chosun2,http://119.192.58.101:9981/stream/channelid/572768770?ticket=87B0F776BF3EFC02D10EA5F1D7688423E0A9AB1F&profile=pass
+TV Chosun2,http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist.m3u8
+TV Chosun2,http://onair2cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/chunklist_b2500000.m3u8
 TV Chosun2,http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7
 TV Chosun2,http://broadcast.tvchosun.com/onair/on2.cstv
-Channel A,https://epg.pw/stream/014c9bca913d11dfac3dca0dab3a908cb8386dbffe1003c2cab863e9a2991b0b.m3u8
+TV Chosun2,mitv://ns1.hellotvvod.com:9906/8887cfbf37fd471eb859fb75b12fdcd7.ts
+Channel A,https://channelaid3.ichannela.com/atv3/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MTUyODkzODh9.Cuh3ifu-1JxvUPixOkGlpwy8SLLNxAk4u3C_M5VqSZo
 Channel A,http://mytv.dothome.co.kr/ch/catv/52.php
 Channel A,https://epg.pw/stream/48ed4b6c1b6f9a0f6bc2c8fbba3ae24e0ca11a92d7bb03f351f8230670edcef1.m3u8
-Channel A,https://epg.pw/stream/04e101b8e9ec7fc2ecf74cb42e16c0d935cd48e05cf5c8f529b3181319c4f4fe.m3u8
-Channel A,https://fhs8036.bd-61.ktcdn.co.kr/chalive/_definst_/atv3/chunklist_w357570094.m3u8
-Channel A,https://epg.pw/stream/baf30d79220cf9e9038773e0f05f29ebc553d595636ce6b0400a0e3c4aa0c141.m3u8
 Channel A,http://www.hwado.net/webtv/catv/52.php
 Channel A,http://hls.ye23.vip/hk/Channel.php
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=15
 Channel A,http://han.ddkdxmkj.com/api/han123.php?id=19
-Channel A,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=C2501&q=default
-Channel A,http://mytv.dothome.co.kr/ch/catv/212.php
-Channel A,http://channelalive.ktcdn.co.kr/chalivepc/_definst_/atv2/playlist.m3u8
 CHANNEL A+,http://119.192.58.101:9981/stream/channelid/1249741512?ticket=5D3C829CF5E29840BED66E5981B6F2B66B5EBB82&profile=pass
 KBS DRAMA,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS DRAMA,https://epg.pw/stream/effbd6f0e6a7003322fbd3c134e06a751fe14c2e827a496f37d352dfd8660109.ctv
@@ -91,6 +91,7 @@ KBS DRAMA,https://epg.pw/stream/538baa96c4b508ca2d45bb3ea610fd4601d229dd26c2c832
 KBS DRAMA,https://code.vthanhtivi.pw/getlink/kbs/N91/playlist.m3u8
 KBS DRAMA,https://epg.pw/stream/b15aad8f626e01dc7a011b0c898389ded005232c5d34e5cf263e163c42ce463d.ctv
 KBS DRAMA,https://epg.pw/stream/91ebf3c88dd5098ae4c6dcad2f583d3727f2aa308553de376b72bf71e76e57ef.ctv
+MBC DRAMA,http://mytv.dothome.co.kr/ch/catv/26.php
 MBC DRAMA,http://119.192.58.101:9981/stream/channelid/2058069966?ticket=40CB40A820865B961936F2C71C17576BE0526E06&profile=pass
 MBC DRAMA,http://119.192.58.101:9981/stream/channelid/1854608538?ticket=6C2210C958D71194DE48E42EAD84704ECE6E3DCF&profile=pass
 MBC DRAMA,http://58.142.60.62:9981/stream/channelid/1480601091
@@ -101,19 +102,14 @@ SBS PLUS,http://58.142.60.62:9981/stream/channelid/1517719782
 SBS PLUS,http://han.ddkdxmkj.com/api/sbs.php?id=3
 SBS PLUS,http://ye23.win/iptv/sbs5.1.php?id=S03
 SBS PLUS,http://itskoi.dothome.co.kr/sbs.php?id=S03
+KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://tv.iill.top/kbs/14&p=0
 KBS W,http://us1.qqvr.online:9000/live.m3u8?c=15
 KBS W,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS W,https://epg.pw/stream/a0394b32a64c280d51c57c81cad605d7e57c9703d3a19d4808dbda3ab536039e.ctv
-KBS W,https://epg.pw/stream/e96a867a5fb7d4ed6f113d7b43479dd40c4b6319643138e2e7e689e456ece578.ctv
-KBS W,https://epg.pw/stream/28f3524227d84af6a4dc48691f493d0ae706daf74d57d5d1cff32c41b284c98e.m3u8
-KBS W,https://epg.pw/stream/a2a622e171a9c746699efe6fcdea4a86053a44a421868886e6d824ab463ce213.m3u8
-KBS W,https://epg.pw/stream/6f5e76c4531b1c6160326aafee8bbea510ca4f6a138e5a1fc6e2dff6a13fca6d.ctv
-KBS W,https://epg.pw/stream/275ace2dd9475899fde691d6df0c1302708c008ca4ffb274961dc33fe02b9c83.m3u8
 KBS W,https://code.vthanhtivi.pw/getlink/kbs/14/playlist.m3u8
 KBS W,http://ye23.vip/z7z8/2021/kbs2020.php?id=3
-KBS W,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://livestreams.mewinnie.gq/livestreams/kr_live/kbs.php?id=14
 KBS W,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KBS W,https://vips-livecdn.fptplay.net/hda3/kbs_4000.stream/chunklist.m3u8
@@ -122,9 +118,8 @@ KBS W,http://line.premiumpowers.net:80/Manuel/1234567/941604
 KBS W,http://luotuo.ycchenrong.cn/dl/kbs.php?id=3
 KBS W,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+KoreaTV,https://hlive.ktv.go.kr/live/klive_h.stream/chunklist_w667562990.m3u8
 KoreaTV,https://epg.pw/stream/2993da41063a3be7a1a367b111251458c87041a59e1f839a58e048a4ab103b26.m3u8
-KoreaTV,https://epg.pw/stream/82034f50580ac0c94f2685fe67523c478b36cb49110cc68eb7f192ce8edec80a.m3u8
-KoreaTV,https://epg.pw/stream/a77511d8a8f673b3204180739b8bf4c78d15f92b848db2bb94b26a12aa23f122.m3u8
 KoreaTV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 KoreaTV,http://han.ddkdxmkj.com/api/han123.php?id=9
 KoreaTV,http://ye23.win/iptv/korea2021.php?id=korea
@@ -176,13 +171,13 @@ JTBC4,http://110.9.159.82:9981/stream/channelid/1850641228
 JTBC4,http://221.148.26.130:9981/stream/channelid/29
 JTBC4,https://kr-streams.onrender.com/scraper?channel=523
 JTBC4,https://allanf181.github.io/adaptive-streams/streams/kr/JTBC4.m3u8
-NORTH CX,https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.net
+NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
+https://artv.watch/generate_playlist.php?channel=KoreanCentralTelevision.kp
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd?checkedby:iptvcat.com
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
 NORTH CX,https://tv.nknews.org/tvdash/stream.mpd
-OCN,http://110.47.7.144:9981/stream/channelid/48
-OCN,p2p://generationnexxxt.com:19806/5fce44dd2efb4d72879eb4f033db50a7
-OCN,http://58.142.60.62:9981/stream/channelid/1732991760
+OCN,http://202.60.106.14:8080/207/playlist.m3u8
+OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3.ts
 OCN,http://193.42.99.130:23405/OCN/playlist.m3u8
 OCN,http://gg.gg:80/Ha_Noi_IPTV_17-OCN-Phim_truyen_Hang_dau
 OCN,http://221.167.205.241:9981/stream/channelid/33
@@ -202,6 +197,7 @@ Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 MBC M,http://58.142.60.62:9981/stream/channelid/1920571670
 MBC pop,https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=M10&q=default
 MUSIC TOP,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+Kpop,https://ythls.armelin.one/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
 Kpop,http://jp1.yiweb.net:8880/live.m3u8?c=119
 Kpop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Kpop,http://ye23.win/iptv/sbs5.1.php?id=S20
@@ -241,7 +237,7 @@ MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a979955
 MBC-America,https://epg.pw/stream/ef61a7ab2d1f203307bc8a7c31a1538927a7d63769a35854ea5fbea581aaed56.m3u8
 MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
 MBC-America,https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/playlist.m3u8
-MBC every1,http://119.197.107.139:9981/stream/channelid/45
+MBC every1,https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 MBC every1,http://58.142.60.62:9981/stream/channelid/813306955?profile=pass
 TVN ASIA,http://line.premiumpowers.net:80/Manuel/1234567/941623
 TVN ASIA,http://210.210.155.37/dr9445/h/h20/index.m3u8
@@ -354,13 +350,14 @@ GENIE TV,http://14.49.86.138:9981/stream/channelid/958661849
 GENIE TV,http://175.207.220.199:9981/stream/channelid/79438460?ticket=
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b2500000.m3u8
 GENIE TV,https://wms211-kortv.akamaized.net/a_live/34402987/smil:20ch211.smil/chunklist_b1800000.m3u8
-TvN Movies,http://198.16.100.90:8278/Tvnmovie/playlist.m3u8?tid=MFFF1556953015569530&ct=19254&tsum=f4498d6da7a4ccf9064e26396a90e4a7
-tvN Movies,https://epg.pw/stream/907a2677d1e726b269c145ab79a811140383fe39a1a617a00a2cbddaccd7f547.ctv
-tvN Movies,http://210.210.155.37/dr9445/h/h21/index.m3u8
-tvN Movies,p2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
-tvN Movies,http://210.210.155.35:80/session/8772b294-c460-11ed-bd85-900cbba69053/dr9445/h/h21/02.m3u8
-tvN Movies,http://210.210.155.35:80/dr9445/h/h21/02.m3u8
-tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
+TvN Movies,http://210.210.155.37/session/85aac5f0-0523-11ef-b02e-8b77abc5a321/dr9445/h/h21/02.m3u8
+TvN Movies,https://epg.pw/stream/2d35a3c5503c92589205bc51c7f0df19d76246814d6f09fa3c8e454726e0a9dd.ctv
+TvN Movies,https://epg.pw/stream/907a2677d1e726b269c145ab79a811140383fe39a1a617a00a2cbddaccd7f547.ctv
+TvN Movies,http://210.210.155.37/dr9445/h/h21/index.m3u8
+TvN Movies,p2p://generationnexxxt.com:19806/0c39816f6b864d57a8a7c9c956e31952
+TvN Movies,http://210.210.155.35:80/session/8772b294-c460-11ed-bd85-900cbba69053/dr9445/h/h21/02.m3u8
+TvN Movies,http://210.210.155.35:80/dr9445/h/h21/02.m3u8
+TvN Movies,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC320002200
 TVN SHOW,http://58.142.60.62:9981/stream/channelid/814405847
 TVN Story,http://121.176.2.26:9981/stream/channelid/4
 TVN Story,https://cutt.ly/Ha_Noi_IPTV_21-tvN_Story-Cau_chuyen_Dac_sac
@@ -404,6 +401,7 @@ CMC TV,http://49.167.236.190:9981/stream/channelid/93
 FTV,https://kr-streams.onrender.com/scraper?channel=239
 FTV,http://mytv.dothome.co.kr/ch/catv/255.php
 FTV,https://allanf181.github.io/adaptive-streams/streams/kr/FTV.m3u8
+OUN,https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 TBS,http://ye23.win/iptv/korea2021.php?id=TBS-a
 TBS,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
@@ -476,7 +474,7 @@ Mnet,mitv://generationnexxxt.com:19806/e4f2d41cce0c4f85a2019f13d1bb2aeb.ts
 tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7.ts
 OCN,mitv://generationnexxxt.com:19806/0fae247ef984444d9149e2c20be2c8b3.ts
 OCN Movies,mitv://generationnexxxt.com:19806/328994e1d61946198d921e2fe2bbc1a0.ts
-TV Chosun,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e.ts
+inet,mitv://generationnexxxt.com:19806/f2bbdada428d45c298a039f3bdf0f12e.ts
 MBC,mitv://generationnexxxt.com:19806/36faab63fc2e4983b559a7e8f2002e30.ts
 MBN,mitv://generationnexxxt.com:19806/09dbf5da37f9450c9bca9c7dabadf2bd.ts
 Tooniverse,mitv://generationnexxxt.com:19806/3c1da427c435451fa526abe4d1c5d446.ts
