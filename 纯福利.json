@@ -717,8 +717,8 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+      "jar": "https://8049.kstore.space/tv/JAR/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
+		"ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
       "key": "农民2",
@@ -726,7 +726,7 @@
       "type": 3,
       "api": "csp_NongMin",
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/duo.jar;md5;F4AC77BFB87AE8D586CC99D6E15F6282",
-      "searchable": 1,
+	  "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
