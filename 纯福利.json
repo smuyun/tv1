@@ -841,7 +841,7 @@
       "api": "csp_XBPQ",
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar",
       "searchable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/一品影院.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/一品影院.json"
     },
     {
       "key": "appmovie",
@@ -865,7 +865,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/qiyou.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/qiyou.json"
     },
     {
       "key": "csp_XYQHiker_河马短剧",
@@ -876,7 +876,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
-      "ext": "https://8049.kstore.space/tv/JSON/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.json"
     },
     {
       "key": "优影视",
@@ -887,7 +887,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/优短剧.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/优短剧.json"
     },
     {
       "key": "苹果影视",
@@ -1018,7 +1018,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/修罗影视.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/修罗影视.json"
     },
     {
       "key": "py猎手",
@@ -1080,7 +1080,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
-      "ext": "https://8049.kstore.space/tv/JSON/wogg.json?"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/wogg.json?"
     },
     {
       "key": "木偶",
@@ -1091,7 +1091,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
-      "ext": "https://8049.kstore.space/tv/JSON/mogg.json?"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/mogg.json?"
     },
     {
       "key": "csp_New6v",
@@ -1168,7 +1168,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://8049.kstore.space/tv/JSON/企鹅直播.json",
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/企鹅直播.json",
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/0407.jar"
     },
     {
@@ -1179,7 +1179,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/6V磁.json",
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/6V磁.json",
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/0606.jar"
     },
     {
@@ -1436,7 +1436,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/色花堂.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/色花堂.json"
     },
     {
       "key": "影视",
@@ -1468,7 +1468,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/300分类.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/300分类.json"
     },
     {
       "key": "努可影院",
@@ -1505,7 +1505,7 @@
       "filterable": 0,
       "timeout": 60,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c",
-      "ext": "https://8049.kstore.space/tv/JSON/token.json$$$https://git.acwing.com/smuyun/tv/-/raw/main/txt/pushshare.a.txt$$$db$$$1",
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/token.json$$$https://git.acwing.com/smuyun/tv/-/raw/main/txt/pushshare.a.txt$$$db$$$1",
       "style": {
         "type": "list"
       }
@@ -1791,7 +1791,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/经典三部曲.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/经典三部曲.json"
     },
     {
       "key": "52瓜瓜",
@@ -1805,7 +1805,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/52瓜瓜.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/52瓜瓜.json"
     },
     {
       "key": "漂亮妹子",
@@ -1819,7 +1819,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/漂亮MM.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/漂亮MM.json"
     },
     {
       "key": "乐哥❤️黑料",
@@ -1833,7 +1833,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/乐哥❤️黑料.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/乐哥❤️黑料.json"
     },
     {
       "key": "py_kemono优化",
@@ -1915,7 +1915,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/水果派.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/水果派.json"
     },
     {
       "key": "神秘影院",
@@ -2004,7 +2004,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/精工厂.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/精工厂.json"
     },
     {
       "key": "文件夹",
@@ -2016,7 +2016,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/文件夹.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/文件夹.json"
     },
     {
       "key": "自排偷拍",
@@ -2028,7 +2028,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/自排偷拍.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/自排偷拍.json"
     },
     {
       "key": "高端外泄",
@@ -2040,7 +2040,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/高端外泄.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/高端外泄.json"
     },
     {
       "key": "初の体验",
@@ -2052,7 +2052,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/初の体验.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/初の体验.json"
     },
     {
       "key": "溏心次元",
@@ -2064,7 +2064,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/溏心次元.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/溏心次元.json"
     },
     {
       "key": "醉奶吧",
@@ -2076,7 +2076,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/醉奶吧.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/醉奶吧.json"
     },
     {
       "key": "麻豆视频",
@@ -2088,7 +2088,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/麻豆视频.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/麻豆视频.json"
     },
     {
       "key": "偷拍自拍",
@@ -2100,7 +2100,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/偷拍自拍.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/偷拍自拍.json"
     },
     {
       "key": "美人吹箫",
@@ -2112,7 +2112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/美人吹箫.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/美人吹箫.json"
     },
     {
       "key": "55视频",
@@ -2124,7 +2124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/55视频.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/55视频.json"
     },
     {
       "key": "18XXX",
@@ -2136,7 +2136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/18XXX.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/18XXX.json"
     },
     {
       "key": "窜天猴",
@@ -2148,7 +2148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/窜天猴.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/窜天猴.json"
     },
     {
       "key": "GDD视频",
@@ -2160,7 +2160,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/GDD视频.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/GDD视频.json"
     },
     {
       "key": "桃花浪",
@@ -2172,7 +2172,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/桃花浪.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/桃花浪.json"
     },
     {
       "key": "3Q",
@@ -2184,7 +2184,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/3Q.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/3Q.json"
     },
     {
       "key": "好色™ Tv",
@@ -2207,7 +2207,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/百灵鸟在线.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/百灵鸟在线.json"
     },
     {
       "key": "樱樱女子",
@@ -2219,7 +2219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/樱樱女子.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/樱樱女子.json"
     },
     {
       "key": "激动网",
@@ -2231,7 +2231,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/激动网.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/激动网.json"
     },
     {
       "key": "成鸡思汉",
@@ -2243,7 +2243,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/成鸡思汉.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/成鸡思汉.json"
     },
     {
       "key": "麻豆",
@@ -2817,7 +2817,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/Aries.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/Aries.json"
     },
     {
       "key": "Free",
@@ -2845,7 +2845,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/JSON/17AV.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/json/17AV.json"
     },
     {
       "key": "比卡",
