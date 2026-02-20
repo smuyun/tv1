@@ -14,50 +14,12 @@
             "indexs": 1,
             "ext": "./lib/douban.json"
         },
-      {
-  "key": "myphp",
-  "name": "我的PHP源",
-  "type": 4,
-  "api": "https://8049.kstore.space/tv/PHP/全能王终端兼容修复版.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
-},
-{
-  "key": "1php",
-  "name": "麻雀视频PHP",
-  "type": 4,
-  "api": "https://8049.kstore.space/tv/PHP/麻雀视频.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
-},
-{
-  "key": "2php",
-  "name": "哇哇影视PHP",
-  "type": 4,
-  "api": "https://8049.kstore.space/tv/PHP/哇哇影视.php",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0
-},
-{
-            "key": "php_server",
-            "name": "php爬虫",
-            "type": 3,
-            "api": "csp_PhpServer",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 120,
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/fm_xMydev.jar"
-        },
 {
       "key": "苹果影视C",
       "name": "苹果｜影视",
       "type": 3,
       "api": "csp_LiteApple",
-	  "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
+	  "jar": "https://8049.kstore.space/tv/JAR/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -96,7 +58,7 @@
       "name": "🍉瓜子┃App",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+ "jar": "https://8049.kstore.space/tv/JAR/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
