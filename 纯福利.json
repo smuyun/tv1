@@ -226,7 +226,7 @@
       "key": "金牌影视2",
       "name": "金牌影视（py）",
       "type": 3,
-      "api": "https://8049.kstore.space/tv/py/金牌影视.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/金牌影视.py",
   "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
       "searchable": 1,
       "quickSearch": 1,
@@ -1024,7 +1024,7 @@
       "key": "py猎手",
       "name": "拾光☪猎手PY",
       "type": 3,
-      "api": "https://8049.kstore.space/tv/py/py_电影猎手.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/py_电影猎手.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -1606,7 +1606,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
-      "api": "https://8049.kstore.space/tv/py/lavAPP.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/lavAPP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1618,7 +1618,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
-      "api": "https://8049.kstore.space/tv/py/%E5%A5%BD%E8%89%B2Tv.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/%E5%A5%BD%E8%89%B2Tv.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1630,7 +1630,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
-      "api": "https://8049.kstore.space/tv/py/%E5%B0%8F%E7%BA%A2%E8%96%AFAPP.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/%E5%B0%8F%E7%BA%A2%E8%96%AFAPP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1842,7 +1842,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/kemon.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/kemon.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1853,7 +1853,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/yyds直播.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/yyds直播.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1864,7 +1864,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/乐哥玩物社区.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/乐哥玩物社区.py",
       "jar": "https://8049.kstore.space/tv/lib/xyq.jar",
       "order_num": 5,
       "ext": ""
@@ -1924,7 +1924,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/神秘影院.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/神秘影院.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1935,7 +1935,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/推特APP.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/推特APP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1946,7 +1946,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/E佬通用视频.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/E佬通用视频.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1957,7 +1957,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/E佬通用视频 (3).py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/E佬通用视频 (3).py",
       "order_num": 5,
       "ext": ""
     },
@@ -1968,7 +1968,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/七哥大洋马.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/七哥大洋马.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1979,7 +1979,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/菠萝七区.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/菠萝七区.py",
       "order_num": 5,
       "ext": ""
     },
@@ -1990,7 +1990,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/103.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/103.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2193,7 +2193,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/好色tv.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/好色tv.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2271,7 +2271,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/黄色仓库.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/黄色仓库.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2282,7 +2282,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/18.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/18.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2293,7 +2293,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/玩具社区.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/玩具社区.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2304,7 +2304,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/fullhd.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/fullhd.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2315,7 +2315,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/DSYS.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/DSYS.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2326,7 +2326,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/乐哥欧美.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/乐哥欧美.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2337,7 +2337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/51吸瓜动态版.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/51吸瓜动态版.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2348,7 +2348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/91rb.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/91rb.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2359,7 +2359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/4k.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/4k.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2370,7 +2370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/黄色仓库.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/黄色仓库.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2381,7 +2381,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/四虎视频.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/四虎视频.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2392,7 +2392,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/好色tv.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/好色tv.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2403,7 +2403,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/一个区.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/一个区.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2414,7 +2414,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/七区.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/七区.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2425,7 +2425,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/九个区.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/九个区.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2436,7 +2436,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/香蕉.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/香蕉.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2447,7 +2447,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/妲己.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/妲己.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2458,7 +2458,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/小红薯APP.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/小红薯APP.py",
       "order_num": 5,
       "ext": ""
     },
@@ -2469,7 +2469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://8049.kstore.space/tv/py/推特APP.py",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/推特APP.py",
       "order_num": 5,
       "ext": ""
     },
