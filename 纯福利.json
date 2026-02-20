@@ -57,6 +57,7 @@
       "name": "苹果｜影视",
       "type": 3,
       "api": "csp_LiteApple",
+	  "jar": "https://8049.kstore.space/tv/JAR/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
