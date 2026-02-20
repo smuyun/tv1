@@ -384,7 +384,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/免费影院.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/免费影院.json"
     },
     {
       "key": "糯米1",
@@ -1797,7 +1797,7 @@
       "name": "52瓜瓜",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/lib/新1.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/新1.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -1811,7 +1811,7 @@
       "name": "飘亮妹妹",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/lib/xbpq250816.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/xbpq250816.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -1825,7 +1825,7 @@
       "name": "乐哥❤️黑料",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/lib/新1.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/新1.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -1864,7 +1864,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/乐哥玩物社区.py",
-      "jar": "https://8049.kstore.space/tv/lib/xyq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/xyq.jar",
       "order_num": 5,
       "ext": ""
     },
@@ -1873,7 +1873,7 @@
       "name": "溏心厂商",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/lib/xbpq250816.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/xbpq250816.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1897,7 +1897,7 @@
       "name": "Taiav",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/lib/xbpq250816.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/xbpq250816.jar",
       "ext": {
         "直接播放": "1",
         "分类url": "https://rapidtai.com/cn/{cateId}?page={catePg}",
@@ -2604,7 +2604,7 @@
       "key": "色播",
       "name": "🔞色播直播",
       "type": 3,
-      "api": "https://8049.kstore.space/tv/lib/apiv2134色播.js",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/apiv2134色播.js",
       "searchable": 1,
       "changeable": 0
     },
@@ -2620,7 +2620,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/941c.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/941c.json"
     },
     {
       "key": "83视频",
@@ -2634,7 +2634,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/83视频.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/83视频.json"
     },
     {
       "key": "魔法少女",
@@ -2648,7 +2648,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/魔法少女.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/魔法少女.json"
     },
     {
       "key": "七色谷",
@@ -2662,7 +2662,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/七色谷.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/七色谷.json"
     },
     {
       "key": "桃花",
@@ -2676,7 +2676,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/桃花.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/桃花.json"
     },
     {
       "key": "淘精岁月",
@@ -2690,7 +2690,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/淘精岁月.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/淘精岁月.json"
     },
     {
       "key": "醉奶吧",
@@ -2704,7 +2704,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/醉奶吧.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/醉奶吧.json"
     },
     {
       "key": "超级精品",
@@ -2718,7 +2718,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/超级精品.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/超级精品.json"
     },
     {
       "key": "公子别走",
@@ -2732,7 +2732,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/公子别走.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/公子别走.json"
     },
     {
       "key": "撸铁汉",
@@ -2746,7 +2746,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/金陵撸铁汉.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/金陵撸铁汉.json"
     },
     {
       "key": "咪咪女孩",
@@ -2760,7 +2760,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/咪咪女孩.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/咪咪女孩.json"
     },
     {
       "key": "91速播",
@@ -2774,7 +2774,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/91速播.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/91速播.json"
     },
     {
       "key": "69超级影院",
@@ -2788,7 +2788,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/69超级影院.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/69超级影院.json"
     },
     {
       "key": "淫妻录",
@@ -2802,7 +2802,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/淫妻录.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/淫妻录.json"
     },
     {
       "key": "Aries",
@@ -2830,7 +2830,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/Free.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/Free.json"
     },
     {
       "key": "17AV",
@@ -2858,7 +2858,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/比卡.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/比卡.json"
     },
     {
       "key": "FC2",
@@ -2872,7 +2872,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/FC2官网.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/FC2官网.json"
     },
     {
       "key": "黑猫AV",
@@ -2886,7 +2886,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/黑猫AV.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/黑猫AV.json"
     },
     {
       "key": "leakAV",
@@ -2900,7 +2900,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/leakAV.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/leakAV.json"
     },
     {
       "key": "insta直播",
@@ -2914,7 +2914,7 @@
       },
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://8049.kstore.space/tv/lib/insta直播.json"
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/lib/insta直播.json"
     },
     {
       "key": "榨汁",
