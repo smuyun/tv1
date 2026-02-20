@@ -18,7 +18,7 @@
   "key": "myphp",
   "name": "我的PHP源",
   "type": 4,
-  "api": "http://127.0.0.1:9980/全能王终端兼容修复版.php",
+  "api": "https://8049.kstore.space/tv/PHP/全能王终端兼容修复版.php",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0
@@ -27,7 +27,7 @@
   "key": "1php",
   "name": "麻雀视频PHP",
   "type": 4,
-  "api": "http://127.0.0.1:9980/麻雀视频.php",
+  "api": "https://8049.kstore.space/tv/PHP/麻雀视频.php",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0
@@ -36,7 +36,7 @@
   "key": "2php",
   "name": "哇哇影视PHP",
   "type": 4,
-  "api": "http://127.0.0.1:9980/哇哇影视.php",
+  "api": "https://8049.kstore.space/tv/PHP/哇哇影视.php",
   "searchable": 1,
   "quickSearch": 1,
   "changeable": 0
@@ -50,14 +50,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "timeout": 120,
-            "jar": "./jar/fm_xMydev.jar"
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/fm_xMydev.jar"
         },
 {
       "key": "苹果影视C",
       "name": "苹果｜影视",
       "type": 3,
       "api": "csp_LiteApple",
-	  "jar": "https://8049.kstore.space/tv/JAR/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
+	  "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -265,6 +265,7 @@
       "name": "金牌影视（py）",
       "type": 3,
       "api": "https://8049.kstore.space/tv/py/金牌影视.py",
+  "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -277,7 +278,7 @@
       "name": "七星🌟┃烧火影视",
       "type": 3,
       "api": "csp_SaoHuo",
-      "jar": "https://8049.kstore.space/tv/JAR/qxyc.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/qxyc.jar",
       "playerType": 2,
       "ext": "https://shdy5.us"
     },
@@ -286,7 +287,7 @@
       "name": "七星🌟┃瓜子影视",
       "type": 3,
       "api": "csp_Gz360",
-      "jar": "https://8049.kstore.space/tv/JAR/qxyc.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/qxyc.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -296,7 +297,7 @@
       "name": "七星🌟┃1905",
       "type": 3,
       "api": "csp_Web1905",
-      "jar": "https://8049.kstore.space/tv/JAR/qxyc.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/qxyc.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0
@@ -415,7 +416,7 @@
       "name": "免费影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -697,7 +698,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/HeChengChaXiu.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/HeChengChaXiu.jar"
     },
     {
       "key": "腾讯",
@@ -707,7 +708,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/HeChengChaXiu.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/HeChengChaXiu.jar"
     },
     {
       "key": "芒果S",
@@ -717,7 +718,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/HeChengChaXiu.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/HeChengChaXiu.jar"
     },
     {
       "key": "优酷",
@@ -727,7 +728,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/HeChengChaXiu.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/HeChengChaXiu.jar"
     },
     {
       "key": "豆瓣",
@@ -755,7 +756,7 @@
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
     },
     {
@@ -763,7 +764,7 @@
       "name": "👶┃旺旺┃影视",
       "type": 3,
       "api": "csp_NongMin",
-      "jar": "https://8049.kstore.space/tv/JAR/duo.jar;md5;F4AC77BFB87AE8D586CC99D6E15F6282",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/duo.jar;md5;F4AC77BFB87AE8D586CC99D6E15F6282",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -862,7 +863,7 @@
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar",
       "ext": {
         "url": "https://api1.bffree.cn",
         "dataKey": "2015692015692015",
@@ -876,7 +877,7 @@
       "name": "💢简影💈一品",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/spider.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar",
       "searchable": 1,
       "ext": "https://8049.kstore.space/tv/JSON/一品影院.json"
     },
@@ -912,14 +913,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/tvkj.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
       "ext": "https://8049.kstore.space/tv/JSON/%E6%B2%B3%E9%A9%AC%E7%9F%AD%E5%89%A7.json"
     },
     {
       "key": "优影视",
       "name": "✨优短剧✨",
       "type": 3,
-      "jar": "https://8049.kstore.space/tv/JAR/sjc.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/sjc.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -1082,7 +1083,7 @@
       "name": "拾光☪晨光",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xmbjm.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xmbjm.jar",
       "ext": {
         "简介": "剧情介绍: +white-space: initial;\">&&</div>",
         "数组": "fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
@@ -1099,7 +1100,7 @@
       "name": "拾光☪苹果",
       "type": 3,
       "api": "csp_Xpg",
-      "jar": "https://8049.kstore.space/tv/JAR/xmbjm.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xmbjm.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1116,7 +1117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/tvkj.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
       "ext": "https://8049.kstore.space/tv/JSON/wogg.json?"
     },
     {
@@ -1127,13 +1128,13 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/tvkj.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
       "ext": "https://8049.kstore.space/tv/JSON/mogg.json?"
     },
     {
       "key": "csp_New6v",
       "name": "拾光☪新6V",
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar",
       "type": 3,
       "api": "csp_New6v",
       "searchable": 1,
@@ -1146,7 +1147,7 @@
       "name": "拾光☪美剧迷",
       "type": 3,
       "api": "csp_MeijuMi",
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -1156,7 +1157,7 @@
       "name": "移动｜APP",
       "type": 3,
       "api": "csp_YD",
-      "jar": "https://8049.kstore.space/tv/JAR/spider01.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider01.jar",
       "searchable": 1,
       "quickSearch": 1
     },
@@ -1164,14 +1165,14 @@
       "key": "云播影视",
       "name": "云播｜影视",
       "type": 3,
-      "jar": "https://8049.kstore.space/tv/JAR/spider01.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider01.jar",
       "api": "csp_Tvyb"
     },
     {
       "key": "奇优影视C",
       "name": "奇优｜影视",
       "type": 3,
-      "jar": "https://8049.kstore.space/tv/JAR/spider01.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider01.jar",
       "api": "csp_Qiyou"
     },
     {
@@ -1179,7 +1180,7 @@
       "name": "全看｜影视",
       "type": 3,
       "api": "csp_Quanwk",
-      "jar": "https://8049.kstore.space/tv/JAR/spider01.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider01.jar",
       "ext": "https://www.91qkw.com"
     },
     {
@@ -1191,7 +1192,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://www.xb6v.com/",
-      "jar": "https://8049.kstore.space/tv/JAR/fan-1.txt;md5;ca8aebf22c8948c98104d094d5f87c73"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/fan-1.txt;md5;ca8aebf22c8948c98104d094d5f87c73"
     },
     {
       "key": "csp_XPath_企鹅",
@@ -1206,7 +1207,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://8049.kstore.space/tv/JSON/企鹅直播.json",
-      "jar": "https://8049.kstore.space/tv/JAR/0407.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/0407.jar"
     },
     {
       "key": "csp_XBPQ_6V",
@@ -1217,7 +1218,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://8049.kstore.space/tv/JSON/6V磁.json",
-      "jar": "https://8049.kstore.space/tv/JAR/0606.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/0606.jar"
     },
     {
       "key": "豪华资源",
@@ -1350,7 +1351,7 @@
       "name": "📚爱上🔹听书",
       "type": 3,
       "api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
-      "jar": "https://8049.kstore.space/tv/JAR/tvkj.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/tvkj.jar",
       "ext": "https://8049.kstore.space/tv/JS/%E7%88%B1%E4%B8%8A%E4%BD%A0%E5%90%AC%E4%B9%A6%E7%BD%91.js"
     },
     {
@@ -1398,7 +1399,7 @@
       "name": "OK色┃资源",
       "type": 0,
       "api": "https://api.okzy.org/api.php/provide/vod/from/okm3u8/at/xml",
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1458,7 +1459,7 @@
       "name": "拾光☪含羞草",
       "type": 3,
       "api": "https://8049.kstore.space/tv/JS/drpy2.min.js",
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
@@ -1469,7 +1470,7 @@
       "name": "拾光☪花园魔法",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1494,14 +1495,14 @@
       "api": "csp_XMVideo",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/182.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/182.jar"
     },
     {
       "key": "csp_XYQHiker_300分类",
       "name": "♥️300分类♥️",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://8049.kstore.space/tv/JAR/Aoki.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/Aoki.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1512,7 +1513,7 @@
       "name": "🔞努可影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/hl.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/hl.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1541,7 +1542,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "jar": "https://8049.kstore.space/tv/JAR/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/pg23a94bb.jar;md5;73b12022e75e5139dc39e9690727021c",
       "ext": "https://8049.kstore.space/tv/JSON/token.json$$$https://git.acwing.com/smuyun/tv/-/raw/main/txt/pushshare.a.txt$$$db$$$1",
       "style": {
         "type": "list"
@@ -1642,7 +1643,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/xyq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
       "api": "https://8049.kstore.space/tv/py/lavAPP.py",
       "order_num": 5,
       "ext": ""
@@ -1654,7 +1655,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/xyq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
       "api": "https://8049.kstore.space/tv/py/%E5%A5%BD%E8%89%B2Tv.py",
       "order_num": 5,
       "ext": ""
@@ -1666,7 +1667,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/xyq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyq.jar",
       "api": "https://8049.kstore.space/tv/py/%E5%B0%8F%E7%BA%A2%E8%96%AFAPP.py",
       "order_num": 5,
       "ext": ""
@@ -1712,7 +1713,7 @@
       "name": "💃3D💋",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/XBPQ-1.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/XBPQ-1.jar",
       "ext": {
         "主页url": "https://3d-hentai.org/",
         "数组": "class=\"video-block&&class=\"video-datas\">&&</div",
@@ -1801,7 +1802,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://api.xv-api.com/api",
-      "jar": "https://8049.kstore.space/tv/JAR/Xv.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/Xv.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -1821,7 +1822,7 @@
       "name": "经典三部曲",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -1948,7 +1949,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2037,7 +2038,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2049,7 +2050,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2061,7 +2062,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2073,7 +2074,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2085,7 +2086,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2097,7 +2098,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2109,7 +2110,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2121,7 +2122,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2133,7 +2134,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2145,7 +2146,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2157,7 +2158,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2169,7 +2170,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2181,7 +2182,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2193,7 +2194,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2205,7 +2206,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2217,7 +2218,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2240,7 +2241,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2252,7 +2253,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2264,7 +2265,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2276,7 +2277,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -2289,7 +2290,7 @@
       "changeable": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "style": {
         "ratio": 1.7
       },
@@ -2589,7 +2590,7 @@
       "key": "911爆料网",
       "name": "911爆料网",
       "type": 3,
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "ext": {
         "作者": "✨集✨",
@@ -2651,7 +2652,7 @@
       "name": "㊙️┃941c",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2665,7 +2666,7 @@
       "name": "㊙️83视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2679,7 +2680,7 @@
       "name": "㊙️魔法少女",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2693,7 +2694,7 @@
       "name": "㊙️七色谷",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2707,7 +2708,7 @@
       "name": "㊙️桃花",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2721,7 +2722,7 @@
       "name": "㊙️淘精岁月",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2735,7 +2736,7 @@
       "name": "㊙️醉奶吧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2749,7 +2750,7 @@
       "name": "㊙️超级精品",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2763,7 +2764,7 @@
       "name": "㊙️公子别走",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2777,7 +2778,7 @@
       "name": "㊙️金陵撸铁汉",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2791,7 +2792,7 @@
       "name": "㊙️咪咪女孩",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2805,7 +2806,7 @@
       "name": "㊙️91速播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2819,7 +2820,7 @@
       "name": "㊙️69超级影院",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2833,7 +2834,7 @@
       "name": "㊙️淫妻录",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2847,7 +2848,7 @@
       "name": "㊙️Aries",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2861,7 +2862,7 @@
       "name": "㊙️|Free",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2875,7 +2876,7 @@
       "name": "㊙️|17AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2889,7 +2890,7 @@
       "name": "比卡",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2903,7 +2904,7 @@
       "name": "FC2官网",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2917,7 +2918,7 @@
       "name": "黑猫AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2931,7 +2932,7 @@
       "name": "leakAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2945,7 +2946,7 @@
       "name": "insta直播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "style": {
         "ratio": 1.43
@@ -2957,7 +2958,7 @@
     {
       "key": "榨汁",
       "name": "榨汁姐",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -2982,7 +2983,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -3011,13 +3012,13 @@
       "filterable": 1,
       "timeout": 60,
       "ext": "null$$$null$$$1",
-      "jar": "https://8049.kstore.space/tv/JAR/moyu.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/moyu.jar"
     },
     {
       "key": "野鸡🐔TV",
       "name": "野鸡🐔TV",
       "type": 3,
-      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
@@ -3245,7 +3246,7 @@
       "type": 3,
       "api": "csp_Miss",
       "searchable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar",
       "recordable": 0,
       "style": {
         "type": "rect",
@@ -3319,7 +3320,7 @@
       "api": "csp_MiMei",
       "searchable": 1,
       "filterable": 1,
-      "jar": "https://8049.kstore.space/tv/JAR/svip.jar"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/svip.jar"
     },
     {
       "key": "pwd_袜子",
@@ -4279,7 +4280,7 @@
       {
          "name": "mfc-live",
          "type": 0,
-         "url": "http://127.0.0.1:9980/mfc-server.php?list"
+         "url": "https://8049.kstore.space/tv/PHP/mfc-server.php?list"
  },
       {
             "name": "成人传媒",
@@ -4426,5 +4427,3 @@
         }
     ]
 }
-        
-        
