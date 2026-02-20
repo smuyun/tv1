@@ -1,0 +1,172 @@
+{
+  "urls": [
+    {
+      "url": "https://8049.kstore.space/tv/5555.txt",
+      "name": "公共"
+    },
+    {
+      "url": "https://try.gogs.io/smuyun/tv/raw/main/5555.txt",
+      "name": "公共1"
+    },
+    {
+      "url": "https://catbox.n13.club/jk/jsm.json",
+      "name": "T4接口"
+    },
+    {
+      "url": "http://boluo.live",
+      "name": "网络1"
+    },
+    {
+      "url": "https://8049.kstore.space/PeekPili/zonghe.txt",
+      "name": "网络2"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "短剧📚在线"
+    },
+    {
+      "url": "http://jiduo.fpr.net/dj/",
+      "name": "短剧一"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/221222.txt",
+      "name": "SS1"
+    },
+    {
+      "url": "https://git.acwing.com/smuyun/tv/-/raw/main/csjk0.txt",
+      "name": "SKGIT"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/ziyong.txt",
+      "name": "ZIYONG"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/boxzy.json",
+      "name": "BOXZY"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/boxzy.json",
+      "name": "BOXZY一"
+    },
+    {
+      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/纯福利.json",
+      "name": "GITBOXZY一"
+    },
+    {
+      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/CFL.txt",
+      "name": "GITBOXZY二"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/csjk.txt",
+      "name": "测试接口"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/csjk0.txt",
+      "name": "测试接口0"
+    },
+    {
+      "url": "https://d.kstore.space/download/8049/tv/csjk-cc.txt",
+      "name": "CC接口1"
+    },
+    {
+      "url": "http://ok321.top/ok",
+      "name": "OK接口"
+    },
+    {
+      "url": "https://d.kstore.dev/download/8049/smy/JSON/okxl.json",
+      "name": "OK接口备用"
+    },
+    {
+      "url": "https://gitee.com/liquanzhong/liq/raw/master/omgA.json",
+      "name": "SHIGUANG接口备用"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/beiyong.txt",
+      "name": "备用接口"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/sgomg.json",
+      "name": "备用接口1"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/JSON/ziji.json",
+      "name": "备用接口2"
+    },
+    {
+      "url": "http://liulian1993.vip:5555/tvbox/lib/ziji/ziji.json",
+      "name": "备用接口3"
+    },
+    {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "道长📚在线"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "🚀挺好丨短剧大全"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/JSON/春盈天下.json",
+      "name": "春盈天下线路"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/csjk1.txt",
+      "name": "测试接口1"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/csjk2.txt",
+      "name": "测试接口2"
+    },
+    {
+      "url": "https://git.acwing.com/smuyun/api/-/raw/main/config.bin",
+      "name": "测试接口3"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/sgomg.json",
+      "name": "ZY拾光OMG备用"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/JSON/sgomgA1.json",
+      "name": "ZY拾光OMG备用1"
+    },
+    {
+      "url": "https://d.kstore.dev/download/4708/omg/omg.json",
+      "name": "ZY拾光OMG1"
+    },
+    {
+      "url": "https://hk.gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.json",
+      "name": "拾光1"
+    },
+    {
+      "url": "https://jiekou.netlify.app/svip.json",
+      "name": "拾光官源"
+    },
+    {
+      "url": "https://4708.kstore.space/omg/zy.json",
+      "name": "拾光官源1"
+    },
+    {
+      "url": "https://8049.kstore.space/tv/JSON/拾光.json",
+      "name": "拾光官源2"
+    },
+    {
+      "url": "https://jihulab.com/jigedos/dym/-/raw/master/master825.json",
+      "name": "非凡接口"
+    },
+    {
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+      "name": "挺好线路2"
+    },
+    {
+      "url": "https://8049.kstore.space/PeekPili/纯福利2.json",
+      "name": "CR1线路"
+    },
+    {
+      "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/纯福利.json",
+      "name": "CR3线路"
+    },
+    {
+      "url": "https://8049.kstore.space/PeekPili/纯福利.json",
+      "name": "CR2线路"
+    }
+  ]
+}
