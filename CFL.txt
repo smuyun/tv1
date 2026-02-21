@@ -151,7 +151,7 @@
       "name": "花花｜APP",
       "type": 3,
       "api": "csp_AppQi",
-"jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "changeable": "1",
       "quickSearch": 1,
       "filterable": 1,
@@ -162,7 +162,7 @@
       "name": "爱盈｜APP",
       "type": 3,
       "api": "csp_AppQi",
-"jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
@@ -4470,6 +4470,7 @@
         }
     ]
 }
+
 
 
 
