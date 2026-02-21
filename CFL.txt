@@ -3174,6 +3174,7 @@
       "name": "🔞鲨鱼av",
       "type": 3,
       "api": "csp_XYQHiker",
+"jar": "https://8049.kstore.space/tv/JAR/xyq.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -4398,4 +4399,5 @@
         }
     ]
 }
+
 
