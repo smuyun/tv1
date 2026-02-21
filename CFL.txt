@@ -235,6 +235,18 @@
       }
     },
     {
+      "key": "GUAZI",
+      "name":"瓜子影视(T4)",
+      "type": 4,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/GUAZI.php"
+    },
+{
+      "key": "DUANJU",
+      "name":"短剧(T4)",
+      "type": 4,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/duanju.php"
+    },
+{
       "key": "金牌影视3",
       "name":"金牌影视(T4)",
       "type": 4,
@@ -4405,6 +4417,7 @@
         }
     ]
 }
+
 
 
 
