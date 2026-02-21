@@ -97,6 +97,77 @@
       },
       "timeout": 10
     },
+{
+      "key": "麒麟",
+      "name": "麒麟｜APP",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": "GvE9VjZcKAqoJldDfjF/ECcNd1RQlbzQsau0pQNOL/YWscnJYTMdB9NKsGcYtklo"
+    },
+{
+      "key": "zhiqiu",
+      "name": "听风｜知秋",
+      "type": 3,
+      "api": "csp_zhiqiu",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "searchable": 1,
+      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
+    },
+{
+      "key": "魔方",
+      "name": "魔方｜APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "ext": "bB1iyOjtXWh234iOsqOpQ+DjgYRZW8TG8cxUqpxxK69Bp+glCgEE/kF5sOjSfZVtInmtaWIxfpMHTQ7tRS1J46/t6qvA/G5Vo6WHm5blH6Rh7Ev5Z9sCJDAQfJhaTFVr"
+    },
+    {
+      "key": "驿站",
+      "name": "驿站丨APP",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "ext": "pWLjYsLv1mpiSv+WqFNaIm66mYd3wj8hTGH18iQWPMOsJQb0GzUsB8gINUmUt9ktN2asJBwog2UGrTKUT2iY8NRz8qdgv5ctIC4NHKNarxWpwJPC52QcuqpdWKb8HK5mKYzOD7hj1nFrKL2gyacGOuMvUnqtIF5tWCjfnMws2K5omAGxO4lwWXOv7klFBE5q"
+    },
+    {
+      "key": "奇奇",
+      "name": "奇奇｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "changeable": "1",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "pWLjYsLv1mpiSv+WqFNaIkNDN8GUdrdHxZ3pBjorHTjYgR7KXXNFLGVkC9G50eeOLXtQy0ZDMb5f9pwYF7Vc6Wl4MkeDSUfZOTSVUMii296I02zMM5F2ary/97eVkmT0Y6FOe5TM3GzGIIdjctS4LsH18RBl6ndQqhmjeYb08l26YdnRobA7AzNqrcIRezchhBckk7QhS8czjb/IWnV5dr7R96NcsmAAFge+4T6YH/wBcpvrGGW+35IDRLQ2o1nR"
+    },
+    {
+      "key": "花花",
+      "name": "花花｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "changeable": "1",
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "N5u2FS3i/elUFAoSVYBzneo5w0aTnBRfZHmjD4nx23Nt35lc88GStfF3jcgPot4Hs4TudzVK2AObvLJT/IcsgjQFaLl2y6FF8byUTrYrdn3b7ZPDSKDMjxsl+6ks2PCIz8AC2UeJs2Sg7Uu6ZQz0PHaKfSJKZaOgODAmdfiFgUXxhW6LXlHXUiOrsw3GD1JtQO4SZugaGvlRHZ7oWTA0y2eBu7E8ZnFPVmNfMtWu8dE="
+    },
+    {
+      "key": "aiying",
+      "name": "爱盈｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "pWLjYsLv1mpiSv+WqFNaIiIe+MInC+MKo9Qp54n8L69caGGEFd0M5chE1Qtd1YwdzgI3e1uyrDVixRQBRk9RoWOhnReh6DoqtgoIwBUFAQieLIPEeSDJYjTVwvlm05+zfeSPbM/NKlCZtk7ylKXUSdj3p6UCylMo3Jdt9qDJmEPMA0zv2M8fE97v1F4BTBKQ0qgTbnMzV4MhRUEAc1ggTQ=="
+    },
     {
       "key": "热播",
       "name": "📺热播┃App",
