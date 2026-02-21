@@ -235,6 +235,12 @@
       }
     },
     {
+      "key": "金牌影视3",
+      "name":"金牌影视(T4)",
+      "type": 4,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/%E9%87%91%E7%89%8C.php"
+    },
+    {
       "key": "骚火影视",
       "name": "七星🌟┃烧火影视",
       "type": 3,
@@ -4399,5 +4405,6 @@
         }
     ]
 }
+
 
 
