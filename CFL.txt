@@ -235,22 +235,22 @@
       }
     },
     {
-      "key": "GUAZI",
-      "name":"瓜子影视(T4)",
+      "key": "山有木兮",
+      "name":"山有木兮(T4)",
       "type": 4,
-      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/GUAZI.php"
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/山有木兮.php"
     },
 {
       "key": "DUANJU",
-      "name":"短剧(T4)",
+      "name":"飞流影视(T4)",
       "type": 4,
-      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/duanju.php"
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/飞流影视.php"
     },
 {
       "key": "金牌影视3",
       "name":"金牌影视(T4)",
       "type": 4,
-      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/%E9%87%91%E7%89%8C.php"
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/scripts/金牌.php"
     },
     {
       "key": "骚火影视",
@@ -4417,6 +4417,7 @@
         }
     ]
 }
+
 
 
 
