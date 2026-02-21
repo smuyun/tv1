@@ -111,6 +111,7 @@
       "name": "听风｜知秋",
       "type": 3,
       "api": "csp_zhiqiu",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "searchable": 1,
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
@@ -121,6 +122,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "ext": "bB1iyOjtXWh234iOsqOpQ+DjgYRZW8TG8cxUqpxxK69Bp+glCgEE/kF5sOjSfZVtInmtaWIxfpMHTQ7tRS1J46/t6qvA/G5Vo6WHm5blH6Rh7Ev5Z9sCJDAQfJhaTFVr"
     },
     {
@@ -130,6 +132,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "ext": "pWLjYsLv1mpiSv+WqFNaIm66mYd3wj8hTGH18iQWPMOsJQb0GzUsB8gINUmUt9ktN2asJBwog2UGrTKUT2iY8NRz8qdgv5ctIC4NHKNarxWpwJPC52QcuqpdWKb8HK5mKYzOD7hj1nFrKL2gyacGOuMvUnqtIF5tWCjfnMws2K5omAGxO4lwWXOv7klFBE5q"
     },
     {
@@ -137,6 +140,7 @@
       "name": "奇奇｜APP",
       "type": 3,
       "api": "csp_AppQi",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "changeable": "1",
       "quickSearch": 1,
       "filterable": 1,
@@ -147,6 +151,7 @@
       "name": "花花｜APP",
       "type": 3,
       "api": "csp_AppQi",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "changeable": "1",
       "quickSearch": 1,
       "filterable": 1,
@@ -157,6 +162,7 @@
       "name": "爱盈｜APP",
       "type": 3,
       "api": "csp_AppQi",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
@@ -4464,6 +4470,7 @@
         }
     ]
 }
+
 
 
 
