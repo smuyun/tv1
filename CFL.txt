@@ -97,6 +97,15 @@
       },
       "timeout": 10
     },
+{
+      "key": "麒麟",
+      "name": "麒麟｜APP",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+      "type": 3,
+      "changeable": 0,
+      "api": "csp_AppFox",
+      "ext": "GvE9VjZcKAqoJldDfjF/ECcNd1RQlbzQsau0pQNOL/YWscnJYTMdB9NKsGcYtklo"
+    },
     {
       "key": "热播",
       "name": "📺热播┃App",
@@ -4399,6 +4408,7 @@
         }
     ]
 }
+
 
 
 
