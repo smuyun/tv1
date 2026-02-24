@@ -15,6 +15,15 @@
             "ext": "./lib/douban.json"
         },
 {
+      "key": "独播库[剧](JS)",
+      "name": "🟢 PeekPili[首] | 专版",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/js/peekpili.js",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1
+    },
+{
       "key": "苹果影视C",
       "name": "苹果｜影视",
       "type": 3,
@@ -4471,6 +4480,7 @@
         }
     ]
 }
+
 
 
 
