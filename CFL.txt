@@ -314,6 +314,19 @@
         "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
       }
     },
+{
+      "key": "新韩剧网",
+      "name": "新韩剧网（py）",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/新韩剧网.py",
+  "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/feimao0403.jar;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
+    },
     {
       "key": "骚火影视",
       "name": "七星🌟┃烧火影视",
@@ -4480,6 +4493,7 @@
         }
     ]
 }
+
 
 
 
