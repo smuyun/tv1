@@ -1994,6 +1994,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/xyqxbpq.jar",
       "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/PY1/神秘影院.py",
       "order_num": 5,
       "ext": ""
@@ -4470,6 +4471,7 @@
         }
     ]
 }
+
 
 
 
