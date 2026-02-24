@@ -100,7 +100,7 @@
 {
       "key": "麒麟",
       "name": "麒麟｜APP",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "type": 3,
       "changeable": 0,
       "api": "csp_AppFox",
@@ -111,7 +111,7 @@
       "name": "听风｜知秋",
       "type": 3,
       "api": "csp_zhiqiu",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "searchable": 1,
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
     },
@@ -122,7 +122,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "ext": "bB1iyOjtXWh234iOsqOpQ+DjgYRZW8TG8cxUqpxxK69Bp+glCgEE/kF5sOjSfZVtInmtaWIxfpMHTQ7tRS1J46/t6qvA/G5Vo6WHm5blH6Rh7Ev5Z9sCJDAQfJhaTFVr"
     },
     {
@@ -132,7 +132,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "ext": "pWLjYsLv1mpiSv+WqFNaIm66mYd3wj8hTGH18iQWPMOsJQb0GzUsB8gINUmUt9ktN2asJBwog2UGrTKUT2iY8NRz8qdgv5ctIC4NHKNarxWpwJPC52QcuqpdWKb8HK5mKYzOD7hj1nFrKL2gyacGOuMvUnqtIF5tWCjfnMws2K5omAGxO4lwWXOv7klFBE5q"
     },
     {
@@ -140,7 +140,7 @@
       "name": "奇奇｜APP",
       "type": 3,
       "api": "csp_AppQi",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "changeable": "1",
       "quickSearch": 1,
       "filterable": 1,
@@ -151,7 +151,7 @@
       "name": "花花｜APP",
       "type": 3,
       "api": "csp_AppQi",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "changeable": "1",
       "quickSearch": 1,
       "filterable": 1,
@@ -162,7 +162,7 @@
       "name": "爱盈｜APP",
       "type": 3,
       "api": "csp_AppQi",
-"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260221/thjI/fish02210815.png;md5;4f5c829f4dfd3567a50977cabfc6d636",
+"jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260223/mZoC/fish02231842.png;md5;4f78460c5579b6870645e8e388fedfed",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
@@ -4471,6 +4471,7 @@
         }
     ]
 }
+
 
 
 
