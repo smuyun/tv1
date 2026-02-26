@@ -3278,6 +3278,304 @@
         "ratio": 1.6
       }
     },
+{
+      "key": "74P福利图(PY)",
+      "name": "74P福利图(PY)",
+      "type": 3,
+      "api": "https://8049.kstore.space/tv/py/74P福利图.py",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "title": "74P福利图",
+      "类型": "漫画",
+      "lang": "py"
+    },
+    {
+      "key": "17AV[秘](JSON)",
+      "name": "17AV[秘](JSON)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "ext": "https://8049.kstore.space/tv/JSON/17AV.json",
+      "jar": "https://8049.kstore.space/tv/JAR/xyqxbpq.jar"
+    },
+    {
+      "key": "小黄鸟[秘](WV.JS)",
+      "name": "小黄鸟[秘](WV.JS)",
+      "type": 3,
+      "api": "csp_WvSpider",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1,
+      "ext": "https://8049.kstore.space/tv/JS/小黄鸟.wv.js",
+      "jar": "https://8049.kstore.space/PeekPili/jar/WvSpider.jar"
+    },
+    {
+      "key": "韩国情色",
+      "name": "韩国情色电影",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/py/韩国情色.py",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/yt.jar.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "GAOAA",
+      "name": "GAOAA",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/GAOAA.json",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "推特APP一",
+      "name": "Aries|推特APP",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/py/推特APP.py",
+      "order_num": 5,
+      "ext": ""
+    },
+    {
+      "key": "一个纯粹的x站",
+      "name": "Aries|一个纯粹的x站",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/一个纯粹的x站.json"
+    },
+    {
+      "key": "小姨子",
+      "name": "小姨子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
+        "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
+        "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
+      }
+    },
+    {
+      "key": "幸福加油站",
+      "name": "幸福加油站",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/yt.jar",
+      "ext": {
+        "发布地址": "557888.XYZ",
+        "请求头": "User-Agent$MOBILE_UA",
+        "主页url": "https://887808.xyz",
+        "数组": "thumb\"&&</span>",
+        "图片": "data-src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "简介": "display: none;\">&&<",
+        "链接": "href=\"&&\"",
+        "影片年代": "年份：&&</a",
+        "影片地区": "地区：&&</a",
+        "影片类型": "分类：</span>&&</span",
+        "状态": "更新：&&</p",
+        "导演": "导演：&&</p",
+        "主演": "主演：&&</p",
+        "搜索模式": "1",
+        "搜索url": "https://887808.xyz/page/{pg}/?s={wd}",
+        "分类url": "https://887808.xyz/{cateId}/page/{catePg}/;;z",
+        "分类": "91大神$91%e5%a4%a7%e7%a5%9e#FC2无码$fc2%e6%97%a0%e7%a0%81#国产传媒$%e5%9b%bd%e4%ba%a7%e4%bc%a0%e5%aa%92#国产自拍$%e5%9b%bd%e4%ba%a7%e8%87%aa%e6%8b%8d#成人动漫$chengrendongman#探花約炮$%e6%8e%a2%e8%8a%b1#无码中字$wumazhongzi#日本有码$ribenyouma#有码中字$youmazhongzi#有码二区$%e6%9c%89%e7%a0%81%e4%ba%8c%e5%8c%ba#欧美中字$%e6%ac%a7%e7%be%8e%e4%b8%ad%e5%ad%97#网曝吃瓜$%e7%bd%91%e6%9b%9d%e5%90%83%e7%93%9c#美女裸聊$%e7%be%8e%e5%a5%b3%e8%a3%b8%e8%81%8a#萝莉少女$%e8%90%9d%e8%8e%89%e5%b0%91%e5%a5%b3"
+      }
+    },
+    {
+      "key": "影片库",
+      "name": "🔞影片库🪜",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/yt.jar",
+      "ext": {
+        "站名": "影片库lugiao.top",
+        "主页url": "https://you.lugiao12.top/",
+        "分类": "国产片商$42#麻豆传媒$43#兔子先生$44#蜜桃传媒$45#精东影业$46#天美传媒$47#星空无限$48#果冻传媒$49#葫芦影业$50#杏吧传媒$51#扣扣传媒$53#SA国际传媒$54#起点传媒$55#中文字幕$56#精品素人$57#高清无码$58#日本有码$59#怀旧AV$60#VR专区$61#AV解说$62#SWAG$63#国产精品$64#网曝门事件$77#国产探花$65#JVID$66#绿帽淫妻$67#国产乱伦$68#美女主播$69#明星淫梦$70#香港三级$71#性世界$73#欧美专区$83#TS人妖$84#日本乱伦$86#精品动漫$74",
+        "分类url": "https://you.lugiao12.top/27wt/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "Aries",
+      "name": "㊙️Aries",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "style": {
+        "ratio": 1.43
+      },
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/Aries.json"
+    },
+    {
+      "key": "魔法少女1",
+      "name": "魔法少女1",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "作者": "魔法少女",
+        "站名": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://6181006.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "FC2$9#中文$7#无码$8#国产$6#国S-CUTE$11#PREST$12#GANA$26#一本道$10#国播$61#LUXU$27#HeyZo$28#人妻斩$60#韩播$62",
+        "数组": "vodbox\"&&</a>",
+        "标题": "多吃枸杞啊",
+        "副标题": "🍵",
+        "图片": "data-original=\"&&\"",
+        "播放链接": "https://6181006.xyz/html/abou.html?url=&&",
+        "直接播放": 1,
+        "搜索url": "https://6181006.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "魔法少女2",
+      "name": "魔法少女2",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "作者": "魔法少女",
+        "站名": "",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "分类": "国产AV$37#探花AV$43#黑料吃瓜$24#网黄UP主$40#绿帽淫妻$49#国产传媒$44#福利姬$41#字幕$39#水果π$45#主播直播$42#欧美$38#FC2$66#性爱教学$46#三级$48#动漫$47",
+        "数组": "thumbnail\"&&<li",
+        "标题": "多吃枸杞啊",
+        "副标题": "🍵",
+        "图片": "data-original=\"&&\"",
+        "链接": "?v=&&\\&",
+        "嗅探词": ".m3u8",
+        "直接播放": 1,
+        "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+      }
+    },
+    {
+      "key": "色岛",
+      "name": "㊙️色岛",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "style": {
+        "ratio": 1.43
+      },
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/色岛.json"
+    },
+    {
+      "key": "游击队",
+      "name": "游击队",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
+        "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
+      }
+    },
+    {
+      "key": "222cou",
+      "name": "222cou",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "http://224cuo.com/",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "跳转播放链接": "var playUrl=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "分类url": "http://224cuo.com/{cateId}/list_{catePg}.html;;RC",
+        "分类": "亚洲AV$yazhouav#自拍偷拍$zipaitoupai#欧美AV$oumeiav#3D动画$3ddonghua#熟女人妻$shunvrenqi#丝袜制服$siwazhifu#主播直播$zhubozhibo#SM另类$smlinglei#亚洲性爱$yazhouxingai#偷拍自拍$toupaizipai#成人卡通$chengrenkatong#欧美性爱$oumeixingai#制服丝袜$zhifusiwa#经典三级$sanjijingdian#乱伦熟女$luanlunshunv#另类变态$lingleibiantai"
+      }
+    },
+    {
+      "key": "色花堂",
+      "name": "🔞色花堂",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 1,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/色花堂1.json"
+    },
+    {
+      "key": "XMVideo一",
+      "name": "🔞熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "filterable": 1,
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/182.jar"
+    },
+    {
+      "key": "csp_XYQHiker_亚色影库",
+      "name": "🔞亚色影库",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/yt.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/亚色影库.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.8
+      }
+    },
+    {
+      "key": "csp_XYQHiker_朱古力",
+      "name": "🔞朱古力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/yt.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/朱古力.json",
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      }
+    },
+    {
+      "key": "采集集合",
+      "name": "采集集合",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 2,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/js/采集集合.js?type=url&params=https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/json/采集集合.json",
+      "by": "current"
+    },
     {
       "key": "玉兔资源",
       "name": "玉兔资源",
@@ -4493,6 +4791,7 @@
         }
     ]
 }
+
 
 
 
