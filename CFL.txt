@@ -3546,7 +3546,7 @@
       "name": "🔞亚色影库",
       "type": 3,
       "api": "csp_XYQHiker",
-      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/yt.jar",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/yt.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -4798,6 +4798,7 @@
         }
     ]
 }
+
 
 
 
