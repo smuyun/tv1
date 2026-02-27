@@ -3539,7 +3539,7 @@
       "name": "🔞熊猫视频┃珍惜",
       "type": 3,
       "api": "csp_XMVideo",
-      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv/refs/heads/main/jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485"
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/jav.jar;md5;8d592f6d2d1434ea5ec8506b56265485"
     },
     {
       "key": "csp_XYQHiker_亚色影库",
@@ -4798,6 +4798,7 @@
         }
     ]
 }
+
 
 
 
