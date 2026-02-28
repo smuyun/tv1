@@ -4013,14 +4013,6 @@
       }
     },
     {
-      "name": "J芒果4k",
-      "url": "http://mg.itufm.top/mg.php?url=",
-      "type": 1,
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    },
-    {
       "name": "J腾讯关姐",
       "url": "http://127.0.0.1:5759/tencent.php/?url=",
       "type": 1,
@@ -4943,6 +4935,7 @@
     ]
 }
     
+
 
 
 
