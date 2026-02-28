@@ -3981,7 +3981,7 @@
         }
     ],
     "parses": [
-        {
+         {
             "name": "超嗅探",
             "type": 3,
             "url": "Web"
@@ -4138,7 +4138,8 @@
       "type": 0,
       "header": {
         "User-Agent": "Mozilla/5.0"
-      },
+      }
+    },
         {
             "name": "4K解析",
             "type": 1,
@@ -4794,7 +4795,7 @@
       {
          "name": "mfc-live",
          "type": 0,
-         "url": "https://8049.kstore.space/tv/PHP/mfc-server.php?list"
+         "url": "http://127.0.0.1:9980/mfc-server.php?list"
  },
       {
             "name": "成人传媒",
@@ -4941,8 +4942,7 @@
         }
     ]
 }
-
-
+    
 
 
 
