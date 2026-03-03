@@ -23,19 +23,6 @@
       "filterable": 1,
       "switchable": 1
     },
-    {
-      "key": "drpyS_央视大全[官]",
-      "name": "央视大全[官](DS)",
-      "type": 4,
-      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/spider/js/央视大全[官].js",
-"jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/public/jar/custom_spider.jar;md5;cc3b3d2ddf389338b62eccd4a938b610",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "title": "央视大全[官]",
-      "lang": "ds",
-      "ext": ""
-    },
 {
       "key": "drpyS_央视大全[官]",
       "name": "央视大全[官](DS)",
@@ -4959,6 +4946,7 @@
     ]
 }
     
+
 
 
 
