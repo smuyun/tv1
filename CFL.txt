@@ -27,14 +27,14 @@
       "key": "drpy2_百忙无果[官]",
       "name": "百忙无果[官](DR2)",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/public/drpy/drpy2.min.js",
+        "api": "http://127.0.0.1:5757/public/drpy/drpy2.min.js",
 "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/public/jar/custom_spider.jar;md5;cc3b3d2ddf389338b62eccd4a938b610",
       "searchable": 2,
       "filterable": 1,
       "quickSearch": 0,
       "title": "百忙无果[官]",
       "lang": "dr2",
-      "ext": "https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/spider/js/百忙无果[官].js"
+       "ext": "http://127.0.0.1:5757/js/百忙无果[官].js?pwd=dzyyds"
     },
 {
       "key": "苹果影视C",
@@ -4948,6 +4948,7 @@
     ]
 }
     
+
 
 
 
