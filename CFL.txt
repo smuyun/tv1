@@ -27,7 +27,7 @@
       "key": "drpyS_央视大全[官]",
       "name": "央视大全[官](DS)",
       "type": 4,
-      "api": "http://127.0.0.1:5757/api/央视大全[官]?pwd=dzyyds",
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/spider/js/央视大全[官].js",
 "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/public/jar/custom_spider.jar;md5;cc3b3d2ddf389338b62eccd4a938b610",
       "searchable": 1,
       "filterable": 1,
@@ -4948,6 +4948,7 @@
     ]
 }
     
+
 
 
 
