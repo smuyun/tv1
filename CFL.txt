@@ -37,6 +37,17 @@
       "ext": ""
     },
 {
+      "key": "drpyS_央视大全[官]",
+      "name": "央视大全[官](DS)",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/public/drpy/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/spider/js/央视大全[官].js"
+    },
+{
       "key": "苹果影视C",
       "name": "苹果｜影视",
       "type": 3,
@@ -4948,6 +4959,7 @@
     ]
 }
     
+
 
 
 
