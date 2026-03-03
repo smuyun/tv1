@@ -24,6 +24,15 @@
       "switchable": 1
     },
 {
+      "key": "央视大全[官](JS)",
+      "name": "央视大全[官]",
+      "type": 3,
+      "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/drpy-node/refs/heads/main/spider/js/央视大全[官].js",
+      "searchable": 1,
+      "filterable": 1,
+      "switchable": 1
+    },
+{
       "key": "苹果影视C",
       "name": "苹果｜影视",
       "type": 3,
@@ -4935,6 +4944,7 @@
     ]
 }
     
+
 
 
 
