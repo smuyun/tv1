@@ -88,6 +88,405 @@
       "timeout": 10
     },
     {
+      "key": "麒麟8",
+      "name": "麒麟｜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "host": "https://qh.70qh.top",
+        "ver": 2
+      }
+    },
+    {
+      "key": "热播影视8",
+      "name": "热播｜APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "韩圈8",
+      "name": "韩圈｜APP",
+      "type": 3,
+      "api": "csp_Hxq",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
+    },
+    {
+      "key": "奴娜8",
+      "name": "奴娜丨APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.nntv.in/api.php/v1.vod"
+    },
+    {
+      "key": "闪影8",
+      "name": "闪影｜APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "奇奇8",
+      "name": "奇奇｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://110.42.67.221:8009",
+        "dataKey": "123456789abcdefg",
+        "dataIv": "123456789abcdefg",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "老鹰8",
+      "name": "老鹰｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://maotouyinghubei.oss-cn-wuhan-lr.aliyuncs.com/maotouyinghb.txt",
+        "dataKey": "zxPtEUDGVllIUhDB",
+        "dataIv": "zxPtEUDGVllIUhDB",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "顾我8",
+      "name": "顾我｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://117.50.204.35:520",
+        "dataKey": "ca94b06ca3c7d80e",
+        "dataIv": "ca94b06ca3c7d80e",
+        "search": "gftvvvvklod",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "爱盈8",
+      "name": "爱盈｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
+        "dataKey": "sjvlwnhk6h9znl61",
+        "dataIv": "sjvlwnhk6h9znl61",
+        "version": "305",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "爱影8",
+      "name": "爱影｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt",
+        "dataKey": "fff32466kkfff616",
+        "dataIv": "fff32466kkfff616",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "小猪8",
+      "name": "小猪｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
+        "dataKey": "k5t2fp3h9d25hn9y",
+        "dataIv": "k5t2fp3h9d25hn9y",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "金牌8",
+      "name": "金牌｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://dtqj.ggtvb.cc/dtjp.txt",
+        "dataKey": "eecbio48dsq131ee",
+        "dataIv": "eecbio48dsq131ee",
+        "search": "searchList4",
+        "version": "305",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "鲸鱼8",
+      "name": "鲸鱼｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/juyu3.json",
+        "dataKey": "AAdgrdghjfgsABC1",
+        "dataIv": "AAdgrdghjfgsABC1",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "橘子8",
+      "name": "橘子｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
+        "dataKey": "jasaFBcdV3zrUDf2",
+        "dataIv": "jasaFBcdV3zrUDf2",
+        "version": "305",
+        "init": "initV122",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "优兔8",
+      "name": "优兔｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+        "dataKey": "UrWKPnmQWJA8AQzd",
+        "dataIv": "UrWKPnmQWJA8AQzd",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "蓝鹰8",
+      "name": "蓝鹰｜APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+        "dataKey": "ca94b06ca359d80e",
+        "dataIv": "ca94b06ca359d80e",
+        "init": "initV120",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "段友8",
+      "name": "段友｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://shangjihuoke.com",
+        "dataKey": "8E2DC386FD452D05",
+        "dataIv": "8E2DC386FD452D05"
+      }
+    },
+    {
+      "key": "黑猫8",
+      "name": "黑猫｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa"
+      }
+    },
+    {
+      "key": "灵虎8",
+      "name": "灵虎｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://bind.315999.xyz/89.txt",
+        "dataKey": "#getapp@TMD@2025",
+        "dataIv": "#getapp@TMD@2025"
+      }
+    },
+    {
+      "key": "驿站8",
+      "name": "驿站｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
+        "dataKey": "dyyztvapiappyyds",
+        "dataIv": "dyyztvapiappyyds"
+      }
+    },
+    {
+      "key": "缘梦8",
+      "name": "缘梦｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://165.99.42.137:5432",
+        "dataKey": "1234567890987654",
+        "dataIv": "1234567890987654",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "小羊8",
+      "name": "小羊｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "ext": {
+        "site": "https://xy4k.com/url.txt",
+        "dataKey": "7SDWjknU34zqFbVr",
+        "dataIv": "7SDWjknU34zqFbVr"
+      }
+    },
+    {
+      "key": "七壹8",
+      "name": "七壹｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://qiyiys.cc",
+        "dataKey": "45452893929B40D9",
+        "dataIv": "45452893929B40D9"
+      }
+    },
+    {
+      "key": "王子8",
+      "name": "王子｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://app.95112475.xyz",
+        "dataKey": "5a9w6x58dsq6z3a6",
+        "dataIv": "5a9w6x58dsq6z3a6"
+      }
+    },
+    {
+      "key": "小猫8",
+      "name": "小猫｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt",
+        "dataKey": "xmyxmyxywlkjxywl",
+        "dataIv": "xmyxmyxywlkjxywl"
+      }
+    },
+    {
+      "key": "魔方8",
+      "name": "魔方｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://www.613mf4k12.top",
+        "dataKey": "1234567887654321",
+        "dataIv": "1234567887654321"
+      }
+    },
+    {
+      "key": "瑞奇8",
+      "name": "瑞奇｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "http://rqxk.gdata.fun",
+        "dataKey": "yangruiqiYsapp00",
+        "dataIv": "yangruiqiYsapp00"
+      }
+    },
+    {
+      "key": "茉莉8",
+      "name": "茉莉｜APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/smuyun/tv1/refs/heads/main/jar/spider.jar;md5;8674125c03034720e0866c52ceacad45",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
+    },
+    {
       "key": "热播",
       "name": "📺热播┃App",
       "type": 3,
@@ -5321,4 +5720,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
